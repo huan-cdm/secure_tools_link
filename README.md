@@ -29,12 +29,14 @@
 - [Struts2-Scan](https://github.com/HatBoy/Struts2-Scan)：Struts2漏洞利用扫描工具。
 - [WeblogicScan](https://github.com/rabbitmask/WeblogicScan)：Weblogic一键漏洞检测工具。
 - [fastjson_rec_exploit](https://github.com/mrknow001/fastjson_rec_exploit)：fastjson一键漏洞检测工具。
+- [ShiroAttack2](https://github.com/SummerSec/ShiroAttack2)：一款针对Shiro550漏洞进行快速漏洞利用工具。
 - [dddd](https://github.com/SleepingBag945/dddd)：信息收集和漏洞扫描工具。
 - [fscan](https://github.com/shadow1ng/fscan)：一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
 支持主机存活探测、端口扫描、常见服务的爆破、ms17010、redis批量写公钥、计划任务反弹shell、读取win网卡信息、web指纹识别、web漏洞扫描、netbios探测、域控识别等功能。
 - [xray](https://github.com/chaitin/xray)：一款功能强大的安全评估工具。
 - [rad](https://github.com/chaitin/rad)：一款专为安全扫描而生的浏览器爬虫。
 - [goby](https://gobysec.net/)：综合漏洞扫描工具。
+- [oracleShell](https://github.com/jas502n/oracleShell)：oracleShell oracle 数据库命令执行、支持普通、DBA、注入3种模式。
 
 
 ##### 信息收集工具汇总
@@ -51,6 +53,7 @@
 ##### APP安全测试工具汇总
 - [apk2url](https://github.com/n0mi1k/apk2url)：提取apk中的IP和URL。
 - [drozer](https://github.com/WithSecureLabs/drozer/)：drozer是一款针对Android系统的安全测试框架。
+- [Yaazhini](https://www.vegabird.com/yaazhini/)：Yaazhini是一款针对Android APK和API的免费漏洞扫描工具，这款工具提供了用户友好的操作界面，广大移动端安全研究人员可以在Yaazhini的帮助下，轻松扫描任何Android应用程序的APK文件以及API接口，而且Yaazhini还会给你提供非常丰富的扫描结果数据。
 
 
 ##### 火狐浏览器插件汇总（扩展和主题->插件->输入对应名字进行搜索->添加插件）
@@ -60,6 +63,12 @@
 - [HackTools](https://addons.mozilla.org/zh-CN/firefox/search/?q=Hack-Tools)：Hacktools，是一个方便您的web应用程序渗透测试的web扩展，它包括小抄以及测试期间使用的所有工具，如XSS有效载荷，反向shell来测试您的web应用程序。
 - [superSearchPlus](https://addons.mozilla.org/zh-CN/firefox/search/?q=SuperSearchPlus)：superSearchPlus是聚合型信息收集插件，支持综合查询，资产测绘查询，信息收集 整合了目前常见的资产测绘平台 同时支持数据导出。
 - [Shodan](https://addons.mozilla.org/zh-CN/firefox/search/?q=shodan)：通过插件查看IP Address、Hostname、Open Ports、Tags。
+- [Ctool](https://addons.mozilla.org/zh-CN/firefox/addon/ctool/)：程序日常开发常用小工具集合,提供哈希/加解密/编码转换/时间戳/二维码/拼音/IP查询/代码优化/Unicode/正则等多种工具。
+
+
+
+##### 暴力破解字典汇总
+- [fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts)：暴力破解字典。
 
 
 
