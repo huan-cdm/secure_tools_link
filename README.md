@@ -57,4 +57,10 @@
 - [Wappalyzer](https://addons.mozilla.org/zh-CN/firefox/search/?q=Wappalyzer)：网站指纹识别。
 - [FindSomething](https://addons.mozilla.org/zh-CN/firefox/search/?q=FindSomething)：用于快速在网页的html源码或js代码中提取一些有趣的信息，包括可能请求的资源、接口的url，可能请求的ip和域名，泄漏的证件号、手机号、邮箱等信息。
 - [FoxyProxy Standard](https://addons.mozilla.org/zh-CN/firefox/search/?q=FoxyProxy%20Standard)：FoxyProxy是一个高级的代理管理工具。
+- [HackTools](https://addons.mozilla.org/zh-CN/firefox/search/?q=Hack-Tools)：Hacktools，是一个方便您的web应用程序渗透测试的web扩展，它包括小抄以及测试期间使用的所有工具，如XSS有效载荷，反向shell来测试您的web应用程序。
+- [superSearchPlus](https://addons.mozilla.org/zh-CN/firefox/search/?q=SuperSearchPlus)：superSearchPlus是聚合型信息收集插件，支持综合查询，资产测绘查询，信息收集 整合了目前常见的资产测绘平台 同时支持数据导出。
+- [Shodan](https://addons.mozilla.org/zh-CN/firefox/search/?q=shodan)：通过插件查看IP Address、Hostname、Open Ports、Tags。
+
+
+
 -**持续更新中**
