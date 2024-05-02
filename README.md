@@ -34,6 +34,7 @@
 支持主机存活探测、端口扫描、常见服务的爆破、ms17010、redis批量写公钥、计划任务反弹shell、读取win网卡信息、web指纹识别、web漏洞扫描、netbios探测、域控识别等功能。
 - [xray](https://github.com/chaitin/xray)：一款功能强大的安全评估工具。
 - [rad](https://github.com/chaitin/rad)：一款专为安全扫描而生的浏览器爬虫。
+- [goby](https://gobysec.net/)：综合漏洞扫描工具。
 
 
 ##### 信息收集工具汇总
@@ -51,4 +52,9 @@
 - [apk2url](https://github.com/n0mi1k/apk2url)：提取apk中的IP和URL。
 - [drozer](https://github.com/WithSecureLabs/drozer/)：drozer是一款针对Android系统的安全测试框架。
 
+
+##### 火狐浏览器插件汇总（扩展和主题->插件->输入对应名字进行搜索->添加插件）
+- [Wappalyzer](https://addons.mozilla.org/zh-CN/firefox/search/?q=Wappalyzer)：网站指纹识别。
+- [FindSomething](https://addons.mozilla.org/zh-CN/firefox/search/?q=FindSomething)：用于快速在网页的html源码或js代码中提取一些有趣的信息，包括可能请求的资源、接口的url，可能请求的ip和域名，泄漏的证件号、手机号、邮箱等信息。
+- [FoxyProxy Standard](https://addons.mozilla.org/zh-CN/firefox/search/?q=FoxyProxy%20Standard)：FoxyProxy是一个高级的代理管理工具。
 -**持续更新中**
