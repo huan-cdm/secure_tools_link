@@ -37,6 +37,7 @@
 - [rad](https://github.com/chaitin/rad)：一款专为安全扫描而生的浏览器爬虫。
 - [goby](https://gobysec.net/)：综合漏洞扫描工具。
 - [oracleShell](https://github.com/jas502n/oracleShell)：oracleShell oracle 数据库命令执行、支持普通、DBA、注入3种模式。
+- [nuclei](https://github.com/projectdiscovery/nuclei)：Nuclei 用于基于模板跨目标发送请求，从而实现零误报并提供对大量主机的快速扫描。Nuclei 提供对各种协议的扫描，包括 TCP、DNS、HTTP、SSL、File、Whois、Websocket、Headless 等。凭借强大而灵活的模板，Nuclei 可用于对各种安全检查进行建模。
 
 
 ##### 信息收集工具汇总
