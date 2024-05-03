@@ -38,6 +38,7 @@
 - [goby](https://gobysec.net/)：综合漏洞扫描工具。
 - [oracleShell](https://github.com/jas502n/oracleShell)：oracleShell oracle 数据库命令执行、支持普通、DBA、注入3种模式。
 - [nuclei](https://github.com/projectdiscovery/nuclei)：Nuclei 用于基于模板跨目标发送请求，从而实现零误报并提供对大量主机的快速扫描。Nuclei 提供对各种协议的扫描，包括 TCP、DNS、HTTP、SSL、File、Whois、Websocket、Headless 等。凭借强大而灵活的模板，Nuclei 可用于对各种安全检查进行建模。
+- [SNETCracker](https://github.com/shack2/SNETCracker)：超级弱口令检查工具是一款Windows平台的弱口令审计工具，工具目前支持SSH、RDP、SMB、MySQL、SQLServer、Oracle、FTP、MongoDB、Memcached、PostgreSQL、Telnet、SMTP、SMTP_SSL、POP3、POP3_SSL、IMAP、IMAP_SSL、SVN、VNC、Redis等服务的弱口令检查工作。
 
 
 ##### 信息收集工具汇总
@@ -83,6 +84,13 @@
 
 ##### 暴力破解字典汇总
 - [fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts)：暴力破解字典。
+
+
+##### webshell管理工具汇总
+- [Behinder](https://github.com/rebeyond/Behinder)：冰蝎动态二进制加密网站管理客户端。
+- [Godzilla](https://github.com/BeichenDream/Godzilla)：哥斯拉websheell管理客户端。
+- [antSword](https://github.com/AntSwordProject/antSword)：中国蚁剑是一款跨平台的开源网站管理工具。
+- [caidao](https://github.com/raddyfiy/caidao-official-version)：中国菜刀官方版本。
 
 
 ##### 靶场汇总
