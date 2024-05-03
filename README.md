@@ -53,6 +53,17 @@
 - [Search_Viewer](https://github.com/G3et/Search_Viewer)：网络空间搜索引擎客户端，目前支持fofa、shodan、hunter、quake、zoomeye。
 
 
+##### 溯源相关汇总
+- [IP位置查询](https://ip.sy/)：IP定位查询。
+- [域名备案查询](https://icp.chinaz.com/krev.com)：域名备案查询。
+- [情报社区](https://x.threatbook.com/)：微步在线X情报社区。
+- [REG007](https://www.reg007.com/)：通过手机号和邮箱查询注册过哪些网站。
+- [注册宝](http://www.regbao.com/)：通过手机号和邮箱查询注册过哪些网站。
+- [Privacy](https://privacy.aiuys.com/)：免费社工库（需翻墙访问）。
+- [ip138](https://site.ip138.com/ip138.ip/)：IP反查域名。
+- [whois](http://whois.bugscaner.com/)：域名whois查询。
+- [chaipip](https://www.chaipip.com/aiwen.html)：埃文科技IP定位查询。
+
 
 ##### APP安全测试工具汇总
 - [apk2url](https://github.com/n0mi1k/apk2url)：提取apk中的IP和URL。
@@ -83,6 +94,7 @@
 - [FOFA](https://fofa.info/)：网络空间搜索平台。
 - [HUNTER](https://hunter.qianxin.com/)：网络空间搜索平台。
 - [binaryedge](https://app.binaryedge.io/login)：网络空间搜索平台。
+- [shodan](https://www.shodan.io/)：网络空间搜索平台。
 
 
 ##### 博客文库汇总
