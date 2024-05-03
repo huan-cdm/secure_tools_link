@@ -69,10 +69,20 @@
 - [Ctool](https://addons.mozilla.org/zh-CN/firefox/addon/ctool/)：程序日常开发常用小工具集合,提供哈希/加解密/编码转换/时间戳/二维码/拼音/IP查询/代码优化/Unicode/正则等多种工具。
 
 
-
 ##### 暴力破解字典汇总
 - [fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts)：暴力破解字典。
 
 
+##### 博客文库汇总
+- [乌云](https://wy.zone.ci/bugs.php)：博客和文库整理。
+- [先知社区](https://xz.aliyun.com/)：博客和文库整理。
+- [PeiQi文库](https://peiqi.wgpsec.org/)：博客和文库整理。
+- [Track 安全社区](https://bbs.zkaq.cn/)：博客和文库整理。
+- [freebuf](https://www.freebuf.com/)：博客和文库整理。
+- [离别歌](https://www.leavesongs.com/)：博客和文库整理。
+- [Web安全学习笔记](https://www.bookstack.cn/read/LyleMi-Learn-Web-Hacking/81ab7f9e9d252390.md)：博客和文库整理。
+- [内网相关](https://www.chabug.org/web/1263)：博客和文库整理。
+- [应急响应](https://github.com/Bypass007/Emergency-Response-Notes)：博客和文库整理。
+- [公众号文章](http://www.nmd5.com/test/index.php#)：博客和文库整理。
 
 -**持续更新中**
