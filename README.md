@@ -54,9 +54,11 @@
 - [masscan](https://github.com/robertdavidgraham/masscan)：Masscan是一个高速的端口扫描工具,可以在数秒内扫描大量主机和端口。它使用异步套接字和线程,支持IPv4和IPv6网络,并且可以配置多个端口扫描选项。
 - [httpx](https://github.com/projectdiscovery/httpx)：httpx 是一个go语言开发的快速且多用途的 HTTP 工具包，允许使用 retryablehttp 库运行多个探测器。可以获取url的状态，title，jarm等信息，也可以对网站截图。
 - [Search_Viewer](https://github.com/G3et/Search_Viewer)：网络空间搜索引擎客户端，目前支持fofa、shodan、hunter、quake、zoomeye。
+- [fofa_viewer](https://github.com/wgpsec/fofa_viewer)：Fofa Viewer 是一个用 JavaFX 编写的用户友好的 FOFA 客户端。
 - [TideFinger](https://github.com/TideSec/TideFinger)：TideFinger——指纹识别小工具，汲取整合了多个web指纹库，结合了多种指纹检测方法，让指纹检测更快捷、准确。
 - [Github-Monitor](https://github.com/VKSRC/Github-Monitor)：监控Github代码仓库的系统。
 - [Hawkeye](https://github.com/0xbug/Hawkeye)：监控github代码库，及时发现员工托管公司代码到GitHub行为并预警，降低代码泄露风险。
+- [BBScan](https://github.com/lijiejie/BBScan)：BBScan 是一个高并发、轻量级的信息泄露扫描工具。
 
 
 ##### 溯源相关汇总
