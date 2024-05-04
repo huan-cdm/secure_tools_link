@@ -73,6 +73,7 @@
 - [ip138](https://site.ip138.com/ip138.ip/)：IP反查域名。
 - [whois](http://whois.bugscaner.com/)：域名whois查询。
 - [chaipip](https://www.chaipip.com/aiwen.html)：埃文科技IP定位查询。
+- [wireshark](https://www.wireshark.org/)：数据包分析工具。
 
 
 ##### APP安全测试工具汇总
@@ -85,6 +86,7 @@
 - [Charles破解](https://www.zzzmode.com/mytools/charles/)：charles在线激活网站。
 - [Postern](https://pan.baidu.com/s/19FRlASE-v5iCinyYGxoudQ?pwd=bbwt)：Android代理客户端，和Charles、BurpSuite配合使用。
 - [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)：APP漏洞扫描平台。
+- [jadx-gui](https://github.com/skylot/jadx)：apk反编译工具。
 
 
 ##### 小程序安全测试工具汇总
@@ -151,5 +153,7 @@
 
 ##### 安全加固汇总
 - [jshaman](http://jshaman.com/)：JavaScript源代码混淆加密 - JS混淆、JS加密。
+
+
 
 -**持续更新中**
