@@ -61,6 +61,7 @@
 - [Github-Monitor](https://github.com/VKSRC/Github-Monitor)：监控Github代码仓库的系统。
 - [Hawkeye](https://github.com/0xbug/Hawkeye)：监控github代码库，及时发现员工托管公司代码到GitHub行为并预警，降低代码泄露风险。
 - [BBScan](https://github.com/lijiejie/BBScan)：BBScan 是一个高并发、轻量级的信息泄露扫描工具。
+- [GitHack](https://github.com/lijiejie/GitHack)：GitHack是一个.git泄露利用脚本，通过泄露的.git文件夹下的文件，重建还原工程源代码。
 
 
 ##### 溯源相关汇总
