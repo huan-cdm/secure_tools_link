@@ -82,6 +82,7 @@
 - [AndroidKiller](https://pan.baidu.com/s/1yYlky-I1QQQrjHbVEz0N7Q?pwd=gvxg)：Android逆向工具。
 - [夜神模拟器](https://pan.baidu.com/s/1bvBLA2tRqILjzBGvglF_XQ?pwd=1ncq)：夜神模拟器v6.6.1.1版本。
 - [Charles](https://www.charlesproxy.com/latest-release/download.do)：APP网络层抓包工具，和Postern、BurpSuite配合使用。
+- [Charles破解](https://www.zzzmode.com/mytools/charles/)：charles在线激活网站。
 - [Postern](https://pan.baidu.com/s/19FRlASE-v5iCinyYGxoudQ?pwd=bbwt)：Android代理客户端，和Charles、BurpSuite配合使用。
 - [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)：APP漏洞扫描平台。
 
