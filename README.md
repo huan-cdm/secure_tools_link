@@ -79,6 +79,11 @@
 - [Yaazhini](https://www.vegabird.com/yaazhini/)：Yaazhini是一款针对Android APK和API的免费漏洞扫描工具，这款工具提供了用户友好的操作界面，广大移动端安全研究人员可以在Yaazhini的帮助下，轻松扫描任何Android应用程序的APK文件以及API接口，而且Yaazhini还会给你提供非常丰富的扫描结果数据。
 
 
+##### 小程序安全测试工具汇总
+- [PC微信小程序一键解密](https://github.com/huan-cdm/Wechat-small-program-decompile)：PC微信小程序一键解密，PC微信小程序需先利用UnpackMiniApp.exe解密在进行反编译。
+- [WxAppUnpacker](https://github.com/huan-cdm/Wechat-small-program-decompile)：微信小程序反编译工具。
+
+
 ##### 火狐浏览器插件汇总（扩展和主题->插件->输入对应名字进行搜索->添加插件）
 - [Wappalyzer](https://addons.mozilla.org/zh-CN/firefox/search/?q=Wappalyzer)：网站指纹识别。
 - [FindSomething](https://addons.mozilla.org/zh-CN/firefox/search/?q=FindSomething)：用于快速在网页的html源码或js代码中提取一些有趣的信息，包括可能请求的资源、接口的url，可能请求的ip和域名，泄漏的证件号、手机号、邮箱等信息。
