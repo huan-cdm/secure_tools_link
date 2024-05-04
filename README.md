@@ -62,6 +62,7 @@
 - [Hawkeye](https://github.com/0xbug/Hawkeye)：监控github代码库，及时发现员工托管公司代码到GitHub行为并预警，降低代码泄露风险。
 - [BBScan](https://github.com/lijiejie/BBScan)：BBScan 是一个高并发、轻量级的信息泄露扫描工具。
 - [GitHack](https://github.com/lijiejie/GitHack)：GitHack是一个.git泄露利用脚本，通过泄露的.git文件夹下的文件，重建还原工程源代码。
+- [ds_store_exp](https://github.com/lijiejie/ds_store_exp)：ds_store_exp是一个 .DS_Store 文件泄漏利用脚本，它解析.DS_Store文件并递归地下载文件到本地。
 
 
 ##### 溯源相关汇总
@@ -150,6 +151,7 @@
 ##### 科学上网汇总
 - [GW树洞](https://helloshudong.com/)：科学上网。
 - [一元机场](https://xn--4gq62f52gdss.com/#/login)：科学上网。
+- [代理池轮切](https://github.com/akkuman/rotateproxy)：利用fofa搜索socks5开放代理进行代理池轮切的工具。
 
 
 ##### 安全加固汇总
