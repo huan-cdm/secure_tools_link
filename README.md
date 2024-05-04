@@ -26,6 +26,7 @@
 
 
 ##### 漏洞扫描工具汇总
+- [BurpSuite](https://pan.baidu.com/s/1fG_2tTDbaGUjkk3Br_puSg?pwd=vvkm)：代理抓包工具。
 - [Struts2-Scan](https://github.com/HatBoy/Struts2-Scan)：Struts2漏洞利用扫描工具。
 - [WeblogicScan](https://github.com/rabbitmask/WeblogicScan)：Weblogic一键漏洞检测工具。
 - [fastjson_rec_exploit](https://github.com/mrknow001/fastjson_rec_exploit)：fastjson一键漏洞检测工具。
@@ -41,6 +42,7 @@
 - [SNETCracker](https://github.com/shack2/SNETCracker)：超级弱口令检查工具是一款Windows平台的弱口令审计工具，工具目前支持SSH、RDP、SMB、MySQL、SQLServer、Oracle、FTP、MongoDB、Memcached、PostgreSQL、Telnet、SMTP、SMTP_SSL、POP3、POP3_SSL、IMAP、IMAP_SSL、SVN、VNC、Redis等服务的弱口令检查工作。
 - [nessus](https://mp.weixin.qq.com/s/JnIQL8FeYcqWR4zES56K_g)：综合漏洞扫描工具。
 - [awvs](https://mp.weixin.qq.com/s/IclMKi0mZj75gbntntat8A)：综合漏洞扫描工具。
+- [scan4all](https://github.com/GhostTroops/scan4all)：综合漏洞扫描工具。
 
 
 ##### 信息收集工具汇总
@@ -77,11 +79,18 @@
 - [apk2url](https://github.com/n0mi1k/apk2url)：提取apk中的IP和URL。
 - [drozer](https://github.com/WithSecureLabs/drozer/)：drozer是一款针对Android系统的安全测试框架。
 - [Yaazhini](https://www.vegabird.com/yaazhini/)：Yaazhini是一款针对Android APK和API的免费漏洞扫描工具，这款工具提供了用户友好的操作界面，广大移动端安全研究人员可以在Yaazhini的帮助下，轻松扫描任何Android应用程序的APK文件以及API接口，而且Yaazhini还会给你提供非常丰富的扫描结果数据。
+- [AndroidKiller](https://pan.baidu.com/s/1yYlky-I1QQQrjHbVEz0N7Q?pwd=gvxg)：Android逆向工具。
+- [夜神模拟器](https://pan.baidu.com/s/1bvBLA2tRqILjzBGvglF_XQ?pwd=1ncq)：夜神模拟器v6.6.1.1版本。
+- [Charles](https://www.charlesproxy.com/latest-release/download.do)：APP网络层抓包工具，和Postern、BurpSuite配合使用。
+- [Postern](https://pan.baidu.com/s/19FRlASE-v5iCinyYGxoudQ?pwd=bbwt)：Android代理客户端，和Charles、BurpSuite配合使用。
+- [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)：APP漏洞扫描平台。
 
 
 ##### 小程序安全测试工具汇总
 - [PC微信小程序一键解密](https://github.com/huan-cdm/Wechat-small-program-decompile)：PC微信小程序一键解密，PC微信小程序需先利用UnpackMiniApp.exe解密在进行反编译。
 - [WxAppUnpacker](https://github.com/huan-cdm/Wechat-small-program-decompile)：微信小程序反编译工具。
+- [微信开发者工具](https://developers.weixin.qq.com/miniprogram/dev/devtools/stable.html)：微信开发者工具调试微信小程序。
+- [Proxifier](https://pan.baidu.com/s/1UHF_KsOqJpsY2P8-uHauoA?pwd=8hk9)：微信小程序抓包用到的代理客户端。
 
 
 ##### 火狐浏览器插件汇总（扩展和主题->插件->输入对应名字进行搜索->添加插件）
