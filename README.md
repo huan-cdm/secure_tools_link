@@ -117,7 +117,9 @@
 ##### 靶场汇总
 - [Vulhub](https://vulhub.org/)：Vulhub是一个基于docker和docker-compose的漏洞环境集合，进入对应目录并执行一条语句即可启动一个全新的漏洞环境，让漏洞复现变得更加简单，让安全研究者更加专注于漏洞原理本身。
 - [pikachu](https://github.com/zhuifengshaonianhanlu/pikachu)：Pikachu是一个带有漏洞的Web应用系统，在这里包含了常见的web安全漏洞。 如果你是一个Web渗透测试学习人员且正发愁没有合适的靶场进行练习，那么Pikachu可能正合你意。
-- [dwva](https://github.com/digininja/DVWA)：靶场。
+- [dwva](https://github.com/digininja/DVWA)：DVWA(Damn Vulnerable Web Application)一个用来进行安全脆弱性鉴定的PHP/MySQL Web 应用，旨在为安全专业人员测试自己的专业技能和工具提供合法的环境，帮助web开发者更好的理解web应用安全防范的过程。
+- [upload-labs](https://github.com/c0ny1/upload-labs)：upload-labs是一个使用php语言编写的，专门收集渗透测试和CTF中遇到的各种上传漏洞的靶场。
+- [sqli-labs](https://github.com/Audi-1/sqli-labs)：sql注入练习靶场。
 
 
 ##### 网络空间搜索汇总
