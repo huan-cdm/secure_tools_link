@@ -171,9 +171,12 @@
 - [jshaman](http://jshaman.com/)：JavaScript源代码混淆加密 - JS混淆、JS加密。
 
 
-##### 环境汇总
+##### 常用链接汇总
 - [java环境](https://www.oracle.com/java/technologies/downloads/)：java jdk下载。
 - [python环境](https://www.python.org/downloads/)：python下载。
+- [Notepad++](https://notepad-plus.en.softonic.com/)：文本编辑器。
+- [keepass](https://keepass.info/download.html)：密码管理工具。
+- [FinalShell](http://www.hostbuf.com/t/988.html)：SSH工具。
 
 
 
