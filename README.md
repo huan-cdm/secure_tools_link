@@ -105,6 +105,7 @@
 - [Postern](https://pan.baidu.com/s/19FRlASE-v5iCinyYGxoudQ?pwd=bbwt)：Android代理客户端，和Charles、BurpSuite配合使用。
 - [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)：APP漏洞扫描平台。
 - [jadx-gui](https://github.com/skylot/jadx)：apk反编译工具。
+- [Xposed模块仓库](https://modules.lsposed.org/)：Xposed模块仓库。
 
 
 ##### 小程序安全测试工具汇总
