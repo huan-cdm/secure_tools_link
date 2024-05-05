@@ -179,5 +179,10 @@
 - [FinalShell](http://www.hostbuf.com/t/988.html)：SSH工具。
 
 
+##### 服务器汇总
+- [xampp](https://www.apachefriends.org/zh_cn/index.html)：XAMPP（Apache+MySQL+PHP+PERL）是一个功能强大的建站集成软件包。
+- [phpstudy](https://www.xp.cn/)：phpStudy是一个PHP调试环境的程序集成包。该程序包集成最新的Apache+PHP+MySQL+phpMyAdmin+ZendOptimizer，一次性安装，无须配置即可使用，是非常方便、好用的PHP调试环境。
+- [Apache Tomcat](https://tomcat.apache.org/)：运行java代码的web服务器。
+
 
 -**持续更新中**
