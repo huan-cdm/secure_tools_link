@@ -31,6 +31,8 @@
 - [WeblogicScan](https://github.com/rabbitmask/WeblogicScan)：Weblogic一键漏洞检测工具。
 - [fastjson_rec_exploit](https://github.com/mrknow001/fastjson_rec_exploit)：fastjson一键漏洞检测工具。
 - [ShiroAttack2](https://github.com/SummerSec/ShiroAttack2)：一款针对Shiro550漏洞进行快速漏洞利用工具。
+- [springboot core命令执行](https://github.com/zangcc/CVE-2022-22965-rexbb)：springboot core 命令执行漏洞，CVE-2022-22965漏洞利用工具，基于JavaFx开发，图形化操作更简单，提高效率。
+- [heapdump_tool](https://github.com/wyzxxz/heapdump_tool)：对pringboot actuator未授权泄露的heapdump文件进行解密，可解密出账号密码等敏感信息。
 - [dddd](https://github.com/SleepingBag945/dddd)：信息收集和漏洞扫描工具。
 - [fscan](https://github.com/shadow1ng/fscan)：一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
 支持主机存活探测、端口扫描、常见服务的爆破、ms17010、redis批量写公钥、计划任务反弹shell、读取win网卡信息、web指纹识别、web漏洞扫描、netbios探测、域控识别等功能。
