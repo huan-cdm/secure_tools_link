@@ -45,6 +45,7 @@
 - [nessus](https://mp.weixin.qq.com/s/JnIQL8FeYcqWR4zES56K_g)：综合漏洞扫描工具。
 - [awvs](https://mp.weixin.qq.com/s/IclMKi0mZj75gbntntat8A)：综合漏洞扫描工具。
 - [scan4all](https://github.com/GhostTroops/scan4all)：综合漏洞扫描工具。
+- [cloud_asset_management_tools](https://github.com/huan-cdm/cloud_asset_management_tools)：云存储利用工具。
 
 
 ##### 信息收集工具汇总
@@ -159,14 +160,20 @@
 - [公众号文章](http://www.nmd5.com/test/index.php#)：博客和文库整理。
 
 
-##### 科学上网汇总
+##### 科学上网代理汇总
 - [GW树洞](https://helloshudong.com/)：科学上网。
 - [一元机场](https://xn--4gq62f52gdss.com/#/login)：科学上网。
-- [代理池轮切](https://github.com/akkuman/rotateproxy)：利用fofa搜索socks5开放代理进行代理池轮切的工具。
+- [rotateproxy](https://github.com/akkuman/rotateproxy)：利用fofa搜索socks5开放代理进行代理池轮切的工具。
+- [Gofreeproxy](https://github.com/ja9er/Gofreeproxy)：利用fofa搜索socks5开放代理进行代理池轮切的工具。
 
 
 ##### 安全加固汇总
 - [jshaman](http://jshaman.com/)：JavaScript源代码混淆加密 - JS混淆、JS加密。
+
+
+##### 环境汇总
+- [java环境](https://www.oracle.com/java/technologies/downloads/)：java jdk下载。
+- [python环境](https://www.python.org/downloads/)：python下载。
 
 
 
