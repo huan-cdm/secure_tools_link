@@ -88,6 +88,7 @@
 - [360星图](https://pan.baidu.com/s/1n2mlbUK0PXfM6Msn_e70EA?pwd=yeop)：网站日志分析工具。
 - [AppCompatCacheParser](https://www.sans.org/tools/appcompatcacheparser/)：获取windows系统可执行文件记录。
 - [Log Parser](https://www.sans.org/tools/appcompatcacheparser/)：windows系统日志分析工具。
+- [Everything](https://www.voidtools.com/zh-cn/downloads/)：文本搜索工具。
 
 
 ##### APP安全测试工具汇总
