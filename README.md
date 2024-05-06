@@ -47,6 +47,7 @@
 - [scan4all](https://github.com/GhostTroops/scan4all)：综合漏洞扫描工具。
 - [EasyPen](https://github.com/lijiejie/EasyPen/)：EasyPen是使用Python + wxPython编写、提供简洁图形界面、支持跨平台的安全扫描工具，可用于企业内外网巡检、应急响应、白帽子对各SRC的持续检测。
 - [cloud_asset_management_tools](https://github.com/huan-cdm/cloud_asset_management_tools)：云存储利用工具。
+- [Cloud-Bucket-Leak-Detection-Tools](https://github.com/UzJu/Cloud-Bucket-Leak-Detection-Tools)：六大云存储，泄露利用检测工具。
 
 
 ##### 信息收集工具汇总
@@ -163,6 +164,7 @@
 - [内网相关](https://www.chabug.org/web/1263)：博客和文库整理。
 - [应急响应](https://github.com/Bypass007/Emergency-Response-Notes)：博客和文库整理。
 - [公众号文章](http://www.nmd5.com/test/index.php#)：博客和文库整理。
+- [T Wiki](https://wiki.teamssix.com/about/)：云安全知识文库。
 
 
 ##### 科学上网代理汇总
