@@ -39,6 +39,7 @@
 - [xray](https://github.com/chaitin/xray)：一款功能强大的安全评估工具。
 - [rad](https://github.com/chaitin/rad)：一款专为安全扫描而生的浏览器爬虫。
 - [goby](https://gobysec.net/)：综合漏洞扫描工具。
+- [yakit](https://github.com/yaklang/yakit)：综合漏洞扫描工具、单兵作战武器库、可以代替BurpSuite。
 - [oracleShell](https://github.com/jas502n/oracleShell)：oracleShell oracle 数据库命令执行、支持普通、DBA、注入3种模式。
 - [nuclei](https://github.com/projectdiscovery/nuclei)：Nuclei 用于基于模板跨目标发送请求，从而实现零误报并提供对大量主机的快速扫描。Nuclei 提供对各种协议的扫描，包括 TCP、DNS、HTTP、SSL、File、Whois、Websocket、Headless 等。凭借强大而灵活的模板，Nuclei 可用于对各种安全检查进行建模。
 - [SNETCracker](https://github.com/shack2/SNETCracker)：超级弱口令检查工具是一款Windows平台的弱口令审计工具，工具目前支持SSH、RDP、SMB、MySQL、SQLServer、Oracle、FTP、MongoDB、Memcached、PostgreSQL、Telnet、SMTP、SMTP_SSL、POP3、POP3_SSL、IMAP、IMAP_SSL、SVN、VNC、Redis等服务的弱口令检查工作。
@@ -46,6 +47,7 @@
 - [awvs](https://mp.weixin.qq.com/s/IclMKi0mZj75gbntntat8A)：综合漏洞扫描工具。
 - [scan4all](https://github.com/GhostTroops/scan4all)：综合漏洞扫描工具。
 - [EasyPen](https://github.com/lijiejie/EasyPen/)：EasyPen是使用Python + wxPython编写、提供简洁图形界面、支持跨平台的安全扫描工具，可用于企业内外网巡检、应急响应、白帽子对各SRC的持续检测。
+- [onlinetools](https://github.com/iceyhexman/onlinetools)：在线工具集、在线cms识别、信息泄露、工控、系统、物联网安全、cms漏洞扫描、nmap端口扫描、子域名获取。
 - [cloud_asset_management_tools](https://github.com/huan-cdm/cloud_asset_management_tools)：云存储利用工具。
 - [container-escape-check](https://github.com/teamssix/container-escape-check)：容器逃逸检测脚本。
 - [Cloud-Bucket-Leak-Detection-Tools](https://github.com/UzJu/Cloud-Bucket-Leak-Detection-Tools)：六大云存储，泄露利用检测工具。
