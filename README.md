@@ -38,6 +38,7 @@
 支持主机存活探测、端口扫描、常见服务的爆破、ms17010、redis批量写公钥、计划任务反弹shell、读取win网卡信息、web指纹识别、web漏洞扫描、netbios探测、域控识别等功能。
 - [xray](https://github.com/chaitin/xray)：一款功能强大的安全评估工具。
 - [rad](https://github.com/chaitin/rad)：一款专为安全扫描而生的浏览器爬虫。
+- [在线端口扫描](http://coolaf.com/tool/port)：在线端口扫描工具。
 - [goby](https://gobysec.net/)：综合漏洞扫描工具。
 - [yakit](https://github.com/yaklang/yakit)：综合漏洞扫描工具、单兵作战武器库、可以代替BurpSuite。
 - [oracleShell](https://github.com/jas502n/oracleShell)：oracleShell oracle 数据库命令执行、支持普通、DBA、注入3种模式。
@@ -65,6 +66,7 @@
 - [ARL](https://github.com/TophantTechnology/ARL)：旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
 - [masscan](https://github.com/robertdavidgraham/masscan)：Masscan是一个高速的端口扫描工具,可以在数秒内扫描大量主机和端口。它使用异步套接字和线程,支持IPv4和IPv6网络,并且可以配置多个端口扫描选项。
 - [httpx](https://github.com/projectdiscovery/httpx)：httpx 是一个go语言开发的快速且多用途的 HTTP 工具包，允许使用 retryablehttp 库运行多个探测器。可以获取url的状态，title，jarm等信息，也可以对网站截图。
+- [alivecheck](https://pan.baidu.com/s/1b9MxHb0VoPJ3CI2X3a04dQ?pwd=oc63)：小米范存活检测工具。
 - [Search_Viewer](https://github.com/G3et/Search_Viewer)：网络空间搜索引擎客户端，目前支持fofa、shodan、hunter、quake、zoomeye。
 - [fofa_viewer](https://github.com/wgpsec/fofa_viewer)：Fofa Viewer 是一个用 JavaFX 编写的用户友好的 FOFA 客户端。
 - [TideFinger](https://github.com/TideSec/TideFinger)：TideFinger——指纹识别小工具，汲取整合了多个web指纹库，结合了多种指纹检测方法，让指纹检测更快捷、准确。
