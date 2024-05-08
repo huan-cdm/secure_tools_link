@@ -7,7 +7,7 @@
 
 - [TsojanScan](https://github.com/Tsojan/TsojanScan)：一个集成的BurpSuite漏洞探测插件，它会以最少的数据包请求来准确检测各漏洞存在与否，你只需要这一个足矣。
 - [JsRouteScan](https://github.com/F6JO/JsRouteScan)：正则匹配获取响应中的路由进行探测或递归目录探测的burp插件。
-- [ShiroScan](https://github.com/Daybr4ak/ShiroScan)：burp插件 Shiroscan 主要用于框架、无dnslog key检测，可被动扫描出默认的key。
+- [BurpShiroPassiveScan](https://github.com/pmiaowu/BurpShiroPassiveScan)：一款基于BurpSuite的被动式shiro检测插件。
 - [turbo-intruder](https://github.com/PortSwigger/turbo-intruder)：Turbo  Intruder 是一个 Burp Suite 扩展插件， 用于发送大量 HTTP 请求并分析结果，它旨在处理那些需要异常速度、持续时间或复杂性的攻击来补充 Burp  Intruder，可以发现条件竞争和短信轰炸等漏洞。 
 - [captcha-killer-modified](https://github.com/f0ng/captcha-killer-modified)：一款适用于Burp的验证码识别插件。
 - [HackBar](https://github.com/d3vilbug/HackBar)：HackBar是burp插件，支持很多便携功能，SQL注入payload、XSS payload、常见LFI漏洞、web shell payload和反弹shell payload。
@@ -21,8 +21,10 @@
 - [BurpJSLinkFinder](https://github.com/InitRoot/BurpJSLinkFinder)：插件很好的兼容进了BURP里面，随着你的点击自动进行收集JS里面的路径。
 - [jython-standalone](https://repo1.maven.org/maven2/org/python/jython-standalone/2.7.3/jython-standalone-2.7.3.jar)：Jython是一个将Python语言与Java虚拟机集成的工具，burp中安装python编写插件。
 - [FastjsonScan](https://github.com/Maskhe/FastjsonScan)：被动扫描fastjson漏洞。
+- [BurpFastJsonScan](https://github.com/pmiaowu/BurpFastJsonScan)：一款基于BurpSuite的被动式FastJson检测插件。
 - [log4j2burpscanner](https://github.com/f0ng/log4j2burpscanner)：被动发现log4j2 RCE漏洞。
 - [chunked-coding-converter](https://github.com/c0ny1/chunked-coding-converter)：分块传输绕WAF插件。
+- [CaA](https://github.com/gh0stkey/CaA)：CaA是一个基于BurpSuite Java插件API开发的流量收集和分析插件。它的主要作用就是收集HTTP协议报文中的参数、路径、文件、参数值等信息，并统计出现的频次，为使用者积累真正具有实战意义的Fuzzing字典。除此之外，CaA还提供了独立的Fuzzing功能，可以根据用户输入的字典，以不同的请求方式交叉遍历请求，从而帮助用户发现隐藏的参数、路径、文件，以便于进一步发现安全漏洞。
 
 
 ##### 漏洞扫描工具汇总
@@ -75,6 +77,8 @@
 - [BBScan](https://github.com/lijiejie/BBScan)：BBScan 是一个高并发、轻量级的信息泄露扫描工具。
 - [GitHack](https://github.com/lijiejie/GitHack)：GitHack是一个.git泄露利用脚本，通过泄露的.git文件夹下的文件，重建还原工程源代码。
 - [ds_store_exp](https://github.com/lijiejie/ds_store_exp)：ds_store_exp是一个 .DS_Store 文件泄漏利用脚本，它解析.DS_Store文件并递归地下载文件到本地。
+- [weakpass](https://zzzteph.github.io/weakpass/)：在线密码生成网站。
+- [AppInfoScanner](https://github.com/kelvinBen/AppInfoScanner)：一款适用于以HW行动/红队/渗透测试团队为场景的移动端(Android、iOS、WEB、H5、静态网站)信息收集扫描工具，可以帮助渗透测试工程师、攻击队成员、红队成员快速收集到移动端或者静态WEB站点中关键的资产信息并提供基本的信息输出,如：Title、Domain、CDN、指纹信息、状态信息等。
 
 
 ##### 溯源相关汇总
@@ -156,6 +160,11 @@
 - [HUNTER](https://hunter.qianxin.com/)：网络空间搜索平台。
 - [binaryedge](https://app.binaryedge.io/login)：网络空间搜索平台。
 - [shodan](https://www.shodan.io/)：网络空间搜索平台。
+
+
+##### 在线dnslog平台汇总
+- [DNSlog](http://www.dnslog.cn/)：在线DNSLog平台。
+- [CEYE](http://ceye.io/)：在线DNSLog平台。
 
 
 ##### 博客文库汇总
