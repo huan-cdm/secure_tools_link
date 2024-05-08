@@ -25,6 +25,7 @@
 - [log4j2burpscanner](https://github.com/f0ng/log4j2burpscanner)：被动发现log4j2 RCE漏洞。
 - [chunked-coding-converter](https://github.com/c0ny1/chunked-coding-converter)：分块传输绕WAF插件。
 - [CaA](https://github.com/gh0stkey/CaA)：CaA是一个基于BurpSuite Java插件API开发的流量收集和分析插件。它的主要作用就是收集HTTP协议报文中的参数、路径、文件、参数值等信息，并统计出现的频次，为使用者积累真正具有实战意义的Fuzzing字典。除此之外，CaA还提供了独立的Fuzzing功能，可以根据用户输入的字典，以不同的请求方式交叉遍历请求，从而帮助用户发现隐藏的参数、路径、文件，以便于进一步发现安全漏洞。
+- [APIKit](https://github.com/API-Security/APIKit)：APIKit可以主动/被动扫描发现应用泄露的API文档，并将API文档解析成BurpSuite中的数据包用于API安全测试。
 
 
 ##### 漏洞扫描工具汇总
@@ -54,6 +55,16 @@
 - [cloud_asset_management_tools](https://github.com/huan-cdm/cloud_asset_management_tools)：云存储利用工具。
 - [container-escape-check](https://github.com/teamssix/container-escape-check)：容器逃逸检测脚本。
 - [Cloud-Bucket-Leak-Detection-Tools](https://github.com/UzJu/Cloud-Bucket-Leak-Detection-Tools)：六大云存储，泄露利用检测工具。
+
+
+##### 代码审计工具汇总
+- [rips-scanner](https://sourceforge.net/projects/rips-scanner/files/)：php代码审计工具。
+- [seay](https://github.com/f1tz/cnseay)：php代码审计工具。
+- [VisualCodeGrepper](https://sourceforge.net/projects/visualcodegrepp/?source=directory)：VCG 是一款适用于 C++、C#、VB、PHP、Java、PL/SQL 和 COBOL 的自动化代码安全审查工具，旨在通过识别不良/不安全代码来加快代码审查过程。
+- [Fortify](https://pan.baidu.com/s/1umNn7SFP-Y0Mw2R_L9zaBg?pwd=a3oq)：Fortify Source Code Analysis Suite是目前在全球使用最为广泛的软件源代码安全扫描，分析和软件安全风险管理软件。使用此款工具的前提是，代码能够正常编译且不报错，否则扫描后会出现error，影响测试结果。支持在Linux、Windows、Mac OSX系统中进行安装。如果测试Objective-C语言，需要使用Mac OSX系统，同时注意Xcode版本和fortify版本的兼容性问题。
+- [sublimetext](https://www.sublimetext.com/)：代码编辑器,静态搜索关键字。
+- [IntelliJ IDEA](https://www.jetbrains.com/zh-cn/idea/download/?section=windows)：代码编辑器，动态调试。
+- [MOMO CODE SEC INSPECTOR](https://www.jetbrains.com/zh-cn/idea/download/?section=windows)：IntelliJ IDEA代码审计插件，在插件商店下载。
 
 
 ##### 信息收集工具汇总
