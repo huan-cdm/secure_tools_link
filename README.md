@@ -26,6 +26,8 @@
 - [chunked-coding-converter](https://github.com/c0ny1/chunked-coding-converter)：分块传输绕WAF插件。
 - [CaA](https://github.com/gh0stkey/CaA)：CaA是一个基于BurpSuite Java插件API开发的流量收集和分析插件。它的主要作用就是收集HTTP协议报文中的参数、路径、文件、参数值等信息，并统计出现的频次，为使用者积累真正具有实战意义的Fuzzing字典。除此之外，CaA还提供了独立的Fuzzing功能，可以根据用户输入的字典，以不同的请求方式交叉遍历请求，从而帮助用户发现隐藏的参数、路径、文件，以便于进一步发现安全漏洞。
 - [APIKit](https://github.com/API-Security/APIKit)：APIKit可以主动/被动扫描发现应用泄露的API文档，并将API文档解析成BurpSuite中的数据包用于API安全测试。
+- [ssrf-king](https://github.com/ethicalhackingplayground/ssrf-king)：burp插件自动化检测ssrf漏洞。
+- [npscrack](https://github.com/weishen250/npscrack)：蓝队利器、溯源反制、NPS 漏洞利用、NPS exp、NPS poc、Burp插件、一键利用。
 
 
 ##### 漏洞扫描工具汇总
@@ -50,7 +52,12 @@
 - [nessus](https://mp.weixin.qq.com/s/JnIQL8FeYcqWR4zES56K_g)：综合漏洞扫描工具。
 - [awvs](https://mp.weixin.qq.com/s/IclMKi0mZj75gbntntat8A)：综合漏洞扫描工具。
 - [scan4all](https://github.com/GhostTroops/scan4all)：综合漏洞扫描工具。
+- [超级未授权检测工具](https://pan.baidu.com/s/1cfYdWoETxKeNf5myCqY_OA?from=init&pwd=0000)：超级未授权检测工具，目前已实现47种未授权检测。
+- [NaturalTeeth](https://github.com/ddwGeGe/NaturalTeeth)：OA系统漏洞利用工具。
 - [EasyPen](https://github.com/lijiejie/EasyPen/)：EasyPen是使用Python + wxPython编写、提供简洁图形界面、支持跨平台的安全扫描工具，可用于企业内外网巡检、应急响应、白帽子对各SRC的持续检测。
+- [goon](https://github.com/i11us0ry/goon/)：goon,集合了fscan和kscan等优秀工具功能的扫描爆破工具。
+功能包含：ip探活、port扫描、web指纹扫描、title扫描、fofa获取、ms17010、mssql、mysql、postgres、redis、ssh、smb、rdp、telnet等爆破
+以及如netbios探测等功能。。
 - [onlinetools](https://github.com/iceyhexman/onlinetools)：在线工具集、在线cms识别、信息泄露、工控、系统、物联网安全、cms漏洞扫描、nmap端口扫描、子域名获取。
 - [cloud_asset_management_tools](https://github.com/huan-cdm/cloud_asset_management_tools)：云存储利用工具。
 - [container-escape-check](https://github.com/teamssix/container-escape-check)：容器逃逸检测脚本。
@@ -90,6 +97,7 @@
 - [ds_store_exp](https://github.com/lijiejie/ds_store_exp)：ds_store_exp是一个 .DS_Store 文件泄漏利用脚本，它解析.DS_Store文件并递归地下载文件到本地。
 - [weakpass](https://zzzteph.github.io/weakpass/)：在线密码生成网站。
 - [AppInfoScanner](https://github.com/kelvinBen/AppInfoScanner)：一款适用于以HW行动/红队/渗透测试团队为场景的移动端(Android、iOS、WEB、H5、静态网站)信息收集扫描工具，可以帮助渗透测试工程师、攻击队成员、红队成员快速收集到移动端或者静态WEB站点中关键的资产信息并提供基本的信息输出,如：Title、Domain、CDN、指纹信息、状态信息等。
+- [WebBatchRequest](https://github.com/ScriptKid-Beta/WebBatchRequest/)：WEB批量请求器（WebBatchRequest）是对目标地址批量进行快速的存活探测、Title获取，简单的banner识别，支持HTTP代理以及可自定义HTTP请求用于批量的漏洞验证等的一款基于JAVA编写的轻量工具。
 
 
 ##### 溯源相关汇总
@@ -113,6 +121,8 @@
 - [AppCompatCacheParser](https://www.sans.org/tools/appcompatcacheparser/)：获取windows系统可执行文件记录。
 - [Log Parser](https://www.sans.org/tools/appcompatcacheparser/)：windows系统日志分析工具。
 - [Everything](https://www.voidtools.com/zh-cn/downloads/)：文本搜索工具。
+- [FireKylin](https://github.com/MountCloud/FireKylin)：网络安全应急响应工具(系统痕迹采集)，面对多台主机需要排查时，只需要把agent端发给服务器运维管理人员运行采集器，将采集结果给到安全人员，来由安全人员进行分析。
+- [河马webshell查杀工具](https://www.shellpub.com/)：河马webshell查杀工具（安装版）。
 
 
 ##### APP安全测试工具汇总
@@ -150,11 +160,19 @@
 - [fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts)：暴力破解字典。
 
 
+##### 接口分析工具汇总
+- [Apifox](https://apifox.com/)：Apifox是一个集接口文档、接口调试、自动化测试、Mock服务于一体的全新一代API管理工具。它通过图形界面提供了一种简单直观的方式来创建、管理和测试API接口，无论是前端开发者、后端开发者还是测试人员都能快速上手。Apifox不仅支持RESTful API，也支持GraphQL、Dubbo等多种接口类型，满足不同项目的需求。
+
+
 ##### webshell管理工具汇总
 - [Behinder](https://github.com/rebeyond/Behinder)：冰蝎动态二进制加密网站管理客户端。
 - [Godzilla](https://github.com/BeichenDream/Godzilla)：哥斯拉websheell管理客户端。
 - [antSword](https://github.com/AntSwordProject/antSword)：中国蚁剑是一款跨平台的开源网站管理工具。
 - [caidao](https://github.com/raddyfiy/caidao-official-version)：中国菜刀官方版本。
+
+
+##### 数据库管理工具汇总
+- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)：redis客户端管理工具。
 
 
 ##### 靶场汇总
