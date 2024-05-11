@@ -43,21 +43,26 @@
 支持主机存活探测、端口扫描、常见服务的爆破、ms17010、redis批量写公钥、计划任务反弹shell、读取win网卡信息、web指纹识别、web漏洞扫描、netbios探测、域控识别等功能。
 - [xray](https://github.com/chaitin/xray)：一款功能强大的安全评估工具。
 - [rad](https://github.com/chaitin/rad)：一款专为安全扫描而生的浏览器爬虫。
+- [katana](https://github.com/projectdiscovery/katana)：一款专为安全扫描而生的浏览器爬虫。
 - [在线端口扫描](http://coolaf.com/tool/port)：在线端口扫描工具。
 - [goby](https://gobysec.net/)：综合漏洞扫描工具。
+- [nikto](https://github.com/sullo/nikto)：nikto是一款比较综合性的漏洞扫描工具。支持XSS SQL注入等常见的漏洞扫描，因其使用简单，扫描效率比较高。
 - [yakit](https://github.com/yaklang/yakit)：综合漏洞扫描工具、单兵作战武器库、可以代替BurpSuite。
 - [oracleShell](https://github.com/jas502n/oracleShell)：oracleShell oracle 数据库命令执行、支持普通、DBA、注入3种模式。
 - [nuclei](https://github.com/projectdiscovery/nuclei)：Nuclei 用于基于模板跨目标发送请求，从而实现零误报并提供对大量主机的快速扫描。Nuclei 提供对各种协议的扫描，包括 TCP、DNS、HTTP、SSL、File、Whois、Websocket、Headless 等。凭借强大而灵活的模板，Nuclei 可用于对各种安全检查进行建模。
+- [Fiora](https://github.com/bit4woo/Fiora)：该项目为PoC框架nuclei提供图形界面，实现快速搜索、一键运行等功能，提升nuclei的使用体验。
 - [SNETCracker](https://github.com/shack2/SNETCracker)：超级弱口令检查工具是一款Windows平台的弱口令审计工具，工具目前支持SSH、RDP、SMB、MySQL、SQLServer、Oracle、FTP、MongoDB、Memcached、PostgreSQL、Telnet、SMTP、SMTP_SSL、POP3、POP3_SSL、IMAP、IMAP_SSL、SVN、VNC、Redis等服务的弱口令检查工作。
 - [nessus](https://mp.weixin.qq.com/s/JnIQL8FeYcqWR4zES56K_g)：综合漏洞扫描工具。
 - [awvs](https://mp.weixin.qq.com/s/IclMKi0mZj75gbntntat8A)：综合漏洞扫描工具。
 - [scan4all](https://github.com/GhostTroops/scan4all)：综合漏洞扫描工具。
+- [OA-EXPTOOL](https://github.com/LittleBear4/OA-EXPTOOL)：OA综合漏洞检测工具（与msf操作方法类似）。
+- [I-Wanna-Get-All](https://github.com/R4gd0ll/I-Wanna-Get-All)：OA综合漏洞检测工具（图形化）。
 - [超级未授权检测工具](https://pan.baidu.com/s/1cfYdWoETxKeNf5myCqY_OA?from=init&pwd=0000)：超级未授权检测工具，目前已实现47种未授权检测。
 - [NaturalTeeth](https://github.com/ddwGeGe/NaturalTeeth)：OA系统漏洞利用工具。
 - [EasyPen](https://github.com/lijiejie/EasyPen/)：EasyPen是使用Python + wxPython编写、提供简洁图形界面、支持跨平台的安全扫描工具，可用于企业内外网巡检、应急响应、白帽子对各SRC的持续检测。
 - [goon](https://github.com/i11us0ry/goon/)：goon,集合了fscan和kscan等优秀工具功能的扫描爆破工具。
 功能包含：ip探活、port扫描、web指纹扫描、title扫描、fofa获取、ms17010、mssql、mysql、postgres、redis、ssh、smb、rdp、telnet等爆破
-以及如netbios探测等功能。。
+以及如netbios探测等功能。
 - [onlinetools](https://github.com/iceyhexman/onlinetools)：在线工具集、在线cms识别、信息泄露、工控、系统、物联网安全、cms漏洞扫描、nmap端口扫描、子域名获取。
 - [cloud_asset_management_tools](https://github.com/huan-cdm/cloud_asset_management_tools)：云存储利用工具。
 - [container-escape-check](https://github.com/teamssix/container-escape-check)：容器逃逸检测脚本。
@@ -76,6 +81,7 @@
 
 ##### 信息收集工具汇总
 - [EHole](https://github.com/EdgeSecurityTeam/EHole)：EHole是一款对资产中重点系统指纹识别的工具，在红队作战中，信息收集是必不可少的环节，如何才能从大量的资产中提取有用的系统(如OA、VPN、Weblogic...)。EHole旨在帮助红队人员在信息收集期间能够快速从C段、大量杂乱的资产中精准定位到易被攻击的系统，从而实施进一步攻击。
+- [Finger](https://github.com/EASY233/Finger)：一款红队在大量的资产中存活探测与重点攻击系统指纹探测工具。
 - [URLFinder](https://github.com/pingc0y/URLFinder)：URLFinder是一款快速、全面、易用的页面信息提取工具用于分析页面中的js与url,查找隐藏在其中的敏感信息或未授权api接口。
 - [JSFinder](https://github.com/Threezh1/JSFinder)：JSFinder是一款用作快速在网站的js文件中提取URL，子域名的工具。
 - [dirsearch](https://github.com/maurosoria/dirsearch)：网站目录扫描。
@@ -95,9 +101,12 @@
 - [BBScan](https://github.com/lijiejie/BBScan)：BBScan 是一个高并发、轻量级的信息泄露扫描工具。
 - [GitHack](https://github.com/lijiejie/GitHack)：GitHack是一个.git泄露利用脚本，通过泄露的.git文件夹下的文件，重建还原工程源代码。
 - [ds_store_exp](https://github.com/lijiejie/ds_store_exp)：ds_store_exp是一个 .DS_Store 文件泄漏利用脚本，它解析.DS_Store文件并递归地下载文件到本地。
-- [weakpass](https://zzzteph.github.io/weakpass/)：在线密码生成网站。
 - [AppInfoScanner](https://github.com/kelvinBen/AppInfoScanner)：一款适用于以HW行动/红队/渗透测试团队为场景的移动端(Android、iOS、WEB、H5、静态网站)信息收集扫描工具，可以帮助渗透测试工程师、攻击队成员、红队成员快速收集到移动端或者静态WEB站点中关键的资产信息并提供基本的信息输出,如：Title、Domain、CDN、指纹信息、状态信息等。
 - [WebBatchRequest](https://github.com/ScriptKid-Beta/WebBatchRequest/)：WEB批量请求器（WebBatchRequest）是对目标地址批量进行快速的存活探测、Title获取，简单的banner识别，支持HTTP代理以及可自定义HTTP请求用于批量的漏洞验证等的一款基于JAVA编写的轻量工具。
+- [wafw00f](https://github.com/EnableSecurity/wafw00f)：waf识别工具。
+- [七麦数据](https://www.qimai.cn/)：企业app搜索网站。
+- [小蓝本](https://sou.xiaolanben.com/pc)：企业网站资产查询，配合天眼查、企查查等。
+- [virustotal](https://www.virustotal.com/graph/)：企业资产梳理，包括子域名等，需要登录。
 
 
 ##### 溯源相关汇总
@@ -123,10 +132,12 @@
 - [Everything](https://www.voidtools.com/zh-cn/downloads/)：文本搜索工具。
 - [FireKylin](https://github.com/MountCloud/FireKylin)：网络安全应急响应工具(系统痕迹采集)，面对多台主机需要排查时，只需要把agent端发给服务器运维管理人员运行采集器，将采集结果给到安全人员，来由安全人员进行分析。
 - [河马webshell查杀工具](https://www.shellpub.com/)：河马webshell查杀工具（安装版）。
+- [日志分析工具合集](https://www.cnblogs.com/xiaozi/p/13198071.html)：应急响应日志分析工具 。
 
 
 ##### APP安全测试工具汇总
 - [apk2url](https://github.com/n0mi1k/apk2url)：提取apk中的IP和URL。
+- [apkleaks](https://github.com/dwisiswant0/apkleaks)：apk爬虫工具可提取包内url等信息。
 - [drozer](https://github.com/WithSecureLabs/drozer/)：drozer是一款针对Android系统的安全测试框架。
 - [Yaazhini](https://www.vegabird.com/yaazhini/)：Yaazhini是一款针对Android APK和API的免费漏洞扫描工具，这款工具提供了用户友好的操作界面，广大移动端安全研究人员可以在Yaazhini的帮助下，轻松扫描任何Android应用程序的APK文件以及API接口，而且Yaazhini还会给你提供非常丰富的扫描结果数据。
 - [AndroidKiller](https://pan.baidu.com/s/1yYlky-I1QQQrjHbVEz0N7Q?pwd=gvxg)：Android逆向工具。
@@ -136,6 +147,7 @@
 - [Postern](https://pan.baidu.com/s/19FRlASE-v5iCinyYGxoudQ?pwd=bbwt)：Android代理客户端，和Charles、BurpSuite配合使用。
 - [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)：APP漏洞扫描平台。
 - [jadx-gui](https://github.com/skylot/jadx)：apk反编译工具。
+- [PKID](https://pan.baidu.com/s/1OVm7BPEitIMZLPzSQXSRcg?pwd=7vk8)：apk查壳工具。
 - [Xposed模块仓库](https://modules.lsposed.org/)：Xposed模块仓库。
 
 
@@ -158,6 +170,8 @@
 
 ##### 暴力破解字典汇总
 - [fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts)：暴力破解字典。
+- [weakpass](https://zzzteph.github.io/weakpass/)：在线密码字典生成网站。
+- [密码字典生成器](https://www.shentoushi.top/tools/dict/index.php)：在线密码字典生成网站。
 
 
 ##### 接口分析工具汇总
@@ -181,6 +195,8 @@
 - [dwva](https://github.com/digininja/DVWA)：DVWA(Damn Vulnerable Web Application)一个用来进行安全脆弱性鉴定的PHP/MySQL Web 应用，旨在为安全专业人员测试自己的专业技能和工具提供合法的环境，帮助web开发者更好的理解web应用安全防范的过程。
 - [upload-labs](https://github.com/c0ny1/upload-labs)：upload-labs是一个使用php语言编写的，专门收集渗透测试和CTF中遇到的各种上传漏洞的靶场。
 - [sqli-labs](https://github.com/Audi-1/sqli-labs)：sql注入练习靶场。
+- [ctfhub](https://www.ctfhub.com/#/index)：在线版ctf靶场。
+- [acunetix](http://testphp.vulnweb.com/)：acunetix在线靶场。
 
 
 ##### 网络空间搜索汇总
@@ -219,6 +235,7 @@
 
 ##### 安全加固汇总
 - [jshaman](http://jshaman.com/)：JavaScript源代码混淆加密 - JS混淆、JS加密。
+- [Maven Repository](https://mvnrepository.com/)：查看pom中的组件版本是否存在安全漏洞。
 
 
 ##### 常用链接汇总
@@ -227,6 +244,16 @@
 - [Notepad++](https://notepad-plus.en.softonic.com/)：文本编辑器。
 - [keepass](https://keepass.info/download.html)：密码管理工具。
 - [FinalShell](http://www.hostbuf.com/t/988.html)：SSH工具。
+
+
+##### 在线加解密网站汇总
+- [jwt](https://jwt.io/)：jwt加解密网站。
+- [cmd5](https://cmd5.com/)：md5加解密网站。
+- [somd5](https://www.somd5.com/)：md5加解密网站。
+- [unicode](https://tool.chinaz.com/tools/unicode.aspx)：unicode编码转换网站。
+- [base64](https://tool.chinaz.com/Tools/Base64.aspx)：base64编码转换网站。
+- [aes](http://tool.chacuo.net/cryptaes)：aes加解密网站。
+- [字符串<->十六进制](https://www.sojson.com/hexadecimal.html)：十六进制字符串转换网站。
 
 
 ##### 服务器汇总
