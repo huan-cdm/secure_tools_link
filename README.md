@@ -6,6 +6,7 @@
 ##### BurpSuite插件汇总
 - [TsojanScan](https://github.com/Tsojan/TsojanScan)：一个集成的BurpSuite漏洞探测插件，它会以最少的数据包请求来准确检测各漏洞存在与否，你只需要这一个足矣。
 - [JsRouteScan](https://github.com/F6JO/JsRouteScan)：正则匹配获取响应中的路由进行探测或递归目录探测的burp插件。
+- [BurpAPIFinder](https://github.com/shuanx/BurpAPIFinder/)：攻防演练过程中，我们通常会用浏览器访问一些资产，但很多未授权/敏感信息/越权隐匿在已访问接口过html、JS文件等，该插件能让我们发现未授权/敏感信息/越权/登陆接口等。
 - [BurpShiroPassiveScan](https://github.com/pmiaowu/BurpShiroPassiveScan)：一款基于BurpSuite的被动式shiro检测插件。
 - [turbo-intruder](https://github.com/PortSwigger/turbo-intruder)：Turbo  Intruder 是一个 Burp Suite 扩展插件， 用于发送大量 HTTP 请求并分析结果，它旨在处理那些需要异常速度、持续时间或复杂性的攻击来补充 Burp  Intruder，可以发现条件竞争和短信轰炸等漏洞。 
 - [captcha-killer-modified](https://github.com/f0ng/captcha-killer-modified)：一款适用于Burp的验证码识别插件。
@@ -31,22 +32,24 @@
 
 
 
-##### 漏洞扫描工具汇总
+##### 漏洞扫描和利用工具汇总
 - [BurpSuite](https://pan.baidu.com/s/1fG_2tTDbaGUjkk3Br_puSg?pwd=vvkm)：代理抓包工具。
 - [Struts2-Scan](https://github.com/HatBoy/Struts2-Scan)：Struts2漏洞利用扫描工具。
+- [Struts2VulsScanTools](https://github.com/abc123info/Struts2VulsScanTools)：Struts2全版本漏洞检测工具s。
 - [WeblogicScan](https://github.com/rabbitmask/WeblogicScan)：Weblogic一键漏洞检测工具。
 - [fastjson_rec_exploit](https://github.com/mrknow001/fastjson_rec_exploit)：fastjson一键漏洞检测工具。
 - [ShiroAttack2](https://github.com/SummerSec/ShiroAttack2)：一款针对Shiro550漏洞进行快速漏洞利用工具。
 - [springboot core命令执行](https://github.com/zangcc/CVE-2022-22965-rexbb)：springboot core 命令执行漏洞，CVE-2022-22965漏洞利用工具，基于JavaFx开发，图形化操作更简单，提高效率。
+- [ThinkphpGUI](https://github.com/Lotus6/ThinkphpGUI)：Thinkphp(GUI)漏洞利用工具，支持各版本TP漏洞检测，命令执行，getshell。
 - [heapdump_tool](https://github.com/wyzxxz/heapdump_tool)：对pringboot actuator未授权泄露的heapdump文件进行解密，可解密出账号密码等敏感信息。
 - [dddd](https://github.com/SleepingBag945/dddd)：信息收集和漏洞扫描工具。
-- [fscan](https://github.com/shadow1ng/fscan)：一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
-支持主机存活探测、端口扫描、常见服务的爆破、ms17010、redis批量写公钥、计划任务反弹shell、读取win网卡信息、web指纹识别、web漏洞扫描、netbios探测、域控识别等功能。
+- [EZ](https://github.com/m-sec-org/EZ)：EZ是一款集信息收集、端口扫描、服务暴破、URL爬虫、指纹识别、被动扫描为一体的跨平台漏洞扫描器，渗透测试中，可辅助发现常见的SQL注入、XSS、XXE、SSRF之类的漏洞，通过内置的POC辅助发现Apache Shiro、RabbitMQ、Struts2之类的通用组件漏洞，以及某服VPN、通达OA以及泛微OA之类的被曝出已知漏洞的系统，可谓是外围打点，破局进内网，全面发现漏洞的渗透测试必备武器。
 - [xray](https://github.com/chaitin/xray)：一款功能强大的安全评估工具。
 - [rad](https://github.com/chaitin/rad)：一款专为安全扫描而生的浏览器爬虫。
 - [katana](https://github.com/projectdiscovery/katana)：一款专为安全扫描而生的浏览器爬虫。
 - [在线端口扫描](http://coolaf.com/tool/port)：在线端口扫描工具。
 - [goby](https://gobysec.net/)：综合漏洞扫描工具。
+- [vulmap](https://github.com/zhzyker/vulmap)：Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞利用功能, 目前支持的 webapps 包括 activemq, flink, shiro, solr, struts2, tomcat, unomi, drupal, elasticsearch, fastjson, jenkins, nexus, weblogic, jboss, spring, thinkphp。
 - [nikto](https://github.com/sullo/nikto)：nikto是一款比较综合性的漏洞扫描工具。支持XSS SQL注入等常见的漏洞扫描，因其使用简单，扫描效率比较高。
 - [yakit](https://github.com/yaklang/yakit)：综合漏洞扫描工具、单兵作战武器库、可以代替BurpSuite。
 - [oracleShell](https://github.com/jas502n/oracleShell)：oracleShell oracle 数据库命令执行、支持普通、DBA、注入3种模式。
@@ -67,7 +70,18 @@
 - [onlinetools](https://github.com/iceyhexman/onlinetools)：在线工具集、在线cms识别、信息泄露、工控、系统、物联网安全、cms漏洞扫描、nmap端口扫描、子域名获取。
 - [cloud_asset_management_tools](https://github.com/huan-cdm/cloud_asset_management_tools)：云存储利用工具。
 - [container-escape-check](https://github.com/teamssix/container-escape-check)：容器逃逸检测脚本。
+- [aliyun-accesskey-Tools](https://github.com/mrknow001/aliyun-accesskey-Tools)：阿里云accesskey利用工具。
 - [Cloud-Bucket-Leak-Detection-Tools](https://github.com/UzJu/Cloud-Bucket-Leak-Detection-Tools)：六大云存储，泄露利用检测工具。
+- [marshalsec](https://github.com/mbechler/marshalsec)：Java反序列漏洞利用工具，快速开启RMI和LDAP服务，下载使maven进行编译即可。
+- [ysoserial](https://github.com/frohoff/ysoserial)：Java反序列漏洞利用工具。
+
+
+
+
+##### 内网渗透常用工具汇总
+- [fscan](https://github.com/shadow1ng/fscan)：一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
+支持主机存活探测、端口扫描、常见服务的爆破、ms17010、redis批量写公钥、计划任务反弹shell、读取win网卡信息、web指纹识别、web漏洞扫描、netbios探测、域控识别等功能。
+- [Ladon](https://github.com/k8gege/Ladon)：Ladon大型内网渗透工具集合
 
 
 
@@ -77,7 +91,7 @@
 - [seay](https://github.com/f1tz/cnseay)：php代码审计工具。
 - [VisualCodeGrepper](https://sourceforge.net/projects/visualcodegrepp/?source=directory)：VCG 是一款适用于 C++、C#、VB、PHP、Java、PL/SQL 和 COBOL 的自动化代码安全审查工具，旨在通过识别不良/不安全代码来加快代码审查过程。
 - [Fortify](https://pan.baidu.com/s/1umNn7SFP-Y0Mw2R_L9zaBg?pwd=a3oq)：Fortify Source Code Analysis Suite是目前在全球使用最为广泛的软件源代码安全扫描，分析和软件安全风险管理软件。使用此款工具的前提是，代码能够正常编译且不报错，否则扫描后会出现error，影响测试结果。支持在Linux、Windows、Mac OSX系统中进行安装。如果测试Objective-C语言，需要使用Mac OSX系统，同时注意Xcode版本和fortify版本的兼容性问题。
-- [sublimetext](https://www.sublimetext.com/)：代码编辑器,静态搜索关键字。
+- [sublimetext](https://www.sublimetext.com/)：文本编辑器。
 - [IntelliJ IDEA](https://www.jetbrains.com/zh-cn/idea/download/?section=windows)：代码编辑器，动态调试。
 - [MOMO CODE SEC INSPECTOR](https://www.jetbrains.com/zh-cn/idea/download/?section=windows)：IntelliJ IDEA代码审计插件，在插件商店下载。
 
@@ -189,6 +203,7 @@
 - [fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts)：暴力破解字典。
 - [weakpass](https://zzzteph.github.io/weakpass/)：在线密码字典生成网站。
 - [密码字典生成器](https://www.shentoushi.top/tools/dict/index.php)：在线密码字典生成网站。
+- [UserNameDictTools](https://github.com/abc123info/UserNameDictTools)：用户名字典生成工具V0.2发布，(将中文汉字姓名转成11种格式的拼音)。
 
 
 
@@ -255,6 +270,7 @@
 - [应急响应](https://github.com/Bypass007/Emergency-Response-Notes)：博客和文库整理。
 - [公众号文章](http://www.nmd5.com/test/index.php#)：博客和文库整理。
 - [T Wiki](https://wiki.teamssix.com/about/)：云安全知识文库。
+- [渗透师导航](https://www.shentoushi.top/)：渗透师导航。
 
 
 
@@ -281,6 +297,7 @@
 - [Notepad++](https://notepad-plus.en.softonic.com/)：文本编辑器。
 - [keepass](https://keepass.info/download.html)：密码管理工具。
 - [FinalShell](http://www.hostbuf.com/t/988.html)：SSH工具。
+- [NirSoft](https://www.nirsoft.net/)：NirSoft 网站提供了一系列独特的小型实用软件。
 
 
 
