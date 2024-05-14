@@ -83,6 +83,7 @@
 - [fscan](https://github.com/shadow1ng/fscan)：一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
 支持主机存活探测、端口扫描、常见服务的爆破、ms17010、redis批量写公钥、计划任务反弹shell、读取win网卡信息、web指纹识别、web漏洞扫描、netbios探测、域控识别等功能。
 - [Ladon](https://github.com/k8gege/Ladon)：Ladon大型内网渗透工具集合
+- [EquationToolsGUI](https://github.com/abc123info/EquationToolsGUI)：仅用来扫描和验证MS17-010、MS09-050、MS08-067漏洞，并可协助管理员修复系统漏洞。
 
 
 
@@ -157,6 +158,7 @@
 - [FireKylin](https://github.com/MountCloud/FireKylin)：网络安全应急响应工具(系统痕迹采集)，面对多台主机需要排查时，只需要把agent端发给服务器运维管理人员运行采集器，将采集结果给到安全人员，来由安全人员进行分析。
 - [河马webshell查杀工具](https://www.shellpub.com/)：河马webshell查杀工具（安装版）。
 - [日志分析工具合集](https://www.cnblogs.com/xiaozi/p/13198071.html)：应急响应日志分析工具 。
+- [BlueTeamTools](https://github.com/abc123info/BlueTeamTools)：蓝队分析工具箱by:ABC_123 "蓝队分析研判工具箱"就是把我平时写的蓝队小工具集合起来形成的，重点解决蓝队分析工作中的一些痛点问题 。
 
 
 
@@ -272,6 +274,7 @@
 - [公众号文章](http://www.nmd5.com/test/index.php#)：博客和文库整理。
 - [T Wiki](https://wiki.teamssix.com/about/)：云安全知识文库。
 - [渗透师导航](https://www.shentoushi.top/)：渗透师导航。
+- [SummaryOf2022](https://github.com/abc123info/SummaryOf2022)：2022年ABC123公众号年刊 2023年ABC123公众号年刊。
 
 
 
