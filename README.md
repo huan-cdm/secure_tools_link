@@ -28,6 +28,7 @@
 - [APIKit](https://github.com/API-Security/APIKit)：APIKit可以主动/被动扫描发现应用泄露的API文档，并将API文档解析成BurpSuite中的数据包用于API安全测试。
 - [ssrf-king](https://github.com/ethicalhackingplayground/ssrf-king)：burp插件自动化检测ssrf漏洞。
 - [npscrack](https://github.com/weishen250/npscrack)：蓝队利器、溯源反制、NPS 漏洞利用、NPS exp、NPS poc、Burp插件、一键利用。
+- [burpFakeIP](https://github.com/TheKingOfDuck/burpFakeIP)：伪造请求IP插件。
 
 
 
