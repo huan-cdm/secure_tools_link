@@ -60,6 +60,7 @@
 - [nessus](https://mp.weixin.qq.com/s/JnIQL8FeYcqWR4zES56K_g)：综合漏洞扫描工具。
 - [awvs](https://mp.weixin.qq.com/s/IclMKi0mZj75gbntntat8A)：综合漏洞扫描工具。
 - [scan4all](https://github.com/GhostTroops/scan4all)：综合漏洞扫描工具。
+- [afrog](https://github.com/zan8in/afrog)：综合漏洞扫描工具。
 - [OA-EXPTOOL](https://github.com/LittleBear4/OA-EXPTOOL)：OA综合漏洞检测工具（与msf操作方法类似）。
 - [I-Wanna-Get-All](https://github.com/R4gd0ll/I-Wanna-Get-All)：OA综合漏洞检测工具（图形化）。
 - [超级未授权检测工具](https://pan.baidu.com/s/1cfYdWoETxKeNf5myCqY_OA?from=init&pwd=0000)：超级未授权检测工具，目前已实现47种未授权检测。
@@ -84,6 +85,11 @@
 支持主机存活探测、端口扫描、常见服务的爆破、ms17010、redis批量写公钥、计划任务反弹shell、读取win网卡信息、web指纹识别、web漏洞扫描、netbios探测、域控识别等功能。
 - [Ladon](https://github.com/k8gege/Ladon)：Ladon大型内网渗透工具集合
 - [EquationToolsGUI](https://github.com/abc123info/EquationToolsGUI)：仅用来扫描和验证MS17-010、MS09-050、MS08-067漏洞，并可协助管理员修复系统漏洞。
+
+
+
+##### 摄像头相关汇总
+- [HikvisionIVMSGetShell](https://github.com/Tas9er/HikvisionIVMSGetShell)：海康威视IVMS综合安防管理平台软件漏洞利用工具。
 
 
 
@@ -128,6 +134,7 @@
 - [七麦数据](https://www.qimai.cn/)：企业app搜索网站。
 - [小蓝本](https://sou.xiaolanben.com/pc)：企业网站资产查询，配合天眼查、企查查等。
 - [virustotal](https://www.virustotal.com/graph/)：企业资产梳理，包括子域名等，需要登录。
+- [ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727)：协助红队人员快速的信息收集，测绘目标资产，寻找薄弱点。
 
 
 
