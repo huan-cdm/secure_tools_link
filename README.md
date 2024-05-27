@@ -17,6 +17,7 @@
 - [Wsdler](https://github.com/NetSPI/Wsdler)：Wsdler 可以解析 WSDL 请求，以便使用 repeater 和 scanner 对 WSDL 请求进行测试。
 - [domain_hunter_pro](https://github.com/bit4woo/domain_hunter_pro)：这款插件很好的补充了BURP的域名收集问题，让你的BURP更加强大，更加系统的收集项目内的域名和子域名扩大域名资产，增加攻击面。
 - [J2EEScan](https://github.com/ilmila/J2EEScan)：J2EEScan 是一个扫描器增强插件，可以通过该插件扫描 J2EE 漏洞，如 weblogic、struts2 、 jboss 等漏洞。
+- [Struts2Burp](https://github.com/x1a0t/Struts2Burp)：一款检测Struts2 RCE漏洞的burp被动扫描插件，仅检测url后缀为.do以及.action的数据包。
 - [software-vulnerability-scanner](https://github.com/PortSwigger/software-vulnerability-scanner)：Software Vulnerability Scanner 是一个扫描器增强插件，它会检查网站的一些软件版本信息，然后通过 vulners.com 上的漏洞数据库来查询相应的 CVE 编号，找到的结果会显示在漏洞面板上，不用我们自己手动去查找某个版本的 CVE 。
 - [BurpJSLinkFinder](https://github.com/InitRoot/BurpJSLinkFinder)：插件很好的兼容进了BURP里面，随着你的点击自动进行收集JS里面的路径。
 - [jython-standalone](https://repo1.maven.org/maven2/org/python/jython-standalone/2.7.3/jython-standalone-2.7.3.jar)：Jython是一个将Python语言与Java虚拟机集成的工具，burp中安装python编写插件。
@@ -29,6 +30,7 @@
 - [ssrf-king](https://github.com/ethicalhackingplayground/ssrf-king)：burp插件自动化检测ssrf漏洞。
 - [npscrack](https://github.com/weishen250/npscrack)：蓝队利器、溯源反制、NPS 漏洞利用、NPS exp、NPS poc、Burp插件、一键利用。
 - [burpFakeIP](https://github.com/TheKingOfDuck/burpFakeIP)：伪造请求IP插件。
+- [BurpSuite_403Bypasser](https://github.com/sting8k/BurpSuite_403Bypasser)：绕过 403 受限目录的 burpsuite 扩展。
 
 
 
@@ -46,10 +48,12 @@
 - [dddd](https://github.com/SleepingBag945/dddd)：信息收集和漏洞扫描工具。
 - [EZ](https://github.com/m-sec-org/EZ)：EZ是一款集信息收集、端口扫描、服务暴破、URL爬虫、指纹识别、被动扫描为一体的跨平台漏洞扫描器，渗透测试中，可辅助发现常见的SQL注入、XSS、XXE、SSRF之类的漏洞，通过内置的POC辅助发现Apache Shiro、RabbitMQ、Struts2之类的通用组件漏洞，以及某服VPN、通达OA以及泛微OA之类的被曝出已知漏洞的系统，可谓是外围打点，破局进内网，全面发现漏洞的渗透测试必备武器。
 - [xray](https://github.com/chaitin/xray)：一款功能强大的安全评估工具。
+- [super-xray](https://github.com/4ra1n/super-xray/)：xray GUI版，来帮助新人更快使用。
 - [rad](https://github.com/chaitin/rad)：一款专为安全扫描而生的浏览器爬虫。
 - [katana](https://github.com/projectdiscovery/katana)：一款专为安全扫描而生的浏览器爬虫。
 - [在线端口扫描](http://coolaf.com/tool/port)：在线端口扫描工具。
 - [goby](https://gobysec.net/)：综合漏洞扫描工具。
+- [Hyacinth](https://github.com/pureqh/Hyacinth)：一款java漏洞集合工具，其中包含Struts2、Fastjson、Weblogic（xml）、Shiro、Log4j、Jboss、SpringCloud、等漏洞检测利用模块，及免杀webshell生成模块 Bypass、以及一些小工具模块等。
 - [vulmap](https://github.com/zhzyker/vulmap)：Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞利用功能, 目前支持的 webapps 包括 activemq, flink, shiro, solr, struts2, tomcat, unomi, drupal, elasticsearch, fastjson, jenkins, nexus, weblogic, jboss, spring, thinkphp。
 - [nikto](https://github.com/sullo/nikto)：nikto是一款比较综合性的漏洞扫描工具。支持XSS SQL注入等常见的漏洞扫描，因其使用简单，扫描效率比较高。
 - [yakit](https://github.com/yaklang/yakit)：综合漏洞扫描工具、单兵作战武器库、可以代替BurpSuite。
@@ -123,6 +127,7 @@
 - [Search_Viewer](https://github.com/G3et/Search_Viewer)：网络空间搜索引擎客户端，目前支持fofa、shodan、hunter、quake、zoomeye。
 - [fofa_viewer](https://github.com/wgpsec/fofa_viewer)：Fofa Viewer 是一个用 JavaFX 编写的用户友好的 FOFA 客户端。
 - [TideFinger](https://github.com/TideSec/TideFinger)：TideFinger——指纹识别小工具，汲取整合了多个web指纹库，结合了多种指纹检测方法，让指纹检测更快捷、准确。
+- [云悉](https://www.yunsee.cn/)：云悉WEB资产梳理-在线CMS指纹识别平台。
 - [Github-Monitor](https://github.com/VKSRC/Github-Monitor)：监控Github代码仓库的系统。
 - [Hawkeye](https://github.com/0xbug/Hawkeye)：监控github代码库，及时发现员工托管公司代码到GitHub行为并预警，降低代码泄露风险。
 - [BBScan](https://github.com/lijiejie/BBScan)：BBScan 是一个高并发、轻量级的信息泄露扫描工具。
@@ -166,6 +171,8 @@
 - [河马webshell查杀工具](https://www.shellpub.com/)：河马webshell查杀工具（安装版）。
 - [日志分析工具合集](https://www.cnblogs.com/xiaozi/p/13198071.html)：应急响应日志分析工具 。
 - [BlueTeamTools](https://github.com/abc123info/BlueTeamTools)：蓝队分析工具箱by:ABC_123 "蓝队分析研判工具箱"就是把我平时写的蓝队小工具集合起来形成的，重点解决蓝队分析工作中的一些痛点问题 。
+- [processhacker](https://processhacker.sourceforge.io/downloads.php)：一款强大的系统监控与管理工具。
+
 
 
 
@@ -246,7 +253,7 @@
 - [upload-labs](https://github.com/c0ny1/upload-labs)：upload-labs是一个使用php语言编写的，专门收集渗透测试和CTF中遇到的各种上传漏洞的靶场。
 - [sqli-labs](https://github.com/Audi-1/sqli-labs)：sql注入练习靶场。
 - [ctfhub](https://www.ctfhub.com/#/index)：在线版ctf靶场。
-- [acunetix](http://testphp.vulnweb.com/)：acunetix在线靶场。
+- [acunetix](http://vulnweb.com/)：acunetix在线靶场。
 
 
 
