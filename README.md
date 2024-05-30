@@ -42,6 +42,7 @@
 - [WeblogicScan](https://github.com/rabbitmask/WeblogicScan)：Weblogic一键漏洞检测工具。
 - [fastjson_rec_exploit](https://github.com/mrknow001/fastjson_rec_exploit)：fastjson一键漏洞检测工具。
 - [ShiroAttack2](https://github.com/SummerSec/ShiroAttack2)：一款针对Shiro550漏洞进行快速漏洞利用工具。
+- [ShiroExploit-Deprecated](https://github.com/feihong-cs/ShiroExploit-Deprecated)：Shiro550/Shiro721 一键化利用工具，支持多种回显方式。
 - [springboot core命令执行](https://github.com/zangcc/CVE-2022-22965-rexbb)：springboot core 命令执行漏洞，CVE-2022-22965漏洞利用工具，基于JavaFx开发，图形化操作更简单，提高效率。
 - [ThinkphpGUI](https://github.com/Lotus6/ThinkphpGUI)：Thinkphp(GUI)漏洞利用工具，支持各版本TP漏洞检测，命令执行，getshell。
 - [heapdump_tool](https://github.com/wyzxxz/heapdump_tool)：对pringboot actuator未授权泄露的heapdump文件进行解密，可解密出账号密码等敏感信息。
@@ -63,6 +64,7 @@
 - [SNETCracker](https://github.com/shack2/SNETCracker)：超级弱口令检查工具是一款Windows平台的弱口令审计工具，工具目前支持SSH、RDP、SMB、MySQL、SQLServer、Oracle、FTP、MongoDB、Memcached、PostgreSQL、Telnet、SMTP、SMTP_SSL、POP3、POP3_SSL、IMAP、IMAP_SSL、SVN、VNC、Redis等服务的弱口令检查工作。
 - [nessus](https://mp.weixin.qq.com/s/JnIQL8FeYcqWR4zES56K_g)：综合漏洞扫描工具。
 - [awvs](https://mp.weixin.qq.com/s/IclMKi0mZj75gbntntat8A)：综合漏洞扫描工具。
+- [XSStrike](https://github.com/s0md3v/XSStrike)：XSStrike 是一款专门用于检测和利用跨站脚本（XSS）漏洞的工具。
 - [scan4all](https://github.com/GhostTroops/scan4all)：综合漏洞扫描工具。
 - [afrog](https://github.com/zan8in/afrog)：综合漏洞扫描工具。
 - [OA-EXPTOOL](https://github.com/LittleBear4/OA-EXPTOOL)：OA综合漏洞检测工具（与msf操作方法类似）。
@@ -254,6 +256,7 @@
 - [sqli-labs](https://github.com/Audi-1/sqli-labs)：sql注入练习靶场。
 - [ctfhub](https://www.ctfhub.com/#/index)：在线版ctf靶场。
 - [acunetix](http://vulnweb.com/)：acunetix在线靶场。
+- [portswigger](https://portswigger.net/web-security)：BurpSuite官方靶场。
 
 
 
