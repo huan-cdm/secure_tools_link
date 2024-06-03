@@ -42,6 +42,8 @@
 - [WeblogicScan](https://github.com/rabbitmask/WeblogicScan)：Weblogic一键漏洞检测工具。
 - [fastjson_rec_exploit](https://github.com/mrknow001/fastjson_rec_exploit)：fastjson一键漏洞检测工具。
 - [ShiroAttack2](https://github.com/SummerSec/ShiroAttack2)：一款针对Shiro550漏洞进行快速漏洞利用工具。
+- [shiro_rce_tool](https://github.com/wyzxxz/shiro_rce_tool)：shiro利用工具交互式。
+- [shiro-exploit](https://github.com/Ares-X/shiro-exploit)：Shiro反序列化利用工具，支持新版本(AES-GCM)Shiro的key爆破，配合ysoserial，生成回显Payload。
 - [ShiroExploit-Deprecated](https://github.com/feihong-cs/ShiroExploit-Deprecated)：Shiro550/Shiro721 一键化利用工具，支持多种回显方式。
 - [springboot core命令执行](https://github.com/zangcc/CVE-2022-22965-rexbb)：springboot core 命令执行漏洞，CVE-2022-22965漏洞利用工具，基于JavaFx开发，图形化操作更简单，提高效率。
 - [ThinkphpGUI](https://github.com/Lotus6/ThinkphpGUI)：Thinkphp(GUI)漏洞利用工具，支持各版本TP漏洞检测，命令执行，getshell。
@@ -200,6 +202,7 @@
 - [Postern](https://pan.baidu.com/s/19FRlASE-v5iCinyYGxoudQ?pwd=bbwt)：Android代理客户端，和Charles、BurpSuite配合使用。
 - [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)：APP漏洞扫描平台。
 - [jadx-gui](https://github.com/skylot/jadx)：apk反编译工具。
+- [jd-gui](https://java-decompiler.github.io/)：Java反编译工具。
 - [PKID](https://pan.baidu.com/s/1OVm7BPEitIMZLPzSQXSRcg?pwd=7vk8)：apk查壳工具。
 - [Xposed模块仓库](https://modules.lsposed.org/)：Xposed模块仓库。
 
@@ -238,8 +241,12 @@
 
 
 
-##### 接口分析工具汇总
+##### API接口测试汇总
+- [API测试文章](https://mp.weixin.qq.com/s/Dhbm9Q6VMCRZADIUGzz4Jg)：API测试文章。
 - [Apifox](https://apifox.com/)：Apifox是一个集接口文档、接口调试、自动化测试、Mock服务于一体的全新一代API管理工具。它通过图形界面提供了一种简单直观的方式来创建、管理和测试API接口，无论是前端开发者、后端开发者还是测试人员都能快速上手。Apifox不仅支持RESTful API，也支持GraphQL、Dubbo等多种接口类型，满足不同项目的需求。
+- [Postman](https://www.postman.com/downloads/)：API调试工具。
+- [swagger-exp](https://github.com/lijiejie/swagger-exp)： Swagger REST API 信息泄露利用工具。
+- [api-scanner](https://pentest-tools.com/website-vulnerability-scanning/api-scanner)：
 
 
 
@@ -303,6 +310,7 @@
 - [T Wiki](https://wiki.teamssix.com/about/)：云安全知识文库。
 - [渗透师导航](https://www.shentoushi.top/)：渗透师导航。
 - [SummaryOf2022](https://github.com/abc123info/SummaryOf2022)：2022年ABC123公众号年刊 2023年ABC123公众号年刊。
+- [SDL序列课程](https://mp.weixin.qq.com/s/-PkwA5Hd4m82jKsgo-d86w)：SDL第一阶段的总结，还是简单一点的总结吧，主要围绕了从理论到实战，从不同的角度来看待SDL的建设存在的问题点、风险点、解决点，一共发表了13篇文章，大家可以具体看对应的内容。
 
 
 
