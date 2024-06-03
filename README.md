@@ -54,6 +54,11 @@
 - [katana](https://github.com/projectdiscovery/katana)：一款专为安全扫描而生的浏览器爬虫。
 - [在线端口扫描](http://coolaf.com/tool/port)：在线端口扫描工具。
 - [goby](https://gobysec.net/)：综合漏洞扫描工具。
+- [pocsuite3](https://github.com/knownsec/pocsuite3)：开源的远程漏洞测试框架。
+- [myscan](https://github.com/amcai/myscan)：myscan是参考awvs的poc目录架构，pocsuite3、sqlmap等代码框架，以及搜集互联网上大量的poc，由python3开发而成的被动扫描工具。
+- [pocscan](https://github.com/DSO-Lab/pocscan)：该工具主要用于指纹识别后，进行漏洞精准扫描。
+- [w9scan](https://github.com/w-digital-scanner/w9scan)：一款全能型的网站漏洞扫描器，借鉴了各位前辈的优秀代码。内置1200+插件可对网站进行一次规模的检测，功能包括但不限于web指纹检测、端口指纹检测、网站结构分析、各种流行的漏洞检测、爬虫以及SQL注入检测、XSS检测等等，w9scan会自动生成精美HTML格式结果报告。
+- [railgun](https://github.com/lz520520/railgun/)：Railgun为一款GUI界面的渗透工具，将部分人工经验转换为自动化，集成了渗透过程中常用到的一些功能，目前集成了端口扫描、端口爆破、web指纹扫描、漏洞扫描、漏洞利用以及编码转换功能，后续会持续更新。
 - [Hyacinth](https://github.com/pureqh/Hyacinth)：一款java漏洞集合工具，其中包含Struts2、Fastjson、Weblogic（xml）、Shiro、Log4j、Jboss、SpringCloud、等漏洞检测利用模块，及免杀webshell生成模块 Bypass、以及一些小工具模块等。
 - [vulmap](https://github.com/zhzyker/vulmap)：Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞利用功能, 目前支持的 webapps 包括 activemq, flink, shiro, solr, struts2, tomcat, unomi, drupal, elasticsearch, fastjson, jenkins, nexus, weblogic, jboss, spring, thinkphp。
 - [nikto](https://github.com/sullo/nikto)：nikto是一款比较综合性的漏洞扫描工具。支持XSS SQL注入等常见的漏洞扫描，因其使用简单，扫描效率比较高。
@@ -67,6 +72,7 @@
 - [XSStrike](https://github.com/s0md3v/XSStrike)：XSStrike 是一款专门用于检测和利用跨站脚本（XSS）漏洞的工具。
 - [scan4all](https://github.com/GhostTroops/scan4all)：综合漏洞扫描工具。
 - [afrog](https://github.com/zan8in/afrog)：综合漏洞扫描工具。
+- [prismx](https://github.com/yqcs/prismx)：棱镜 X 一体化的轻量型跨平台渗透系统。
 - [OA-EXPTOOL](https://github.com/LittleBear4/OA-EXPTOOL)：OA综合漏洞检测工具（与msf操作方法类似）。
 - [I-Wanna-Get-All](https://github.com/R4gd0ll/I-Wanna-Get-All)：OA综合漏洞检测工具（图形化）。
 - [超级未授权检测工具](https://pan.baidu.com/s/1cfYdWoETxKeNf5myCqY_OA?from=init&pwd=0000)：超级未授权检测工具，目前已实现47种未授权检测。
@@ -91,6 +97,8 @@
 支持主机存活探测、端口扫描、常见服务的爆破、ms17010、redis批量写公钥、计划任务反弹shell、读取win网卡信息、web指纹识别、web漏洞扫描、netbios探测、域控识别等功能。
 - [Ladon](https://github.com/k8gege/Ladon)：Ladon大型内网渗透工具集合
 - [EquationToolsGUI](https://github.com/abc123info/EquationToolsGUI)：仅用来扫描和验证MS17-010、MS09-050、MS08-067漏洞，并可协助管理员修复系统漏洞。
+- [ServerScan](https://github.com/Adminisme/ServerScan)：一款使用Golang开发且适用于攻防演习内网横向信息收集的高并发网络扫描、服务探测工具。
+- [Windows提权辅助工具](https://i.hacking8.com/tiquan/)：在线版Windows 提权辅助工具。
 
 
 
@@ -140,6 +148,7 @@
 - [wafw00f](https://github.com/EnableSecurity/wafw00f)：waf识别工具。
 - [七麦数据](https://www.qimai.cn/)：企业app搜索网站。
 - [小蓝本](https://sou.xiaolanben.com/pc)：企业网站资产查询，配合天眼查、企查查等。
+- [天眼查](https://www.tianyancha.com/)：天眼查。
 - [virustotal](https://www.virustotal.com/graph/)：企业资产梳理，包括子域名等，需要登录。
 - [ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727)：协助红队人员快速的信息收集，测绘目标资产，寻找薄弱点。
 
@@ -220,6 +229,8 @@
 
 ##### 暴力破解字典汇总
 - [fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts)：暴力破解字典。
+- [字典](https://github.com/coffinxp/payloads)：暴力破解字典。
+- [Web-Fuzzing-Box](https://github.com/gh0stkey/Web-Fuzzing-Box)：Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱口令暴力破解、目录以及文件枚举、Web漏洞...。
 - [weakpass](https://zzzteph.github.io/weakpass/)：在线密码字典生成网站。
 - [密码字典生成器](https://www.shentoushi.top/tools/dict/index.php)：在线密码字典生成网站。
 - [UserNameDictTools](https://github.com/abc123info/UserNameDictTools)：用户名字典生成工具V0.2发布，(将中文汉字姓名转成11种格式的拼音)。
@@ -331,6 +342,7 @@
 - [base64](https://tool.chinaz.com/Tools/Base64.aspx)：base64编码转换网站。
 - [aes](http://tool.chacuo.net/cryptaes)：aes加解密网站。
 - [字符串<->十六进制](https://www.sojson.com/hexadecimal.html)：十六进制字符串转换网站。
+- [CTF在线工具](http://www.hiencode.com/)：CTF在线工具。
 
 
 
