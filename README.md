@@ -31,6 +31,7 @@
 - [npscrack](https://github.com/weishen250/npscrack)：蓝队利器、溯源反制、NPS 漏洞利用、NPS exp、NPS poc、Burp插件、一键利用。
 - [burpFakeIP](https://github.com/TheKingOfDuck/burpFakeIP)：伪造请求IP插件。
 - [BurpSuite_403Bypasser](https://github.com/sting8k/BurpSuite_403Bypasser)：绕过 403 受限目录的 burpsuite 扩展。
+- [gatherBurp](https://github.com/kN6jq/gatherBurp)：一款综合的burp插件。
 
 
 
@@ -74,6 +75,7 @@
 - [XSStrike](https://github.com/s0md3v/XSStrike)：XSStrike 是一款专门用于检测和利用跨站脚本（XSS）漏洞的工具。
 - [scan4all](https://github.com/GhostTroops/scan4all)：综合漏洞扫描工具。
 - [afrog](https://github.com/zan8in/afrog)：综合漏洞扫描工具。
+- [oday](https://github.com/Janhsu/oday)：本工具是采用javafx编写，使用sqllite进行poc储存的poc管理和漏洞扫描集成化工具。可以可视化添加POC和指纹进行POC管理和漏洞扫描功能，包含POC管理、漏洞扫描、指纹识别、指纹库等模块。
 - [prismx](https://github.com/yqcs/prismx)：棱镜 X 一体化的轻量型跨平台渗透系统。
 - [OA-EXPTOOL](https://github.com/LittleBear4/OA-EXPTOOL)：OA综合漏洞检测工具（与msf操作方法类似）。
 - [I-Wanna-Get-All](https://github.com/R4gd0ll/I-Wanna-Get-All)：OA综合漏洞检测工具（图形化）。
