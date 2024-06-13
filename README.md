@@ -36,7 +36,7 @@
 
 
 
-##### 漏洞扫描和利用工具汇总
+##### 综合漏洞扫描工具汇总
 - [BurpSuite](https://pan.baidu.com/s/1fG_2tTDbaGUjkk3Br_puSg?pwd=vvkm)：代理抓包工具。
 - [Struts2-Scan](https://github.com/HatBoy/Struts2-Scan)：Struts2漏洞利用扫描工具。
 - [Struts2VulsScanTools](https://github.com/abc123info/Struts2VulsScanTools)：Struts2全版本漏洞检测工具s。
@@ -55,8 +55,9 @@
 - [super-xray](https://github.com/4ra1n/super-xray/)：xray GUI版，来帮助新人更快使用。
 - [rad](https://github.com/chaitin/rad)：一款专为安全扫描而生的浏览器爬虫。
 - [katana](https://github.com/projectdiscovery/katana)：一款专为安全扫描而生的浏览器爬虫。
-- [在线端口扫描](http://coolaf.com/tool/port)：在线端口扫描工具。
 - [goby](https://gobysec.net/)：综合漏洞扫描工具。
+- [linbing](https://github.com/taomujian/linbing)：本系统是对Web中间件和Web框架进行自动化渗透的一个系统,根据扫描选项去自动化收集资产,然后进行POC扫描,POC扫描时会根据指纹选择POC插件去扫描,POC插件扫描用异步方式扫描.前端采用vue技术,后端采用python fastapi。
+- [ScopeSentry](https://github.com/Autumn-27/ScopeSentry)：Scope Sentry是一款具有资产测绘、子域名枚举、信息泄露检测、漏洞扫描、目录扫描、子域名接管、爬虫、页面监控功能的工具，通过构建多个节点，自由选择节点运行扫描任务。当出现新漏洞时可以快速排查关注资产是否存在相关组件。
 - [pocsuite3](https://github.com/knownsec/pocsuite3)：开源的远程漏洞测试框架。
 - [myscan](https://github.com/amcai/myscan)：myscan是参考awvs的poc目录架构，pocsuite3、sqlmap等代码框架，以及搜集互联网上大量的poc，由python3开发而成的被动扫描工具。
 - [pocscan](https://github.com/DSO-Lab/pocscan)：该工具主要用于指纹识别后，进行漏洞精准扫描。
@@ -106,6 +107,7 @@
 
 
 
+
 ##### 摄像头相关汇总
 - [HikvisionIVMSGetShell](https://github.com/Tas9er/HikvisionIVMSGetShell)：海康威视IVMS综合安防管理平台软件漏洞利用工具。
 
@@ -124,35 +126,100 @@
 
 
 
-##### 信息收集工具汇总
-- [EHole](https://github.com/EdgeSecurityTeam/EHole)：EHole是一款对资产中重点系统指纹识别的工具，在红队作战中，信息收集是必不可少的环节，如何才能从大量的资产中提取有用的系统(如OA、VPN、Weblogic...)。EHole旨在帮助红队人员在信息收集期间能够快速从C段、大量杂乱的资产中精准定位到易被攻击的系统，从而实施进一步攻击。
-- [Finger](https://github.com/EASY233/Finger)：一款红队在大量的资产中存活探测与重点攻击系统指纹探测工具。
-- [URLFinder](https://github.com/pingc0y/URLFinder)：URLFinder是一款快速、全面、易用的页面信息提取工具用于分析页面中的js与url,查找隐藏在其中的敏感信息或未授权api接口。
-- [JSFinder](https://github.com/Threezh1/JSFinder)：JSFinder是一款用作快速在网站的js文件中提取URL，子域名的工具。
-- [dirsearch](https://github.com/maurosoria/dirsearch)：网站目录扫描。
-- [Packer-Fuzzer](https://github.com/rtcatc/Packer-Fuzzer)：一款针对Webpack等前端打包工具所构造的网站进行快速、高效安全检测的扫描工具。
+##### 子域名扫描工具汇总
 - [OneForAll](https://github.com/shmilylty/OneForAll)：OneForAll是一款功能强大的子域收集工具。
 - [subDomainsBrute](https://github.com/lijiejie/subDomainsBrute)：子域名收集工具。
-- [证书发现子域名](https://crt.sh/)：基于证书的子域名查询网站。
-- [ARL](https://github.com/TophantTechnology/ARL)：旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
-- [masscan](https://github.com/robertdavidgraham/masscan)：Masscan是一个高速的端口扫描工具,可以在数秒内扫描大量主机和端口。它使用异步套接字和线程,支持IPv4和IPv6网络,并且可以配置多个端口扫描选项。
-- [httpx](https://github.com/projectdiscovery/httpx)：httpx 是一个go语言开发的快速且多用途的 HTTP 工具包，允许使用 retryablehttp 库运行多个探测器。可以获取url的状态，title，jarm等信息，也可以对网站截图。
-- [alivecheck](https://pan.baidu.com/s/1b9MxHb0VoPJ3CI2X3a04dQ?pwd=oc63)：小米范存活检测工具。
-- [Search_Viewer](https://github.com/G3et/Search_Viewer)：网络空间搜索引擎客户端，目前支持fofa、shodan、hunter、quake、zoomeye。
-- [fofa_viewer](https://github.com/wgpsec/fofa_viewer)：Fofa Viewer 是一个用 JavaFX 编写的用户友好的 FOFA 客户端。
+- [Sublist3r](https://github.com/aboul3la/Sublist3r)：子域名收集工具。
+- [crt.sh](https://crt.sh/)：这是一个利用证书透明性收集子域名的工具, 其原理是所有SSL/TLS证书都会被记录并公开访问, 只需要要前往crt.sh并输入要枚举的域名即可。
+- [Google Dorking](https://www.google.com/)：语法：site:*.domain.com -www。
+- [Amass](https://github.com/owasp-amass/amass)：OWASP中的Amass(https://github.com/owasp-amass/amass)是一款功能强大的工具, 它可以通过其API集成连接到其他服务, 使其获取额外的扩展功能。
+- [Recon-ng](https://github.com/lanmaster53/recon-ng)：一款全能型OSINT侦查工具, 可以执行各种任务, 包括: 收集电子邮件, 这里只展示其搜集子域的功能。
+- [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer)：不仅仅是一款子域名枚举工具, 还可以找到其他关键信息,例如: API密钥, 该工具语法简单, 易于使用。
+- [Pentest Tools Subdomain Finder](https://pentest-tools.com/information-gathering/find-subdomains-of-domain)：一款基于网页的轻量级子域名枚举工具, 使用者可以在没有账号的情况下执行扫描, 但如果想要更多的扫描和更多的工具, 可以注册一个免费账户使用。
+- [Shodan](https://www.shodan.io/)：Shodan可以定位子域，并提供基于Web和命令行的界面。要使用Web界面查找子域，访问 https://www.shodan.io/domain/domain.com，将“domain.com”替换为想要枚举的域名。
+- [PureDNS](https://github.com/d3mondev/puredns)：PureDNS可以通过启用每秒数千个同时DNS请求来执行快速的子域名枚举，使用公共解析器。要查找子域名。
+- [ffuf](https://github.com/ffuf/ffuf)：采用更主动的方法进行枚举。它接受一个给定的单词列表，并通过发出HTTP/S请求检查每个条目，从而确定哪些子域存在。
+
+
+
+
+##### 指纹识别工具汇总
+- [EHole](https://github.com/EdgeSecurityTeam/EHole)：EHole是一款对资产中重点系统指纹识别的工具，在红队作战中，信息收集是必不可少的环节，如何才能从大量的资产中提取有用的系统(如OA、VPN、Weblogic...)。EHole旨在帮助红队人员在信息收集期间能够快速从C段、大量杂乱的资产中精准定位到易被攻击的系统，从而实施进一步攻击。
+- [Finger](https://github.com/EASY233/Finger)：一款红队在大量的资产中存活探测与重点攻击系统指纹探测工具。
 - [TideFinger](https://github.com/TideSec/TideFinger)：TideFinger——指纹识别小工具，汲取整合了多个web指纹库，结合了多种指纹检测方法，让指纹检测更快捷、准确。
 - [云悉](https://www.yunsee.cn/)：云悉WEB资产梳理-在线CMS指纹识别平台。
-- [Github-Monitor](https://github.com/VKSRC/Github-Monitor)：监控Github代码仓库的系统。
-- [Hawkeye](https://github.com/0xbug/Hawkeye)：监控github代码库，及时发现员工托管公司代码到GitHub行为并预警，降低代码泄露风险。
+
+
+
+
+##### js文件提取敏感api接口
+- [URLFinder](https://github.com/pingc0y/URLFinder)：URLFinder是一款快速、全面、易用的页面信息提取工具用于分析页面中的js与url,查找隐藏在其中的敏感信息或未授权api接口。
+- [JSFinder](https://github.com/Threezh1/JSFinder)：JSFinder是一款用作快速在网站的js文件中提取URL，子域名的工具。
+- [Packer-Fuzzer](https://github.com/rtcatc/Packer-Fuzzer)：一款针对Webpack等前端打包工具所构造的网站进行快速、高效安全检测的扫描工具。
+
+
+
+
+##### 端口扫描工具汇总
+- [masscan](https://github.com/robertdavidgraham/masscan)：Masscan是一个高速的端口扫描工具,可以在数秒内扫描大量主机和端口。它使用异步套接字和线程,支持IPv4和IPv6网络,并且可以配置多个端口扫描选项。
+- [在线端口扫描](http://coolaf.com/tool/port)：在线端口扫描工具。
+- [RustScan](https://github.com/RustScan/RustScan/)：RustScan是一个现代端口扫描器。官方称可以3秒内扫描完成所有65k个端口。它有完整的脚本引擎支持。自动将结果通过管道传输到 Nmap。我们可以使用官方提供的脚本，或自定义脚本来做我们想做的事。
+- [nmap](https://github.com/nmap/nmap)：端口扫描。
+
+
+
+
+
+##### 目录扫描工具汇总
+- [dirsearch](https://github.com/maurosoria/dirsearch)：网站目录扫描。
 - [BBScan](https://github.com/lijiejie/BBScan)：BBScan 是一个高并发、轻量级的信息泄露扫描工具。
-- [GitHack](https://github.com/lijiejie/GitHack)：GitHack是一个.git泄露利用脚本，通过泄露的.git文件夹下的文件，重建还原工程源代码。
-- [ds_store_exp](https://github.com/lijiejie/ds_store_exp)：ds_store_exp是一个 .DS_Store 文件泄漏利用脚本，它解析.DS_Store文件并递归地下载文件到本地。
-- [AppInfoScanner](https://github.com/kelvinBen/AppInfoScanner)：一款适用于以HW行动/红队/渗透测试团队为场景的移动端(Android、iOS、WEB、H5、静态网站)信息收集扫描工具，可以帮助渗透测试工程师、攻击队成员、红队成员快速收集到移动端或者静态WEB站点中关键的资产信息并提供基本的信息输出,如：Title、Domain、CDN、指纹信息、状态信息等。
-- [WebBatchRequest](https://github.com/ScriptKid-Beta/WebBatchRequest/)：WEB批量请求器（WebBatchRequest）是对目标地址批量进行快速的存活探测、Title获取，简单的banner识别，支持HTTP代理以及可自定义HTTP请求用于批量的漏洞验证等的一款基于JAVA编写的轻量工具。
+- [dirScan](https://github.com/Degree-21/dirScan)：网站目录、后台扫描 基于御剑字典。
+- [dirpro](https://github.com/coleak2021/dirpro)：dirpro 是一款由 python 编写的目录扫描器，操作简单，功能强大，高度自动化自动根据返回状态码和返回长度，对扫描结果进行二次整理和判断，准确性非常高。
+
+
+
+
+##### waf识别工具汇总
 - [wafw00f](https://github.com/EnableSecurity/wafw00f)：waf识别工具。
+
+
+
+
+##### 网络空间搜索客户端汇总
+- [Search_Viewer](https://github.com/G3et/Search_Viewer)：网络空间搜索引擎客户端，目前支持fofa、shodan、hunter、quake、zoomeye。
+- [fofa_viewer](https://github.com/wgpsec/fofa_viewer)：Fofa Viewer 是一个用 JavaFX 编写的用户友好的 FOFA 客户端。
+
+
+
+
+##### github泄露扫描工具汇总
+- [Github-Monitor](https://github.com/VKSRC/Github-Monitor)：监控Github代码仓库的系统。
+- [GitHack](https://github.com/lijiejie/GitHack)：GitHack是一个.git泄露利用脚本，通过泄露的.git文件夹下的文件，重建还原工程源代码。
+- [Hawkeye](https://github.com/0xbug/Hawkeye)：监控github代码库，及时发现员工托管公司代码到GitHub行为并预警，降低代码泄露风险。
+
+
+
+
+##### 企业信息查询汇总
 - [七麦数据](https://www.qimai.cn/)：企业app搜索网站。
 - [小蓝本](https://sou.xiaolanben.com/pc)：企业网站资产查询，配合天眼查、企查查等。
 - [天眼查](https://www.tianyancha.com/)：天眼查。
+- [爱企查](https://aiqicha.baidu.com/?from=pz)：爱企查。
+
+
+
+
+##### 网站存活检测工具汇总
+- [httpx](https://github.com/projectdiscovery/httpx)：httpx 是一个go语言开发的快速且多用途的 HTTP 工具包，允许使用 retryablehttp 库运行多个探测器。可以获取url的状态，title，jarm等信息，也可以对网站截图。
+- [alivecheck](https://pan.baidu.com/s/1b9MxHb0VoPJ3CI2X3a04dQ?pwd=oc63)：小米范存活检测工具。
+
+
+
+
+##### 信息收集工具汇总
+- [ARL](https://github.com/TophantTechnology/ARL)：旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面
+- [ds_store_exp](https://github.com/lijiejie/ds_store_exp)：ds_store_exp是一个 .DS_Store 文件泄漏利用脚本，它解析.DS_Store文件并递归地下载文件到本地。
+- [WebBatchRequest](https://github.com/ScriptKid-Beta/WebBatchRequest/)：WEB批量请求器（WebBatchRequest）是对目标地址批量进行快速的存活探测、Title获取，简单的banner识别，支持HTTP代理以及可自定义HTTP请求用于批量的漏洞验证等的一款基于JAVA编写的轻量工具。
 - [virustotal](https://www.virustotal.com/graph/)：企业资产梳理，包括子域名等，需要登录。
 - [ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727)：协助红队人员快速的信息收集，测绘目标资产，寻找薄弱点。
 
@@ -207,6 +274,7 @@
 - [jd-gui](https://java-decompiler.github.io/)：Java反编译工具。
 - [PKID](https://pan.baidu.com/s/1OVm7BPEitIMZLPzSQXSRcg?pwd=7vk8)：apk查壳工具。
 - [Xposed模块仓库](https://modules.lsposed.org/)：Xposed模块仓库。
+- [AppInfoScanner](https://github.com/kelvinBen/AppInfoScanner)：一款适用于以HW行动/红队/渗透测试团队为场景的移动端(Android、iOS、WEB、H5、静态网站)信息收集扫描工具，可以帮助渗透测试工程师、攻击队成员、红队成员快速收集到移动端或者静态WEB站点中关键的资产信息并提供基本的信息输出,如：Title、Domain、CDN、指纹信息、状态信息等。
 
 
 
