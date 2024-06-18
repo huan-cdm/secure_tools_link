@@ -32,6 +32,8 @@
 - [burpFakeIP](https://github.com/TheKingOfDuck/burpFakeIP)：伪造请求IP插件。
 - [BurpSuite_403Bypasser](https://github.com/sting8k/BurpSuite_403Bypasser)：绕过 403 受限目录的 burpsuite 扩展。
 - [gatherBurp](https://github.com/kN6jq/gatherBurp)：一款综合的burp插件。
+- [xia_Liao](https://github.com/smxiazi/xia_Liao)：xia Liao（瞎料）burp插件 用于Windows在线进程/杀软识别 与 web渗透注册时，快速生成需要的资料用来填写，资料包含：姓名、手机号、身份证、统一社会信用代码、组织机构代码、银行卡，以及各类web语言的hello world输出和生成弱口令字典等。
+- [OneScan](https://github.com/vaycore/OneScan)：OneScan是递归目录扫描的BurpSuite插件。
 
 
 
@@ -56,6 +58,7 @@
 - [rad](https://github.com/chaitin/rad)：一款专为安全扫描而生的浏览器爬虫。
 - [katana](https://github.com/projectdiscovery/katana)：一款专为安全扫描而生的浏览器爬虫。
 - [goby](https://gobysec.net/)：综合漏洞扫描工具。
+- [ARL](https://github.com/TophantTechnology/ARL)：旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
 - [linbing](https://github.com/taomujian/linbing)：本系统是对Web中间件和Web框架进行自动化渗透的一个系统,根据扫描选项去自动化收集资产,然后进行POC扫描,POC扫描时会根据指纹选择POC插件去扫描,POC插件扫描用异步方式扫描.前端采用vue技术,后端采用python fastapi。
 - [ScopeSentry](https://github.com/Autumn-27/ScopeSentry)：Scope Sentry是一款具有资产测绘、子域名枚举、信息泄露检测、漏洞扫描、目录扫描、子域名接管、爬虫、页面监控功能的工具，通过构建多个节点，自由选择节点运行扫描任务。当出现新漏洞时可以快速排查关注资产是否存在相关组件。
 - [pocsuite3](https://github.com/knownsec/pocsuite3)：开源的远程漏洞测试框架。
@@ -104,6 +107,7 @@
 - [EquationToolsGUI](https://github.com/abc123info/EquationToolsGUI)：仅用来扫描和验证MS17-010、MS09-050、MS08-067漏洞，并可协助管理员修复系统漏洞。
 - [ServerScan](https://github.com/Adminisme/ServerScan)：一款使用Golang开发且适用于攻防演习内网横向信息收集的高并发网络扫描、服务探测工具。
 - [Windows提权辅助工具](https://i.hacking8.com/tiquan/)：在线版Windows 提权辅助工具。
+- [shellcodeloader](https://github.com/knownsec/shellcodeloader/)：Windows平台的shellcode免杀加载器。
 
 
 
@@ -139,6 +143,8 @@
 - [Shodan](https://www.shodan.io/)：Shodan可以定位子域，并提供基于Web和命令行的界面。要使用Web界面查找子域，访问 https://www.shodan.io/domain/domain.com，将“domain.com”替换为想要枚举的域名。
 - [PureDNS](https://github.com/d3mondev/puredns)：PureDNS可以通过启用每秒数千个同时DNS请求来执行快速的子域名枚举，使用公共解析器。要查找子域名。
 - [ffuf](https://github.com/ffuf/ffuf)：采用更主动的方法进行枚举。它接受一个给定的单词列表，并通过发出HTTP/S请求检查每个条目，从而确定哪些子域存在。
+- [ksubdomain](https://github.com/boy-hack/ksubdomain)：ksubdomain是一款基于无状态的子域名爆破工具，类似无状态端口扫描，支持在Windows/Linux/Mac上进行快速的DNS爆破，拥有重发机制不用担心漏包。
+
 
 
 
@@ -148,6 +154,7 @@
 - [Finger](https://github.com/EASY233/Finger)：一款红队在大量的资产中存活探测与重点攻击系统指纹探测工具。
 - [TideFinger](https://github.com/TideSec/TideFinger)：TideFinger——指纹识别小工具，汲取整合了多个web指纹库，结合了多种指纹检测方法，让指纹检测更快捷、准确。
 - [云悉](https://www.yunsee.cn/)：云悉WEB资产梳理-在线CMS指纹识别平台。
+- [ObserverWard](https://github.com/0x727/ObserverWard)：侦查守卫(ObserverWard)指纹识别工具。
 
 
 
@@ -165,6 +172,7 @@
 - [在线端口扫描](http://coolaf.com/tool/port)：在线端口扫描工具。
 - [RustScan](https://github.com/RustScan/RustScan/)：RustScan是一个现代端口扫描器。官方称可以3秒内扫描完成所有65k个端口。它有完整的脚本引擎支持。自动将结果通过管道传输到 Nmap。我们可以使用官方提供的脚本，或自定义脚本来做我们想做的事。
 - [nmap](https://github.com/nmap/nmap)：端口扫描。
+- [TXPortMap](https://github.com/4dogs-cn/TXPortMap)：端口扫描工具。
 
 
 
@@ -175,6 +183,7 @@
 - [BBScan](https://github.com/lijiejie/BBScan)：BBScan 是一个高并发、轻量级的信息泄露扫描工具。
 - [dirScan](https://github.com/Degree-21/dirScan)：网站目录、后台扫描 基于御剑字典。
 - [dirpro](https://github.com/coleak2021/dirpro)：dirpro 是一款由 python 编写的目录扫描器，操作简单，功能强大，高度自动化自动根据返回状态码和返回长度，对扫描结果进行二次整理和判断，准确性非常高。
+- [spray](https://github.com/chainreactors/spray)：下一代目录/文件扫描工具。
 
 
 
@@ -200,15 +209,6 @@
 
 
 
-##### 企业信息查询汇总
-- [七麦数据](https://www.qimai.cn/)：企业app搜索网站。
-- [小蓝本](https://sou.xiaolanben.com/pc)：企业网站资产查询，配合天眼查、企查查等。
-- [天眼查](https://www.tianyancha.com/)：天眼查。
-- [爱企查](https://aiqicha.baidu.com/?from=pz)：爱企查。
-
-
-
-
 ##### 网站存活检测工具汇总
 - [httpx](https://github.com/projectdiscovery/httpx)：httpx 是一个go语言开发的快速且多用途的 HTTP 工具包，允许使用 retryablehttp 库运行多个探测器。可以获取url的状态，title，jarm等信息，也可以对网站截图。
 - [alivecheck](https://pan.baidu.com/s/1b9MxHb0VoPJ3CI2X3a04dQ?pwd=oc63)：小米范存活检测工具。
@@ -217,11 +217,47 @@
 
 
 ##### 信息收集工具汇总
-- [ARL](https://github.com/TophantTechnology/ARL)：旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面
 - [ds_store_exp](https://github.com/lijiejie/ds_store_exp)：ds_store_exp是一个 .DS_Store 文件泄漏利用脚本，它解析.DS_Store文件并递归地下载文件到本地。
 - [WebBatchRequest](https://github.com/ScriptKid-Beta/WebBatchRequest/)：WEB批量请求器（WebBatchRequest）是对目标地址批量进行快速的存活探测、Title获取，简单的banner识别，支持HTTP代理以及可自定义HTTP请求用于批量的漏洞验证等的一款基于JAVA编写的轻量工具。
 - [virustotal](https://www.virustotal.com/graph/)：企业资产梳理，包括子域名等，需要登录。
 - [ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727)：协助红队人员快速的信息收集，测绘目标资产，寻找薄弱点。
+- [archive](https://archive.org/)：网站历史站点查询。
+
+
+
+
+##### 企业信息收集汇总
+- [七麦数据](https://www.qimai.cn/)：企业app搜索网站。
+- [小蓝本](https://sou.xiaolanben.com/pc)：企业网站资产查询，配合天眼查、企查查等。
+- [天眼查](https://www.tianyancha.com/)：天眼查。
+- [爱企查](https://aiqicha.baidu.com/?from=pz)：爱企查。
+- [企查查](https://www.qcc.com/)：企查查。
+
+
+
+
+##### APP信息收集汇总
+- [mogua](https://mogua.co/)：app信息收集。
+- [apk2url](https://github.com/n0mi1k/apk2url)：提取apk中的IP和URL。
+- [AppInfoScanner](https://github.com/kelvinBen/AppInfoScanner)：一款适用于以HW行动/红队/渗透测试团队为场景的移动端(Android、iOS、WEB、H5、静态网站)信息收集扫描工具，可以帮助渗透测试工程师、攻击队成员、红队成员快速收集到移动端或者静态WEB站点中关键的资产信息并提供基本的信息输出,如：Title、Domain、CDN、指纹信息、状态信息等。
+
+
+
+
+##### 新平台信息收集汇总
+- [语雀](https://www.yuque.com/)：语雀信息收集。
+- [抖音](https://www.douyin.com/)：抖音信息收集。
+
+
+
+
+##### 证书信息收集汇总
+- [chinassl.net](https://csr.chinassl.net/ssl-checker.html)：证书信息收集。
+
+
+
+##### 网盘信息收集汇总
+- [lingfengyun.com](https://www.lingfengyun.com/)：网盘信息收集。
 
 
 
@@ -254,13 +290,13 @@
 - [日志分析工具合集](https://www.cnblogs.com/xiaozi/p/13198071.html)：应急响应日志分析工具 。
 - [BlueTeamTools](https://github.com/abc123info/BlueTeamTools)：蓝队分析工具箱by:ABC_123 "蓝队分析研判工具箱"就是把我平时写的蓝队小工具集合起来形成的，重点解决蓝队分析工作中的一些痛点问题 。
 - [processhacker](https://processhacker.sourceforge.io/downloads.php)：一款强大的系统监控与管理工具。
+- [Whoamifuck](https://github.com/enomothem/Whoamifuck)：Linux应急响应工具（shell脚本）-V6.0。
 
 
 
 
 
 ##### APP安全测试工具汇总
-- [apk2url](https://github.com/n0mi1k/apk2url)：提取apk中的IP和URL。
 - [apkleaks](https://github.com/dwisiswant0/apkleaks)：apk爬虫工具可提取包内url等信息。
 - [drozer](https://github.com/WithSecureLabs/drozer/)：drozer是一款针对Android系统的安全测试框架。
 - [Yaazhini](https://www.vegabird.com/yaazhini/)：Yaazhini是一款针对Android APK和API的免费漏洞扫描工具，这款工具提供了用户友好的操作界面，广大移动端安全研究人员可以在Yaazhini的帮助下，轻松扫描任何Android应用程序的APK文件以及API接口，而且Yaazhini还会给你提供非常丰富的扫描结果数据。
@@ -274,7 +310,6 @@
 - [jd-gui](https://java-decompiler.github.io/)：Java反编译工具。
 - [PKID](https://pan.baidu.com/s/1OVm7BPEitIMZLPzSQXSRcg?pwd=7vk8)：apk查壳工具。
 - [Xposed模块仓库](https://modules.lsposed.org/)：Xposed模块仓库。
-- [AppInfoScanner](https://github.com/kelvinBen/AppInfoScanner)：一款适用于以HW行动/红队/渗透测试团队为场景的移动端(Android、iOS、WEB、H5、静态网站)信息收集扫描工具，可以帮助渗透测试工程师、攻击队成员、红队成员快速收集到移动端或者静态WEB站点中关键的资产信息并提供基本的信息输出,如：Title、Domain、CDN、指纹信息、状态信息等。
 
 
 
@@ -302,11 +337,18 @@
 
 ##### 暴力破解字典汇总
 - [fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts)：暴力破解字典。
+- [PentesterSpecialDict](https://github.com/a3vilc0de/PentesterSpecialDict)：渗透测试工程师精简化字典。
 - [字典](https://github.com/coffinxp/payloads)：暴力破解字典。
 - [Web-Fuzzing-Box](https://github.com/gh0stkey/Web-Fuzzing-Box)：Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱口令暴力破解、目录以及文件枚举、Web漏洞...。
+
+
+
+
+##### 字典生成工具汇总
 - [weakpass](https://zzzteph.github.io/weakpass/)：在线密码字典生成网站。
 - [密码字典生成器](https://www.shentoushi.top/tools/dict/index.php)：在线密码字典生成网站。
 - [UserNameDictTools](https://github.com/abc123info/UserNameDictTools)：用户名字典生成工具V0.2发布，(将中文汉字姓名转成11种格式的拼音)。
+- [SocialEngineeringDictionaryGenerator](https://github.com/zgjx6/SocialEngineeringDictionaryGenerator)：社会工程学密码生成器，是一个利用个人信息生成密码的工具。
 
 
 
@@ -366,10 +408,9 @@
 
 
 
-##### 博客文库汇总
+##### 博客汇总
 - [乌云](https://wy.zone.ci/bugs.php)：博客和文库整理。
 - [先知社区](https://xz.aliyun.com/)：博客和文库整理。
-- [PeiQi文库](https://peiqi.wgpsec.org/)：博客和文库整理。
 - [Track 安全社区](https://bbs.zkaq.cn/)：博客和文库整理。
 - [freebuf](https://www.freebuf.com/)：博客和文库整理。
 - [离别歌](https://www.leavesongs.com/)：博客和文库整理。
@@ -382,6 +423,12 @@
 - [SummaryOf2022](https://github.com/abc123info/SummaryOf2022)：2022年ABC123公众号年刊 2023年ABC123公众号年刊。
 - [SDL序列课程](https://mp.weixin.qq.com/s/-PkwA5Hd4m82jKsgo-d86w)：SDL第一阶段的总结，还是简单一点的总结吧，主要围绕了从理论到实战，从不同的角度来看待SDL的建设存在的问题点、风险点、解决点，一共发表了13篇文章，大家可以具体看对应的内容。
 
+
+
+
+##### 漏洞文库汇总
+- [PeiQi文库](https://peiqi.wgpsec.org/)：漏洞文库。
+- [POC](https://github.com/wy876/POC)：漏洞文库。
 
 
 
