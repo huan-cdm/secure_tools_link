@@ -34,6 +34,7 @@
 - [gatherBurp](https://github.com/kN6jq/gatherBurp)：一款综合的burp插件。
 - [xia_Liao](https://github.com/smxiazi/xia_Liao)：xia Liao（瞎料）burp插件 用于Windows在线进程/杀软识别 与 web渗透注册时，快速生成需要的资料用来填写，资料包含：姓名、手机号、身份证、统一社会信用代码、组织机构代码、银行卡，以及各类web语言的hello world输出和生成弱口令字典等。
 - [OneScan](https://github.com/vaycore/OneScan)：OneScan是递归目录扫描的BurpSuite插件。
+- [BurpFingerPrint](https://github.com/shuanx/BurpFingerPrint)：攻击过程中，我们通常会用浏览器访问一些资产，该BurpSuite插件实现被动指纹识别+网站提取链接+OA爆破，可帮助我们发现更多资产。
 
 
 
@@ -291,6 +292,7 @@
 - [BlueTeamTools](https://github.com/abc123info/BlueTeamTools)：蓝队分析工具箱by:ABC_123 "蓝队分析研判工具箱"就是把我平时写的蓝队小工具集合起来形成的，重点解决蓝队分析工作中的一些痛点问题 。
 - [processhacker](https://processhacker.sourceforge.io/downloads.php)：一款强大的系统监控与管理工具。
 - [Whoamifuck](https://github.com/enomothem/Whoamifuck)：Linux应急响应工具（shell脚本）-V6.0。
+- [OpenArk](https://github.com/BlackINT3/OpenArk/)：应急响应/逆向工具箱。
 
 
 
@@ -409,6 +411,7 @@
 
 
 ##### 博客汇总
+- [CT Stack安全社区](https://stack.chaitin.com/)：长亭安全社区。
 - [乌云](https://wy.zone.ci/bugs.php)：博客和文库整理。
 - [先知社区](https://xz.aliyun.com/)：博客和文库整理。
 - [Track 安全社区](https://bbs.zkaq.cn/)：博客和文库整理。
