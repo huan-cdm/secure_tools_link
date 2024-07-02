@@ -35,11 +35,13 @@
 - [xia_Liao](https://github.com/smxiazi/xia_Liao)：xia Liao（瞎料）burp插件 用于Windows在线进程/杀软识别 与 web渗透注册时，快速生成需要的资料用来填写，资料包含：姓名、手机号、身份证、统一社会信用代码、组织机构代码、银行卡，以及各类web语言的hello world输出和生成弱口令字典等。
 - [OneScan](https://github.com/vaycore/OneScan)：OneScan是递归目录扫描的BurpSuite插件。
 - [BurpFingerPrint](https://github.com/shuanx/BurpFingerPrint)：攻击过程中，我们通常会用浏览器访问一些资产，该BurpSuite插件实现被动指纹识别+网站提取链接+OA爆破，可帮助我们发现更多资产。
+- [reflector](https://github.com/elkokc/reflector)：BurpSuite反射XSS插件。
 
 
 
 
 ##### 综合漏洞扫描工具汇总
+- [info_scan](https://github.com/huan-cdm/info_scan)：自动化漏洞扫描系统。
 - [BurpSuite](https://pan.baidu.com/s/1fG_2tTDbaGUjkk3Br_puSg?pwd=vvkm)：代理抓包工具。
 - [Struts2-Scan](https://github.com/HatBoy/Struts2-Scan)：Struts2漏洞利用扫描工具。
 - [Struts2VulsScanTools](https://github.com/abc123info/Struts2VulsScanTools)：Struts2全版本漏洞检测工具s。
@@ -213,6 +215,7 @@
 ##### 网站存活检测工具汇总
 - [httpx](https://github.com/projectdiscovery/httpx)：httpx 是一个go语言开发的快速且多用途的 HTTP 工具包，允许使用 retryablehttp 库运行多个探测器。可以获取url的状态，title，jarm等信息，也可以对网站截图。
 - [alivecheck](https://pan.baidu.com/s/1b9MxHb0VoPJ3CI2X3a04dQ?pwd=oc63)：小米范存活检测工具。
+- [FCDN](https://github.com/ccc-f/FCDN)：通过域名批量查找没有使用 cdn、云waf、dmzweb的站点。
 
 
 
@@ -263,10 +266,20 @@
 
 
 
-##### 溯源相关汇总
+##### 流量设备检测规则相关汇总
+- [suricata](https://redmine.openinfosecfoundation.org/projects/suricata)：suricata是开源入侵检测和防御引擎。
+- [yara官方文档](https://yara.readthedocs.io/en/v3.7.0/index.html)：yara官方文档。
+- [yara引擎](https://github.com/VirusTotal/yara/releases)：yara引擎。
+- [yara案例](https://www.yuque.com/p1ut0/qtmgyx/eubd9v)：yara案例。
+- [Lua](https://www.runoob.com/lua/lua-tutorial.html)：Lua学习教程。
+
+
+
+
+
+##### HW相关溯源汇总
 - [IP位置查询](https://ip.sy/)：IP定位查询。
 - [域名备案查询](https://icp.chinaz.com/krev.com)：域名备案查询。
-- [情报社区](https://x.threatbook.com/)：微步在线X情报社区。
 - [REG007](https://www.reg007.com/)：通过手机号和邮箱查询注册过哪些网站。
 - [注册宝](http://www.regbao.com/)：通过手机号和邮箱查询注册过哪些网站。
 - [Privacy](https://privacy.aiuys.com/)：免费社工库（需翻墙访问）。
@@ -278,7 +291,36 @@
 
 
 
-##### 应急响应汇总
+
+##### HW相关威胁情报汇总
+- [360安全大脑](https://ti.360.net/)：360安全大脑。
+- [CNTD网络安全威胁情报共享平台](http://www.cntd.org.cn/)：CNTD网络安全威胁情报共享平台。
+- [深信服威胁情报中心](https://ti.sangfor.com.cn/analysis-platform)：深信服威胁情报中心。
+- [山石网科威胁情报中心](https://ti.hillstonenet.com.cn/main)：山石网科威胁情报中心。
+- [绿盟威胁情报云](https://ti.nsfocus.com/)：绿盟威胁情报云。
+- [安恒安全星图平台](https://ti.dbappsecurity.com.cn/)：安恒安全星图平台。
+- [奇安信威胁情报中心](https://ti.dbappsecurity.com.cn/)：奇安信威胁情报中心。
+- [华为安全中心平台](https://isecurity.huawei.com/sec/web/urlClassification.do#)：华为安全中心平台。
+- [微步在线X情报社区](https://x.threatbook.com/)：微步在线X情报社区。
+- [IBM威胁情报平台](https://exchange.xforce.ibmcloud.com/)：IBM威胁情报平台。
+- [启明星辰威胁情报中心](https://www.venuseye.com.cn/)：启明星辰威胁情报中心。
+- [腾信安全威胁情报中心](https://tix.qq.com/)：腾信安全威胁情报中心。
+- [安天威胁情报中心](https://www.antiycloud.com/#/antiy/index)：安天威胁情报中心。
+
+
+
+
+##### HW相关沙箱汇总
+- [virscan](https://www.virscan.org/)：VirScan是一个多引擎文件检测平台，也是国内最早做文件在线检测的平台之一。
+- [腾讯哈勃分析系统](https://habo.qq.com/)：腾讯哈勃分析系统。
+- [FREEBUF云沙箱](https://mac-cloud.riskivy.com/detect)：FREEBUF云沙箱。
+- [卡巴斯基云沙箱](https://opentip.kaspersky.com/)卡巴斯基云沙箱。
+- [virustotal云沙箱](https://www.virustotal.com/gui/home/upload)virustotal云沙箱。
+
+
+
+
+##### HW相关应急响应工具汇总
 - [D盾_防火墙](https://www.d99net.net/)：webshell查杀工具。
 - [火绒剑](https://www.huorong.cn/)：火绒剑是一款安全工具，主要用于分析和处理恶意程序火绒剑提供了多种功能，包括但不限于程序行为监控、进程管理、启动项管理、内核程序管理、钩子扫描、服务管理、驱动扫描、网络监控、文件管理和注册表管理等。
 - [yara_scan](https://github.com/huan-cdm/yara_scan)：利用yara引擎自定义检测规则，支持静态文件和内存木马的扫描。
@@ -435,6 +477,20 @@
 
 
 
+
+##### 大模型相关汇总
+- [360智脑](https://chat.360.com/)：360智脑。
+- [文心一言](https://yiyan.baidu.com/)：文心一言。
+- [豆包](https://www.doubao.com/chat/)：豆包。
+- [kimi](https://kimi.moonshot.cn/)：Kimi。
+- [智谱清言](https://chatglm.cn/)：智谱清言。
+- [天工AI](https://beta.tiangong.cn/)：天工AI。
+- [讯飞星火大模型](https://xinghuo.xfyun.cn/)：讯飞星火大模型。
+- [通义千问](https://tongyi.aliyun.com/qianwen/)：通义千问。
+- [腾讯混元大模型](https://hunyuan.tencent.com/)：腾讯混元大模型。
+
+
+
 ##### 科学上网代理汇总
 - [GW树洞](https://helloshudong.com/)：科学上网。
 - [一元机场](https://xn--4gq62f52gdss.com/#/login)：科学上网。
@@ -480,5 +536,9 @@
 - [phpstudy](https://www.xp.cn/)：phpStudy是一个PHP调试环境的程序集成包。该程序包集成最新的Apache+PHP+MySQL+phpMyAdmin+ZendOptimizer，一次性安装，无须配置即可使用，是非常方便、好用的PHP调试环境。
 - [Apache Tomcat](https://tomcat.apache.org/)：运行java代码的web服务器。
 
+
+
+##### 数据安全相关汇总
+- [APP违规收集用户信息复现](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU2MDQ0NzkyMw==&action=getalbum&album_id=2372108076222283777&scene=173&from_msgid=2247483938&from_itemidx=1&count=3&nolastread=1#wechat_redirect)：APP违规收集用户信息复现。
 
 -**持续更新中**
