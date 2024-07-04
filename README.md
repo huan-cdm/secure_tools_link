@@ -76,7 +76,6 @@
 - [oracleShell](https://github.com/jas502n/oracleShell)：oracleShell oracle 数据库命令执行、支持普通、DBA、注入3种模式。
 - [nuclei](https://github.com/projectdiscovery/nuclei)：Nuclei 用于基于模板跨目标发送请求，从而实现零误报并提供对大量主机的快速扫描。Nuclei 提供对各种协议的扫描，包括 TCP、DNS、HTTP、SSL、File、Whois、Websocket、Headless 等。凭借强大而灵活的模板，Nuclei 可用于对各种安全检查进行建模。
 - [Fiora](https://github.com/bit4woo/Fiora)：该项目为PoC框架nuclei提供图形界面，实现快速搜索、一键运行等功能，提升nuclei的使用体验。
-- [SNETCracker](https://github.com/shack2/SNETCracker)：超级弱口令检查工具是一款Windows平台的弱口令审计工具，工具目前支持SSH、RDP、SMB、MySQL、SQLServer、Oracle、FTP、MongoDB、Memcached、PostgreSQL、Telnet、SMTP、SMTP_SSL、POP3、POP3_SSL、IMAP、IMAP_SSL、SVN、VNC、Redis等服务的弱口令检查工作。
 - [nessus](https://mp.weixin.qq.com/s/JnIQL8FeYcqWR4zES56K_g)：综合漏洞扫描工具。
 - [awvs](https://mp.weixin.qq.com/s/IclMKi0mZj75gbntntat8A)：综合漏洞扫描工具。
 - [XSStrike](https://github.com/s0md3v/XSStrike)：XSStrike 是一款专门用于检测和利用跨站脚本（XSS）漏洞的工具。
@@ -87,6 +86,7 @@
 - [OA-EXPTOOL](https://github.com/LittleBear4/OA-EXPTOOL)：OA综合漏洞检测工具（与msf操作方法类似）。
 - [I-Wanna-Get-All](https://github.com/R4gd0ll/I-Wanna-Get-All)：OA综合漏洞检测工具（图形化）。
 - [超级未授权检测工具](https://pan.baidu.com/s/1cfYdWoETxKeNf5myCqY_OA?from=init&pwd=0000)：超级未授权检测工具，目前已实现47种未授权检测。
+- [TscanPlus](https://github.com/TideSec/TscanPlus)：一款综合性网络安全检测和运维工具，旨在快速资产发现、识别、检测，构建基础资产信息库，协助甲方安全团队或者安全运维人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
 - [NaturalTeeth](https://github.com/ddwGeGe/NaturalTeeth)：OA系统漏洞利用工具。
 - [EasyPen](https://github.com/lijiejie/EasyPen/)：EasyPen是使用Python + wxPython编写、提供简洁图形界面、支持跨平台的安全扫描工具，可用于企业内外网巡检、应急响应、白帽子对各SRC的持续检测。
 - [goon](https://github.com/i11us0ry/goon/)：goon,集合了fscan和kscan等优秀工具功能的扫描爆破工具。
@@ -99,6 +99,7 @@
 - [Cloud-Bucket-Leak-Detection-Tools](https://github.com/UzJu/Cloud-Bucket-Leak-Detection-Tools)：六大云存储，泄露利用检测工具。
 - [marshalsec](https://github.com/mbechler/marshalsec)：Java反序列漏洞利用工具，快速开启RMI和LDAP服务，下载使maven进行编译即可。
 - [ysoserial](https://github.com/frohoff/ysoserial)：Java反序列漏洞利用工具。
+
 
 
 
@@ -181,6 +182,14 @@
 
 
 
+##### 弱口令爆破工具汇总
+- [SNETCracker](https://github.com/shack2/SNETCracker)：超级弱口令检查工具是一款Windows平台的弱口令审计工具，工具目前支持SSH、RDP、SMB、MySQL、SQLServer、Oracle、FTP、MongoDB、Memcached、PostgreSQL、Telnet、SMTP、SMTP_SSL、POP3、POP3_SSL、IMAP、IMAP_SSL、SVN、VNC、Redis等服务的弱口令检查工作。
+- [hydra](https://github.com/vanhauser-thc/thc-hydra)：hydra作为一款暴力破解工具，可以帮助渗透测试人员暴力破解网络服务密码。hydra可以对50多种协议进行快速字典攻击，包括telnet、ftp、http、https、smb、数据库和一些其他服务。hydra由知名黑客组织The Hacker's Choice开发，最早于2000年作为一款POC工具发布。hydra也是一个多线程登录爆破程序，这可以大大提高爆破所用的时间，同样支持apt-get install hydra(ubuntu)。
+
+
+
+
+
 ##### 目录扫描工具汇总
 - [dirsearch](https://github.com/maurosoria/dirsearch)：网站目录扫描。
 - [BBScan](https://github.com/lijiejie/BBScan)：BBScan 是一个高并发、轻量级的信息泄露扫描工具。
@@ -200,6 +209,7 @@
 ##### 网络空间搜索客户端汇总
 - [Search_Viewer](https://github.com/G3et/Search_Viewer)：网络空间搜索引擎客户端，目前支持fofa、shodan、hunter、quake、zoomeye。
 - [fofa_viewer](https://github.com/wgpsec/fofa_viewer)：Fofa Viewer 是一个用 JavaFX 编写的用户友好的 FOFA 客户端。
+- [ThunderSearch](https://github.com/xzajyjs/ThunderSearch)：小而美【支持Fofa、Shodan、Hunter、Zoomeye、Quake网络空间搜索引擎】闪电搜索器；GUI图形化(Mac/Windows)渗透测试信息搜集工具；资产搜集引擎；hw红队工具hvv。
 
 
 
@@ -226,7 +236,8 @@
 - [virustotal](https://www.virustotal.com/graph/)：企业资产梳理，包括子域名等，需要登录。
 - [ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727)：协助红队人员快速的信息收集，测绘目标资产，寻找薄弱点。
 - [archive](https://archive.org/)：网站历史站点查询。
-
+- [SiteScan](https://github.com/kracer127/SiteScan)：专注一站化解决渗透测试的信息收集任务，功能包括域名ip历史解析、nmap常见端口爆破、子域名信息收集、旁站信息收集、whois信息收集、网站架构分析、cms解析、备案信息收集、CDN信息解析、是否存在waf检测、后台寻找以及生成检测结果html报告表。
+- [zpscan](https://github.com/niudaii/zpscan)：一个有点好用的信息收集工具。
 
 
 
@@ -304,7 +315,7 @@
 - [微步在线X情报社区](https://x.threatbook.com/)：微步在线X情报社区。
 - [IBM威胁情报平台](https://exchange.xforce.ibmcloud.com/)：IBM威胁情报平台。
 - [启明星辰威胁情报中心](https://www.venuseye.com.cn/)：启明星辰威胁情报中心。
-- [腾信安全威胁情报中心](https://tix.qq.com/)：腾信安全威胁情报中心。
+- [腾讯安全威胁情报中心](https://tix.qq.com/)：讯安全威胁情报中心。
 - [安天威胁情报中心](https://www.antiycloud.com/#/antiy/index)：安天威胁情报中心。
 
 
