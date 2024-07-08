@@ -43,34 +43,19 @@
 ##### 综合漏洞扫描工具汇总
 - [info_scan](https://github.com/huan-cdm/info_scan)：自动化漏洞扫描系统。
 - [BurpSuite](https://pan.baidu.com/s/1fG_2tTDbaGUjkk3Br_puSg?pwd=vvkm)：代理抓包工具。
-- [Struts2-Scan](https://github.com/HatBoy/Struts2-Scan)：Struts2漏洞利用扫描工具。
 - [Struts2VulsScanTools](https://github.com/abc123info/Struts2VulsScanTools)：Struts2全版本漏洞检测工具s。
-- [WeblogicScan](https://github.com/rabbitmask/WeblogicScan)：Weblogic一键漏洞检测工具。
-- [fastjson_rec_exploit](https://github.com/mrknow001/fastjson_rec_exploit)：fastjson一键漏洞检测工具。
-- [ShiroAttack2](https://github.com/SummerSec/ShiroAttack2)：一款针对Shiro550漏洞进行快速漏洞利用工具。
-- [shiro_rce_tool](https://github.com/wyzxxz/shiro_rce_tool)：shiro利用工具交互式。
 - [shiro-exploit](https://github.com/Ares-X/shiro-exploit)：Shiro反序列化利用工具，支持新版本(AES-GCM)Shiro的key爆破，配合ysoserial，生成回显Payload。
 - [ShiroExploit-Deprecated](https://github.com/feihong-cs/ShiroExploit-Deprecated)：Shiro550/Shiro721 一键化利用工具，支持多种回显方式。
 - [springboot core命令执行](https://github.com/zangcc/CVE-2022-22965-rexbb)：springboot core 命令执行漏洞，CVE-2022-22965漏洞利用工具，基于JavaFx开发，图形化操作更简单，提高效率。
-- [ThinkphpGUI](https://github.com/Lotus6/ThinkphpGUI)：Thinkphp(GUI)漏洞利用工具，支持各版本TP漏洞检测，命令执行，getshell。
 - [heapdump_tool](https://github.com/wyzxxz/heapdump_tool)：对pringboot actuator未授权泄露的heapdump文件进行解密，可解密出账号密码等敏感信息。
 - [dddd](https://github.com/SleepingBag945/dddd)：信息收集和漏洞扫描工具。
 - [EZ](https://github.com/m-sec-org/EZ)：EZ是一款集信息收集、端口扫描、服务暴破、URL爬虫、指纹识别、被动扫描为一体的跨平台漏洞扫描器，渗透测试中，可辅助发现常见的SQL注入、XSS、XXE、SSRF之类的漏洞，通过内置的POC辅助发现Apache Shiro、RabbitMQ、Struts2之类的通用组件漏洞，以及某服VPN、通达OA以及泛微OA之类的被曝出已知漏洞的系统，可谓是外围打点，破局进内网，全面发现漏洞的渗透测试必备武器。
-- [xray](https://github.com/chaitin/xray)：一款功能强大的安全评估工具。
 - [super-xray](https://github.com/4ra1n/super-xray/)：xray GUI版，来帮助新人更快使用。
 - [rad](https://github.com/chaitin/rad)：一款专为安全扫描而生的浏览器爬虫。
 - [katana](https://github.com/projectdiscovery/katana)：一款专为安全扫描而生的浏览器爬虫。
-- [goby](https://gobysec.net/)：综合漏洞扫描工具。
-- [ARL](https://github.com/TophantTechnology/ARL)：旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
 - [linbing](https://github.com/taomujian/linbing)：本系统是对Web中间件和Web框架进行自动化渗透的一个系统,根据扫描选项去自动化收集资产,然后进行POC扫描,POC扫描时会根据指纹选择POC插件去扫描,POC插件扫描用异步方式扫描.前端采用vue技术,后端采用python fastapi。
 - [ScopeSentry](https://github.com/Autumn-27/ScopeSentry)：Scope Sentry是一款具有资产测绘、子域名枚举、信息泄露检测、漏洞扫描、目录扫描、子域名接管、爬虫、页面监控功能的工具，通过构建多个节点，自由选择节点运行扫描任务。当出现新漏洞时可以快速排查关注资产是否存在相关组件。
-- [pocsuite3](https://github.com/knownsec/pocsuite3)：开源的远程漏洞测试框架。
-- [myscan](https://github.com/amcai/myscan)：myscan是参考awvs的poc目录架构，pocsuite3、sqlmap等代码框架，以及搜集互联网上大量的poc，由python3开发而成的被动扫描工具。
-- [pocscan](https://github.com/DSO-Lab/pocscan)：该工具主要用于指纹识别后，进行漏洞精准扫描。
-- [w9scan](https://github.com/w-digital-scanner/w9scan)：一款全能型的网站漏洞扫描器，借鉴了各位前辈的优秀代码。内置1200+插件可对网站进行一次规模的检测，功能包括但不限于web指纹检测、端口指纹检测、网站结构分析、各种流行的漏洞检测、爬虫以及SQL注入检测、XSS检测等等，w9scan会自动生成精美HTML格式结果报告。
-- [railgun](https://github.com/lz520520/railgun/)：Railgun为一款GUI界面的渗透工具，将部分人工经验转换为自动化，集成了渗透过程中常用到的一些功能，目前集成了端口扫描、端口爆破、web指纹扫描、漏洞扫描、漏洞利用以及编码转换功能，后续会持续更新。
 - [Hyacinth](https://github.com/pureqh/Hyacinth)：一款java漏洞集合工具，其中包含Struts2、Fastjson、Weblogic（xml）、Shiro、Log4j、Jboss、SpringCloud、等漏洞检测利用模块，及免杀webshell生成模块 Bypass、以及一些小工具模块等。
-- [vulmap](https://github.com/zhzyker/vulmap)：Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞利用功能, 目前支持的 webapps 包括 activemq, flink, shiro, solr, struts2, tomcat, unomi, drupal, elasticsearch, fastjson, jenkins, nexus, weblogic, jboss, spring, thinkphp。
 - [nikto](https://github.com/sullo/nikto)：nikto是一款比较综合性的漏洞扫描工具。支持XSS SQL注入等常见的漏洞扫描，因其使用简单，扫描效率比较高。
 - [yakit](https://github.com/yaklang/yakit)：综合漏洞扫描工具、单兵作战武器库、可以代替BurpSuite。
 - [oracleShell](https://github.com/jas502n/oracleShell)：oracleShell oracle 数据库命令执行、支持普通、DBA、注入3种模式。
@@ -80,7 +65,6 @@
 - [awvs](https://mp.weixin.qq.com/s/IclMKi0mZj75gbntntat8A)：综合漏洞扫描工具。
 - [XSStrike](https://github.com/s0md3v/XSStrike)：XSStrike 是一款专门用于检测和利用跨站脚本（XSS）漏洞的工具。
 - [scan4all](https://github.com/GhostTroops/scan4all)：综合漏洞扫描工具。
-- [afrog](https://github.com/zan8in/afrog)：综合漏洞扫描工具。
 - [oday](https://github.com/Janhsu/oday)：本工具是采用javafx编写，使用sqllite进行poc储存的poc管理和漏洞扫描集成化工具。可以可视化添加POC和指纹进行POC管理和漏洞扫描功能，包含POC管理、漏洞扫描、指纹识别、指纹库等模块。
 - [prismx](https://github.com/yqcs/prismx)：棱镜 X 一体化的轻量型跨平台渗透系统。
 - [OA-EXPTOOL](https://github.com/LittleBear4/OA-EXPTOOL)：OA综合漏洞检测工具（与msf操作方法类似）。
@@ -99,25 +83,85 @@
 - [Cloud-Bucket-Leak-Detection-Tools](https://github.com/UzJu/Cloud-Bucket-Leak-Detection-Tools)：六大云存储，泄露利用检测工具。
 - [marshalsec](https://github.com/mbechler/marshalsec)：Java反序列漏洞利用工具，快速开启RMI和LDAP服务，下载使maven进行编译即可。
 - [ysoserial](https://github.com/frohoff/ysoserial)：Java反序列漏洞利用工具。
+- [murphysec](https://github.com/murphysecurity/murphysec)：An open source tool focused on software supply chain security. 墨菲安全专注于软件供应链安全，具备专业的软件成分分析（SCA）、漏洞检测、专业漏洞库。
 
+
+
+
+
+##### 红队前期打点工具汇总
+- [EHole](https://github.com/EdgeSecurityTeam/EHole)：EHole是一款对资产中重点系统指纹识别的工具，在红队作战中，信息收集是必不可少的环节，如何才能从大量的资产中提取有用的系统(如OA、VPN、Weblogic...)。EHole旨在帮助红队人员在信息收集期间能够快速从C段、大量杂乱的资产中精准定位到易被攻击的系统，从而实施进一步攻击。
+- [Finger](https://github.com/EASY233/Finger)：一款红队在大量的资产中存活探测与重点攻击系统指纹探测工具。
+- [ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727)：协助红队人员快速的信息收集，测绘目标资产，寻找薄弱点。
+- [AppInfoScanner](https://github.com/kelvinBen/AppInfoScanner)：一款适用于以HW行动/红队/渗透测试团队为场景的移动端(Android、iOS、WEB、H5、静态网站)信息收集扫描工具，可以帮助渗透测试工程师、攻击队成员、红队成员快速收集到移动端或者静态WEB站点中关键的资产信息并提供基本的信息输出,如：Title、Domain、CDN、指纹信息、状态信息等。
+- [POC-bomber](https://github.com/tr0uble-mAker/POC-bomber)：利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点
+- [afrog](https://github.com/zan8in/afrog)：综合漏洞扫描工具。
+- [vulmap](https://github.com/zhzyker/vulmap)：Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞利用功能, 目前支持的 webapps 包括 activemq, flink, shiro, solr, struts2, tomcat, unomi, drupal, elasticsearch, fastjson, jenkins, nexus, weblogic, jboss, spring, thinkphp。
+- [fscan](https://github.com/shadow1ng/fscan)：一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
+- [railgun](https://github.com/lz520520/railgun/)：Railgun为一款GUI界面的渗透工具，将部分人工经验转换为自动化，集成了渗透过程中常用到的一些功能，目前集成了端口扫描、端口爆破、web指纹扫描、漏洞扫描、漏洞利用以及编码转换功能，后续会持续更新。
+- [Web-Fuzzing-Box](https://github.com/gh0stkey/Web-Fuzzing-Box)：Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱口令暴力破解、目录以及文件枚举、Web漏洞...。
+- [ServerScan](https://github.com/Adminisme/ServerScan)：一款使用Golang开发且适用于攻防演习内网横向信息收集的高并发网络扫描、服务探测工具。
+- [goby](https://gobysec.net/)：综合漏洞扫描工具。
+- [xray](https://github.com/chaitin/xray)：一款功能强大的安全评估工具。
+- [pocscan](https://github.com/DSO-Lab/pocscan)：该工具主要用于指纹识别后，进行漏洞精准扫描。
+- [myscan](https://github.com/amcai/myscan)：myscan是参考awvs的poc目录架构，pocsuite3、sqlmap等代码框架，以及搜集互联网上大量的poc，由python3开发而成的被动扫描工具。
+- [w9scan](https://github.com/w-digital-scanner/w9scan)：一款全能型的网站漏洞扫描器，借鉴了各位前辈的优秀代码。内置1200+插件可对网站进行一次规模的检测，功能包括但不限于web指纹检测、端口指纹检测、网站结构分析、各种流行的漏洞检测、爬虫以及SQL注入检测、XSS检测等等，w9scan会自动生成精美HTML格式结果报告。
+- [pocsuite3](https://github.com/knownsec/pocsuite3)：开源的远程漏洞测试框架。
+- [TangGo](https://tanggo.nosugar.tech/)：TangGo是一款国产化综合性测试平台，用于Web站点的功能测试和安全评估。
+- [ApolloScanner](https://github.com/b0bac/ApolloScanner)：自动化巡航扫描框架（可用于红队打点评估）。
+- [kscan](https://github.com/lcvvvv/kscan)：Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种。
+- [bscan](https://github.com/broken5/bscan)：bscan的是一款强大、简单、实用、高效的HTTP扫描器。
+
+
+
+
+##### 中间件框架漏洞利用工具汇总
+- [SpringExploit](https://github.com/SummerSec/SpringExploit)：Spring系列漏洞利用工具。
+- [shiro_rce_tool](https://github.com/wyzxxz/shiro_rce_tool)：shiro 反序列 命令执行辅助检测工具。
+- [ShiroAttack2](https://github.com/SummerSec/ShiroAttack2)：shiro反序列化漏洞综合利用,包含（回显执行命令/注入内存马）修复原版中NoCC的问题。
+- [FastjsonExploit](https://github.com/c0ny1/FastjsonExploit)：fastjson漏洞快速利用框架。
+- [fastjson_rec_exploit](https://github.com/mrknow001/fastjson_rec_exploit)：fastjson一键漏洞检测工具。
+- [jexboss](https://github.com/joaomatosf/jexboss)：Jboss（和 Java 反序列化漏洞）验证和利用工具。
+- [WeblogicScan](https://github.com/rabbitmask/WeblogicScan)：Weblogic一键漏洞检测工具。
+- [weblogicScanner](https://github.com/0xn0ne/weblogicScanner)：weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883。
+- [weblogic-infodetector](https://github.com/woodpecker-appstore/weblogic-infodetector)：woodpecker框架weblogic信息探测插件。
+- [dubbo-exp](https://github.com/threedr3am/dubbo-exp)：dubbo快速利用exp，基本上老版本覆盖100%。
+- [Jiraffe](https://github.com/0x48piraj/Jiraffe)：Jiraffe 是为利用 Jira 实例而编写的半自动安全工具。
+- [STS2G](https://github.com/xfiftyone/STS2G)：Struts2漏洞扫描利用工具 - Golang版。
+- [Struts2-Scan](https://github.com/HatBoy/Struts2-Scan)：Struts2漏洞利用扫描工具。
+- [log4j-shell-poc](https://github.com/kozmer/log4j-shell-poc)：log4j漏洞利用工具。
+- [CVE-2022-26134-Godzilla-MEMSHELL](https://github.com/BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL)：Confluence-OGNL一键注入内存shell。
+
+
+
+
+##### cms漏洞利用工具汇总
+- [seeyon_exp](https://github.com/Summer177/seeyon_exp)：致远OA综合利用工具。
+- [TDOA_RCE](https://github.com/xinyu2428/TDOA_RCE)：通达OA综合利用工具。
+- [weaver_exp](https://github.com/z1un/weaver_exp)：泛微OA漏洞综合利用脚本。
+- [EgGateWayGetShell](https://github.com/Tas9er/EgGateWayGetShell)：锐捷网络EG易网关RCE批量安全检测。
+- [CMSmap](https://github.com/Dionach/CMSmap)：CMSmap 针对流行CMS进行安全扫描的工具。
+- [wordpress-exploit-framework](https://github.com/rastating/wordpress-exploit-framework)：WordPress漏洞扫描工具。
+- [Aazhen-RexHa](https://github.com/zangcc/Aazhen-RexHa)：自研JavaFX图形化漏洞扫描工具，支持扫描的漏洞分别是： ThinkPHP-2.x-RCE， ThinkPHP-5.0.23-RCE， ThinkPHP5.0.x-5.0.23通杀RCE， ThinkPHP5-SQL注入&敏感信息泄露， ThinkPHP 3.x 日志泄露NO.1， ThinkPHP 3.x 日志泄露NO.2， ThinkPHP 5.x 数据库信息泄露的漏洞检测，以及批量检测的功能。漏洞POC基本适用ThinkPHP全版本漏洞。
+- [ThinkphpGUI](https://github.com/Lotus6/ThinkphpGUI)：Thinkphp(GUI)漏洞利用工具，支持各版本TP漏洞检测，命令执行，getshell。
+- [thinkphp_gui_tools](https://github.com/bewhale/thinkphp_gui_tools)：ThinkPHP漏洞综合利用工具, 图形化界面, 命令执行, 一键getshell, 批量检测, 日志遍历, session包含,宝塔绕过。
 
 
 
 
 ##### 内网渗透常用工具汇总
-- [fscan](https://github.com/shadow1ng/fscan)：一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
 支持主机存活探测、端口扫描、常见服务的爆破、ms17010、redis批量写公钥、计划任务反弹shell、读取win网卡信息、web指纹识别、web漏洞扫描、netbios探测、域控识别等功能。
 - [Ladon](https://github.com/k8gege/Ladon)：Ladon大型内网渗透工具集合
 - [EquationToolsGUI](https://github.com/abc123info/EquationToolsGUI)：仅用来扫描和验证MS17-010、MS09-050、MS08-067漏洞，并可协助管理员修复系统漏洞。
-- [ServerScan](https://github.com/Adminisme/ServerScan)：一款使用Golang开发且适用于攻防演习内网横向信息收集的高并发网络扫描、服务探测工具。
 - [Windows提权辅助工具](https://i.hacking8.com/tiquan/)：在线版Windows 提权辅助工具。
 - [shellcodeloader](https://github.com/knownsec/shellcodeloader/)：Windows平台的shellcode免杀加载器。
 
 
 
 
-##### 摄像头相关汇总
+##### 硬件安全相关汇总
 - [HikvisionIVMSGetShell](https://github.com/Tas9er/HikvisionIVMSGetShell)：海康威视IVMS综合安防管理平台软件漏洞利用工具。
+- [wifi-crack-tool](https://github.com/baihengaead/wifi-crack-tool)：WiFi密码暴力破解工具-图形界面。
 
 
 
@@ -154,11 +198,11 @@
 
 
 ##### 指纹识别工具汇总
-- [EHole](https://github.com/EdgeSecurityTeam/EHole)：EHole是一款对资产中重点系统指纹识别的工具，在红队作战中，信息收集是必不可少的环节，如何才能从大量的资产中提取有用的系统(如OA、VPN、Weblogic...)。EHole旨在帮助红队人员在信息收集期间能够快速从C段、大量杂乱的资产中精准定位到易被攻击的系统，从而实施进一步攻击。
-- [Finger](https://github.com/EASY233/Finger)：一款红队在大量的资产中存活探测与重点攻击系统指纹探测工具。
 - [TideFinger](https://github.com/TideSec/TideFinger)：TideFinger——指纹识别小工具，汲取整合了多个web指纹库，结合了多种指纹检测方法，让指纹检测更快捷、准确。
 - [云悉](https://www.yunsee.cn/)：云悉WEB资产梳理-在线CMS指纹识别平台。
 - [ObserverWard](https://github.com/0x727/ObserverWard)：侦查守卫(ObserverWard)指纹识别工具。
+- [WhatWeb](https://github.com/urbanadventurer/WhatWeb)：一个web应用程序指纹识别工具。
+- [Glass](https://github.com/s7ckTeam/Glass)：Glass是一款针对资产列表的快速指纹识别工具，通过调用Fofa/ZoomEye/Shodan/360等api接口快速查询资产信息并识别重点资产的指纹，也可针对IP/IP段或资产列表进行快速的指纹识别。
 
 
 
@@ -177,6 +221,7 @@
 - [RustScan](https://github.com/RustScan/RustScan/)：RustScan是一个现代端口扫描器。官方称可以3秒内扫描完成所有65k个端口。它有完整的脚本引擎支持。自动将结果通过管道传输到 Nmap。我们可以使用官方提供的脚本，或自定义脚本来做我们想做的事。
 - [nmap](https://github.com/nmap/nmap)：端口扫描。
 - [TXPortMap](https://github.com/4dogs-cn/TXPortMap)：端口扫描工具。
+- [masnmapscan-V1.0](https://github.com/hellogoldsnakeman/masnmapscan-V1.0)：一款用于资产探测的端口扫描工具。整合了masscan和nmap两款扫描器，masscan扫描端口，nmap扫描端口对应服务，二者结合起来实现了又快又好地扫描。
 
 
 
@@ -185,6 +230,7 @@
 ##### 弱口令爆破工具汇总
 - [SNETCracker](https://github.com/shack2/SNETCracker)：超级弱口令检查工具是一款Windows平台的弱口令审计工具，工具目前支持SSH、RDP、SMB、MySQL、SQLServer、Oracle、FTP、MongoDB、Memcached、PostgreSQL、Telnet、SMTP、SMTP_SSL、POP3、POP3_SSL、IMAP、IMAP_SSL、SVN、VNC、Redis等服务的弱口令检查工作。
 - [hydra](https://github.com/vanhauser-thc/thc-hydra)：hydra作为一款暴力破解工具，可以帮助渗透测试人员暴力破解网络服务密码。hydra可以对50多种协议进行快速字典攻击，包括telnet、ftp、http、https、smb、数据库和一些其他服务。hydra由知名黑客组织The Hacker's Choice开发，最早于2000年作为一款POC工具发布。hydra也是一个多线程登录爆破程序，这可以大大提高爆破所用的时间，同样支持apt-get install hydra(ubuntu)。
+- [x-crack](https://github.com/netxfly/x-crack)：x-crack - Weak password scanner, Support: FTP/SSH/SNMP/MSSQL/MYSQL/PostGreSQL/REDIS/ElasticSearch/MONGODB。
 
 
 
@@ -196,6 +242,7 @@
 - [dirScan](https://github.com/Degree-21/dirScan)：网站目录、后台扫描 基于御剑字典。
 - [dirpro](https://github.com/coleak2021/dirpro)：dirpro 是一款由 python 编写的目录扫描器，操作简单，功能强大，高度自动化自动根据返回状态码和返回长度，对扫描结果进行二次整理和判断，准确性非常高。
 - [spray](https://github.com/chainreactors/spray)：下一代目录/文件扫描工具。
+- [feroxbuster](https://github.com/epi052/feroxbuster)：用Rust编写的快速，简单，递归的内容发现工具。
 
 
 
@@ -234,7 +281,6 @@
 - [ds_store_exp](https://github.com/lijiejie/ds_store_exp)：ds_store_exp是一个 .DS_Store 文件泄漏利用脚本，它解析.DS_Store文件并递归地下载文件到本地。
 - [WebBatchRequest](https://github.com/ScriptKid-Beta/WebBatchRequest/)：WEB批量请求器（WebBatchRequest）是对目标地址批量进行快速的存活探测、Title获取，简单的banner识别，支持HTTP代理以及可自定义HTTP请求用于批量的漏洞验证等的一款基于JAVA编写的轻量工具。
 - [virustotal](https://www.virustotal.com/graph/)：企业资产梳理，包括子域名等，需要登录。
-- [ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727)：协助红队人员快速的信息收集，测绘目标资产，寻找薄弱点。
 - [archive](https://archive.org/)：网站历史站点查询。
 - [SiteScan](https://github.com/kracer127/SiteScan)：专注一站化解决渗透测试的信息收集任务，功能包括域名ip历史解析、nmap常见端口爆破、子域名信息收集、旁站信息收集、whois信息收集、网站架构分析、cms解析、备案信息收集、CDN信息解析、是否存在waf检测、后台寻找以及生成检测结果html报告表。
 - [zpscan](https://github.com/niudaii/zpscan)：一个有点好用的信息收集工具。
@@ -254,7 +300,6 @@
 ##### APP信息收集汇总
 - [mogua](https://mogua.co/)：app信息收集。
 - [apk2url](https://github.com/n0mi1k/apk2url)：提取apk中的IP和URL。
-- [AppInfoScanner](https://github.com/kelvinBen/AppInfoScanner)：一款适用于以HW行动/红队/渗透测试团队为场景的移动端(Android、iOS、WEB、H5、静态网站)信息收集扫描工具，可以帮助渗透测试工程师、攻击队成员、红队成员快速收集到移动端或者静态WEB站点中关键的资产信息并提供基本的信息输出,如：Title、Domain、CDN、指纹信息、状态信息等。
 
 
 
@@ -310,7 +355,7 @@
 - [山石网科威胁情报中心](https://ti.hillstonenet.com.cn/main)：山石网科威胁情报中心。
 - [绿盟威胁情报云](https://ti.nsfocus.com/)：绿盟威胁情报云。
 - [安恒安全星图平台](https://ti.dbappsecurity.com.cn/)：安恒安全星图平台。
-- [奇安信威胁情报中心](https://ti.dbappsecurity.com.cn/)：奇安信威胁情报中心。
+- [奇安信威胁情报中心](https://ti.qianxin.com/)：奇安信威胁情报中心。
 - [华为安全中心平台](https://isecurity.huawei.com/sec/web/urlClassification.do#)：华为安全中心平台。
 - [微步在线X情报社区](https://x.threatbook.com/)：微步在线X情报社区。
 - [IBM威胁情报平台](https://exchange.xforce.ibmcloud.com/)：IBM威胁情报平台。
@@ -322,11 +367,15 @@
 
 
 ##### HW相关沙箱汇总
+- [360沙箱云](https://ata.360.net/)：360沙箱云平台。
 - [virscan](https://www.virscan.org/)：VirScan是一个多引擎文件检测平台，也是国内最早做文件在线检测的平台之一。
 - [腾讯哈勃分析系统](https://habo.qq.com/)：腾讯哈勃分析系统。
 - [FREEBUF云沙箱](https://mac-cloud.riskivy.com/detect)：FREEBUF云沙箱。
-- [卡巴斯基云沙箱](https://opentip.kaspersky.com/)卡巴斯基云沙箱。
-- [virustotal云沙箱](https://www.virustotal.com/gui/home/upload)virustotal云沙箱。
+- [卡巴斯基云沙箱](https://opentip.kaspersky.com/)：卡巴斯基云沙箱。
+- [virustotal云沙箱](https://www.virustotal.com/gui/home/upload)：virustotal云沙箱。
+- [计算机病毒防御技术国家工程实验室可疑文件分析云](https://cloud.vdnel.cn/)：计算机病毒防御技术国家工程实验室可疑文件分析云沙箱。
+- [绿盟威胁分析中心沙箱](https://poma.nsfocus.com/)：绿盟威胁分析中心沙箱。
+
 
 
 
@@ -346,6 +395,7 @@
 - [processhacker](https://processhacker.sourceforge.io/downloads.php)：一款强大的系统监控与管理工具。
 - [Whoamifuck](https://github.com/enomothem/Whoamifuck)：Linux应急响应工具（shell脚本）-V6.0。
 - [OpenArk](https://github.com/BlackINT3/OpenArk/)：应急响应/逆向工具箱。
+- [DuckMemoryScan](https://github.com/huoji120/DuckMemoryScan)：检测绝大部分所谓的内存免杀马。
 
 
 
@@ -394,7 +444,6 @@
 - [fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts)：暴力破解字典。
 - [PentesterSpecialDict](https://github.com/a3vilc0de/PentesterSpecialDict)：渗透测试工程师精简化字典。
 - [字典](https://github.com/coffinxp/payloads)：暴力破解字典。
-- [Web-Fuzzing-Box](https://github.com/gh0stkey/Web-Fuzzing-Box)：Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱口令暴力破解、目录以及文件枚举、Web漏洞...。
 
 
 
@@ -404,6 +453,7 @@
 - [密码字典生成器](https://www.shentoushi.top/tools/dict/index.php)：在线密码字典生成网站。
 - [UserNameDictTools](https://github.com/abc123info/UserNameDictTools)：用户名字典生成工具V0.2发布，(将中文汉字姓名转成11种格式的拼音)。
 - [SocialEngineeringDictionaryGenerator](https://github.com/zgjx6/SocialEngineeringDictionaryGenerator)：社会工程学密码生成器，是一个利用个人信息生成密码的工具。
+- [cupp](https://github.com/Mebus/cupp)：根据用户习惯生成弱口令探测字典脚本。
 
 
 
@@ -551,5 +601,12 @@
 
 ##### 数据安全相关汇总
 - [APP违规收集用户信息复现](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU2MDQ0NzkyMw==&action=getalbum&album_id=2372108076222283777&scene=173&from_msgid=2247483938&from_itemidx=1&count=3&nolastread=1#wechat_redirect)：APP违规收集用户信息复现。
+
+
+
+
+
+##### 第三方组件汇总
+- [pdf.js](https://mozilla.github.io/pdf.js/getting_started/#download)：pdf.js组件。
 
 -**持续更新中**
