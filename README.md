@@ -43,10 +43,6 @@
 ##### 综合漏洞扫描工具汇总
 - [info_scan](https://github.com/huan-cdm/info_scan)：自动化漏洞扫描系统。
 - [BurpSuite](https://pan.baidu.com/s/1fG_2tTDbaGUjkk3Br_puSg?pwd=vvkm)：代理抓包工具。
-- [Struts2VulsScanTools](https://github.com/abc123info/Struts2VulsScanTools)：Struts2全版本漏洞检测工具s。
-- [shiro-exploit](https://github.com/Ares-X/shiro-exploit)：Shiro反序列化利用工具，支持新版本(AES-GCM)Shiro的key爆破，配合ysoserial，生成回显Payload。
-- [ShiroExploit-Deprecated](https://github.com/feihong-cs/ShiroExploit-Deprecated)：Shiro550/Shiro721 一键化利用工具，支持多种回显方式。
-- [springboot core命令执行](https://github.com/zangcc/CVE-2022-22965-rexbb)：springboot core 命令执行漏洞，CVE-2022-22965漏洞利用工具，基于JavaFx开发，图形化操作更简单，提高效率。
 - [heapdump_tool](https://github.com/wyzxxz/heapdump_tool)：对pringboot actuator未授权泄露的heapdump文件进行解密，可解密出账号密码等敏感信息。
 - [dddd](https://github.com/SleepingBag945/dddd)：信息收集和漏洞扫描工具。
 - [EZ](https://github.com/m-sec-org/EZ)：EZ是一款集信息收集、端口扫描、服务暴破、URL爬虫、指纹识别、被动扫描为一体的跨平台漏洞扫描器，渗透测试中，可辅助发现常见的SQL注入、XSS、XXE、SSRF之类的漏洞，通过内置的POC辅助发现Apache Shiro、RabbitMQ、Struts2之类的通用组件漏洞，以及某服VPN、通达OA以及泛微OA之类的被曝出已知漏洞的系统，可谓是外围打点，破局进内网，全面发现漏洞的渗透测试必备武器。
@@ -77,14 +73,23 @@
 功能包含：ip探活、port扫描、web指纹扫描、title扫描、fofa获取、ms17010、mssql、mysql、postgres、redis、ssh、smb、rdp、telnet等爆破
 以及如netbios探测等功能。
 - [onlinetools](https://github.com/iceyhexman/onlinetools)：在线工具集、在线cms识别、信息泄露、工控、系统、物联网安全、cms漏洞扫描、nmap端口扫描、子域名获取。
-- [cloud_asset_management_tools](https://github.com/huan-cdm/cloud_asset_management_tools)：云存储利用工具。
-- [container-escape-check](https://github.com/teamssix/container-escape-check)：容器逃逸检测脚本。
-- [aliyun-accesskey-Tools](https://github.com/mrknow001/aliyun-accesskey-Tools)：阿里云accesskey利用工具。
-- [Cloud-Bucket-Leak-Detection-Tools](https://github.com/UzJu/Cloud-Bucket-Leak-Detection-Tools)：六大云存储，泄露利用检测工具。
 - [marshalsec](https://github.com/mbechler/marshalsec)：Java反序列漏洞利用工具，快速开启RMI和LDAP服务，下载使maven进行编译即可。
 - [ysoserial](https://github.com/frohoff/ysoserial)：Java反序列漏洞利用工具。
 - [murphysec](https://github.com/murphysecurity/murphysec)：An open source tool focused on software supply chain security. 墨菲安全专注于软件供应链安全，具备专业的软件成分分析（SCA）、漏洞检测、专业漏洞库。
 
+
+
+
+
+##### 云安全测试工具汇总
+- [cloud_asset_management_tools](https://github.com/huan-cdm/cloud_asset_management_tools)：部分OSS存储利用工具备份。
+- [container-escape-check](https://github.com/teamssix/container-escape-check)：容器逃逸检测脚本。
+- [aliyun-accesskey-Tools](https://github.com/mrknow001/aliyun-accesskey-Tools)：阿里云accesskey利用工具。
+- [Cloud-Bucket-Leak-Detection-Tools](https://github.com/UzJu/Cloud-Bucket-Leak-Detection-Tools)：六大云存储，泄露利用检测工具。
+- [OSSFileBrowse](https://github.com/jdr2021/OSSFileBrowse)：存储桶遍历漏洞利用工具。
+- [cloudTools](https://github.com/dark-kingA/cloudTools)：云资产管理工具 目前工具定位是云安全相关工具，目前是两个模块 云存储工具、云服务工具， 云存储工具主要是针对oss存储、查看、删除、上传、下载、预览等等 云服务工具主要是针对rds、服务器的管理，查看、执行命令、接管等等。
+- [ossbrowser](https://www.alibabacloud.com/help/zh/oss/developer-reference/install-and-log-on-to-ossbrowser#p-4ca-yxe-p7r)：阿里云官方ossbrowser图形化工具。
+- [T Wiki](https://wiki.teamssix.com/about/)：云安全漏洞测试SOP文档。
 
 
 
@@ -119,6 +124,9 @@
 - [SpringExploit](https://github.com/SummerSec/SpringExploit)：Spring系列漏洞利用工具。
 - [shiro_rce_tool](https://github.com/wyzxxz/shiro_rce_tool)：shiro 反序列 命令执行辅助检测工具。
 - [ShiroAttack2](https://github.com/SummerSec/ShiroAttack2)：shiro反序列化漏洞综合利用,包含（回显执行命令/注入内存马）修复原版中NoCC的问题。
+- [shiro-exploit](https://github.com/Ares-X/shiro-exploit)：Shiro反序列化利用工具，支持新版本(AES-GCM)Shiro的key爆破，配合ysoserial，生成回显Payload。
+- [ShiroExploit-Deprecated](https://github.com/feihong-cs/ShiroExploit-Deprecated)：Shiro550/Shiro721 一键化利用工具，支持多种回显方式。
+- [springboot core命令执行](https://github.com/zangcc/CVE-2022-22965-rexbb)：springboot core 命令执行漏洞，CVE-2022-22965漏洞利用工具，基于JavaFx开发，图形化操作更简单，提高效率。
 - [FastjsonExploit](https://github.com/c0ny1/FastjsonExploit)：fastjson漏洞快速利用框架。
 - [fastjson_rec_exploit](https://github.com/mrknow001/fastjson_rec_exploit)：fastjson一键漏洞检测工具。
 - [jexboss](https://github.com/joaomatosf/jexboss)：Jboss（和 Java 反序列化漏洞）验证和利用工具。
@@ -129,6 +137,7 @@
 - [Jiraffe](https://github.com/0x48piraj/Jiraffe)：Jiraffe 是为利用 Jira 实例而编写的半自动安全工具。
 - [STS2G](https://github.com/xfiftyone/STS2G)：Struts2漏洞扫描利用工具 - Golang版。
 - [Struts2-Scan](https://github.com/HatBoy/Struts2-Scan)：Struts2漏洞利用扫描工具。
+- [Struts2VulsScanTools](https://github.com/abc123info/Struts2VulsScanTools)：Struts2全版本漏洞检测工具。
 - [log4j-shell-poc](https://github.com/kozmer/log4j-shell-poc)：log4j漏洞利用工具。
 - [CVE-2022-26134-Godzilla-MEMSHELL](https://github.com/BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL)：Confluence-OGNL一键注入内存shell。
 
@@ -155,6 +164,7 @@
 - [EquationToolsGUI](https://github.com/abc123info/EquationToolsGUI)：仅用来扫描和验证MS17-010、MS09-050、MS08-067漏洞，并可协助管理员修复系统漏洞。
 - [Windows提权辅助工具](https://i.hacking8.com/tiquan/)：在线版Windows 提权辅助工具。
 - [shellcodeloader](https://github.com/knownsec/shellcodeloader/)：Windows平台的shellcode免杀加载器。
+- [Open3389](https://github.com/3had0w/Open3389/tree/master)：利用Windows的RegCreateKeyEx和RegSetValueEx两个API和RegistryKey类来操作系统注册表，与无Net.exe添加管理员用户一样，都是直接利用的Windows API来执行相应操作。
 
 
 
@@ -441,9 +451,10 @@
 
 
 ##### 暴力破解字典汇总
-- [fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts)：暴力破解字典。
-- [PentesterSpecialDict](https://github.com/a3vilc0de/PentesterSpecialDict)：渗透测试工程师精简化字典。
-- [字典](https://github.com/coffinxp/payloads)：暴力破解字典。
+- [fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts)：安全测试常用字典。
+- [PentesterSpecialDict](https://github.com/a3vilc0de/PentesterSpecialDict)：安全测试常用字典。
+- [字典](https://github.com/coffinxp/payloads)：安全测试常用字典。
+- [Fuzzing-Dicts](https://github.com/3had0w/Fuzzing-Dicts)：安全测试常用字典。
 
 
 
@@ -524,7 +535,6 @@
 - [内网相关](https://www.chabug.org/web/1263)：博客和文库整理。
 - [应急响应](https://github.com/Bypass007/Emergency-Response-Notes)：博客和文库整理。
 - [公众号文章](http://www.nmd5.com/test/index.php#)：博客和文库整理。
-- [T Wiki](https://wiki.teamssix.com/about/)：云安全知识文库。
 - [渗透师导航](https://www.shentoushi.top/)：渗透师导航。
 - [SummaryOf2022](https://github.com/abc123info/SummaryOf2022)：2022年ABC123公众号年刊 2023年ABC123公众号年刊。
 - [SDL序列课程](https://mp.weixin.qq.com/s/-PkwA5Hd4m82jKsgo-d86w)：SDL第一阶段的总结，还是简单一点的总结吧，主要围绕了从理论到实战，从不同的角度来看待SDL的建设存在的问题点、风险点、解决点，一共发表了13篇文章，大家可以具体看对应的内容。
@@ -606,7 +616,14 @@
 
 
 
-##### 第三方组件汇总
+##### 开发常用汇总
 - [pdf.js](https://mozilla.github.io/pdf.js/getting_started/#download)：pdf.js组件。
+- [iconfont](https://www.iconfont.cn/?_refluxos=a10)：阿里巴巴矢量图标库。
+- [51tool](https://www.51tool.com/)：在线生成ICO图标。
+
+
+
+##### 渗透测试辅助工具汇总
+- [SwitchHosts](https://github.com/oldj/SwitchHosts)：SwitchHosts 是一个管理 hosts 文件的应用，基于 Electron 、React、Jotai 、Chakra UI、CodeMirror 等技术开发。
 
 -**持续更新中**
