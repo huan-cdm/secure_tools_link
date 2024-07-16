@@ -140,6 +140,7 @@
 - [Struts2VulsScanTools](https://github.com/abc123info/Struts2VulsScanTools)：Struts2全版本漏洞检测工具。
 - [log4j-shell-poc](https://github.com/kozmer/log4j-shell-poc)：log4j漏洞利用工具。
 - [CVE-2022-26134-Godzilla-MEMSHELL](https://github.com/BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL)：Confluence-OGNL一键注入内存shell。
+- [nacos-poc](https://github.com/ayoundzw/nacos-poc)：阿里 NACOS 远程命令执行漏洞POC。
 
 
 
@@ -393,7 +394,6 @@
 ##### HW相关应急响应工具汇总
 - [D盾_防火墙](https://www.d99net.net/)：webshell查杀工具。
 - [火绒剑](https://www.huorong.cn/)：火绒剑是一款安全工具，主要用于分析和处理恶意程序火绒剑提供了多种功能，包括但不限于程序行为监控、进程管理、启动项管理、内核程序管理、钩子扫描、服务管理、驱动扫描、网络监控、文件管理和注册表管理等。
-- [yara_scan](https://github.com/huan-cdm/yara_scan)：利用yara引擎自定义检测规则，支持静态文件和内存木马的扫描。
 - [360星图](https://pan.baidu.com/s/1n2mlbUK0PXfM6Msn_e70EA?pwd=yeop)：网站日志分析工具。
 - [AppCompatCacheParser](https://www.sans.org/tools/appcompatcacheparser/)：获取windows系统可执行文件记录。
 - [Log Parser](https://www.sans.org/tools/appcompatcacheparser/)：windows系统日志分析工具。
@@ -408,6 +408,18 @@
 - [DuckMemoryScan](https://github.com/huoji120/DuckMemoryScan)：检测绝大部分所谓的内存免杀马。
 
 
+
+
+
+
+##### HW相关应急响应工具之内存马检测汇总
+- [yara_scan](https://github.com/huan-cdm/yara_scan)：利用yara引擎自定义检测规则，支持静态文件和内存木马的扫描。
+- [java-memshell-scanner](https://github.com/c0ny1/java-memshell-scanner)：通过jsp脚本扫描java web Filter/Servlet型内存马。
+- [arthas](https://github.com/alibaba/arthas/)：Arthas 是Alibaba开源的Java诊断工具，不是专门用户内存马的检测，但是由于java内存马相当于利用了jvm的底层特性，所以可以给我们对内存马的排查带来很多便利，常用命令（classloader、sc *.Filter、sc *.Servlet、jad、heapdump）。
+- [FindShell](https://github.com/geekmc/FindShell)：内存马查杀工具，尤其针对Agent型，原理是dump出JVM当前的class并进行字节码分析，并加入自动修复的功能。
+- [copagent](https://github.com/LandGrey/copagent)：自动化分析内存马jar包。
+- [内存马检测文章](https://mp.weixin.qq.com/s/G0IWtQvwMo4l4qYuKaZhCw)：冰蝎、哥斯拉 内存马应急排查。
+- [内存马检测文章](https://mp.weixin.qq.com/s/Hr8AEK1HVgc_6T6i1pUhWQ)：内存马检测排查手段。
 
 
 
@@ -606,6 +618,7 @@
 - [xampp](https://www.apachefriends.org/zh_cn/index.html)：XAMPP（Apache+MySQL+PHP+PERL）是一个功能强大的建站集成软件包。
 - [phpstudy](https://www.xp.cn/)：phpStudy是一个PHP调试环境的程序集成包。该程序包集成最新的Apache+PHP+MySQL+phpMyAdmin+ZendOptimizer，一次性安装，无须配置即可使用，是非常方便、好用的PHP调试环境。
 - [Apache Tomcat](https://tomcat.apache.org/)：运行java代码的web服务器。
+- [nacos](https://github.com/alibaba/nacos/)：Nacos 是一个易于使用的动态服务发现、配置和服务管理平台，它是阿里巴巴开源的。Nacos 支持服务的注册与发现、配置管理、服务的元数据和流量管理等功能。它被设计为云原生，可以与 Kubernetes、Spring Cloud 等技术栈很好地集成。
 
 
 
