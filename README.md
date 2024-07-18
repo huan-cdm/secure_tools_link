@@ -116,6 +116,7 @@
 - [ApolloScanner](https://github.com/b0bac/ApolloScanner)：自动化巡航扫描框架（可用于红队打点评估）。
 - [kscan](https://github.com/lcvvvv/kscan)：Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种。
 - [bscan](https://github.com/broken5/bscan)：bscan的是一款强大、简单、实用、高效的HTTP扫描器。
+- [ARL](https://github.com/Aabyss-Team/ARL)：AboutARL官方仓库备份项目：ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
 
 
 
@@ -166,6 +167,12 @@
 - [Windows提权辅助工具](https://i.hacking8.com/tiquan/)：在线版Windows 提权辅助工具。
 - [shellcodeloader](https://github.com/knownsec/shellcodeloader/)：Windows平台的shellcode免杀加载器。
 - [Open3389](https://github.com/3had0w/Open3389/tree/master)：利用Windows的RegCreateKeyEx和RegSetValueEx两个API和RegistryKey类来操作系统注册表，与无Net.exe添加管理员用户一样，都是直接利用的Windows API来执行相应操作。
+
+
+
+##### 隧道代理工具汇总
+- [Neo-reGeorg](https://github.com/L-codes/Neo-reGeorg)：Neo-reGeorg 是 reGeorg 和 reDuh 的升级版，是为了应付复杂的网络环境重构的项目。该工具基于 HTTP(S) 协议建立隧道，会在本地创建 Socket 监听 1080 端口用于正向代理访问 Web 服务器隧道脚本，通过正向代理的方式把数据加密封装到 HTTP 数据包中转发到服务器的横向网络中，同时隧道脚本也会把内网服务器端口的数据加密封装到 HTTP 数据包中转发到本地的 Socket 接口。
+- [frp](https://github.com/fatedier/frp)：一个快速反向代理，帮助您将NAT或防火墙后面的本地服务器暴露到互联网上。
 
 
 
@@ -557,6 +564,7 @@
 ##### 漏洞文库汇总
 - [PeiQi文库](https://peiqi.wgpsec.org/)：漏洞文库。
 - [POC](https://github.com/wy876/POC)：漏洞文库。
+- [web-sec](https://github.com/ReAbout/web-sec)：WEB安全手册(红队安全技能栈)，漏洞理解，漏洞利用，代码审计和渗透测试总结。【持续更新】。
 
 
 
