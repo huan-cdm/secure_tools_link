@@ -90,6 +90,7 @@
 - [cloudTools](https://github.com/dark-kingA/cloudTools)：云资产管理工具 目前工具定位是云安全相关工具，目前是两个模块 云存储工具、云服务工具， 云存储工具主要是针对oss存储、查看、删除、上传、下载、预览等等 云服务工具主要是针对rds、服务器的管理，查看、执行命令、接管等等。
 - [ossbrowser](https://www.alibabacloud.com/help/zh/oss/developer-reference/install-and-log-on-to-ossbrowser#p-4ca-yxe-p7r)：阿里云官方ossbrowser图形化工具。
 - [T Wiki](https://wiki.teamssix.com/about/)：云安全漏洞测试SOP文档。
+- [行云管家](https://yun.cloudbility.com/)：行云管家。
 
 
 
@@ -98,7 +99,6 @@
 - [EHole](https://github.com/EdgeSecurityTeam/EHole)：EHole是一款对资产中重点系统指纹识别的工具，在红队作战中，信息收集是必不可少的环节，如何才能从大量的资产中提取有用的系统(如OA、VPN、Weblogic...)。EHole旨在帮助红队人员在信息收集期间能够快速从C段、大量杂乱的资产中精准定位到易被攻击的系统，从而实施进一步攻击。
 - [Finger](https://github.com/EASY233/Finger)：一款红队在大量的资产中存活探测与重点攻击系统指纹探测工具。
 - [ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727)：协助红队人员快速的信息收集，测绘目标资产，寻找薄弱点。
-- [AppInfoScanner](https://github.com/kelvinBen/AppInfoScanner)：一款适用于以HW行动/红队/渗透测试团队为场景的移动端(Android、iOS、WEB、H5、静态网站)信息收集扫描工具，可以帮助渗透测试工程师、攻击队成员、红队成员快速收集到移动端或者静态WEB站点中关键的资产信息并提供基本的信息输出,如：Title、Domain、CDN、指纹信息、状态信息等。
 - [POC-bomber](https://github.com/tr0uble-mAker/POC-bomber)：利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点
 - [afrog](https://github.com/zan8in/afrog)：综合漏洞扫描工具。
 - [vulmap](https://github.com/zhzyker/vulmap)：Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞利用功能, 目前支持的 webapps 包括 activemq, flink, shiro, solr, struts2, tomcat, unomi, drupal, elasticsearch, fastjson, jenkins, nexus, weblogic, jboss, spring, thinkphp。
@@ -117,12 +117,13 @@
 - [kscan](https://github.com/lcvvvv/kscan)：Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种。
 - [bscan](https://github.com/broken5/bscan)：bscan的是一款强大、简单、实用、高效的HTTP扫描器。
 - [ARL](https://github.com/Aabyss-Team/ARL)：AboutARL官方仓库备份项目：ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
-
+- [xpoc](https://github.com/chaitin/xpoc)：为供应链漏洞扫描设计的快速应急响应工具 [快速应急] [漏洞扫描] [端口扫描]。
 
 
 
 ##### 中间件框架漏洞利用工具汇总
 - [SpringExploit](https://github.com/SummerSec/SpringExploit)：Spring系列漏洞利用工具。
+- [ShiroScan](https://github.com/sv3nbeast/ShiroScan)：Shiro<=1.2.4反序列化，一键检测工具。
 - [shiro_rce_tool](https://github.com/wyzxxz/shiro_rce_tool)：shiro 反序列 命令执行辅助检测工具。
 - [ShiroAttack2](https://github.com/SummerSec/ShiroAttack2)：shiro反序列化漏洞综合利用,包含（回显执行命令/注入内存马）修复原版中NoCC的问题。
 - [shiro-exploit](https://github.com/Ares-X/shiro-exploit)：Shiro反序列化利用工具，支持新版本(AES-GCM)Shiro的key爆破，配合ysoserial，生成回显Payload。
@@ -156,6 +157,9 @@
 - [Aazhen-RexHa](https://github.com/zangcc/Aazhen-RexHa)：自研JavaFX图形化漏洞扫描工具，支持扫描的漏洞分别是： ThinkPHP-2.x-RCE， ThinkPHP-5.0.23-RCE， ThinkPHP5.0.x-5.0.23通杀RCE， ThinkPHP5-SQL注入&敏感信息泄露， ThinkPHP 3.x 日志泄露NO.1， ThinkPHP 3.x 日志泄露NO.2， ThinkPHP 5.x 数据库信息泄露的漏洞检测，以及批量检测的功能。漏洞POC基本适用ThinkPHP全版本漏洞。
 - [ThinkphpGUI](https://github.com/Lotus6/ThinkphpGUI)：Thinkphp(GUI)漏洞利用工具，支持各版本TP漏洞检测，命令执行，getshell。
 - [thinkphp_gui_tools](https://github.com/bewhale/thinkphp_gui_tools)：ThinkPHP漏洞综合利用工具, 图形化界面, 命令执行, 一键getshell, 批量检测, 日志遍历, session包含,宝塔绕过。
+- [Apt_t00ls](https://github.com/White-hua/Apt_t00ls)：高危漏洞利用工具。
+- [oFx](https://github.com/bigblackhat/oFx)：漏洞批量验证框架。
+- [Frchannel](https://github.com/7wkajk/Frchannel)：帆软bi反序列化漏洞利用工具。
 
 
 
@@ -265,8 +269,9 @@
 
 
 
-##### waf识别工具汇总
+##### waf识别和绕过工具汇总
 - [wafw00f](https://github.com/EnableSecurity/wafw00f)：waf识别工具。
+- [blazehttp](https://github.com/chaitin/blazehttp)：BlazeHTTP 是一款简单易用的 WAF 防护效果测试工具。
 
 
 
@@ -302,6 +307,8 @@
 - [archive](https://archive.org/)：网站历史站点查询。
 - [SiteScan](https://github.com/kracer127/SiteScan)：专注一站化解决渗透测试的信息收集任务，功能包括域名ip历史解析、nmap常见端口爆破、子域名信息收集、旁站信息收集、whois信息收集、网站架构分析、cms解析、备案信息收集、CDN信息解析、是否存在waf检测、后台寻找以及生成检测结果html报告表。
 - [zpscan](https://github.com/niudaii/zpscan)：一个有点好用的信息收集工具。
+- [dumpall](https://github.com/0xHJK/dumpall)：一款信息泄漏利用工具，适用于.git/.svn/.DS_Store泄漏和目录列出。
+
 
 
 
@@ -318,6 +325,8 @@
 ##### APP信息收集汇总
 - [mogua](https://mogua.co/)：app信息收集。
 - [apk2url](https://github.com/n0mi1k/apk2url)：提取apk中的IP和URL。
+- [AppInfoScanner](https://github.com/kelvinBen/AppInfoScanner)：一款适用于以HW行动/红队/渗透测试团队为场景的移动端(Android、iOS、WEB、H5、静态网站)信息收集扫描工具，可以帮助渗透测试工程师、攻击队成员、红队成员快速收集到移动端或者静态WEB站点中关键的资产信息并提供基本的信息输出,如：Title、Domain、CDN、指纹信息、状态信息等。
+- [APKDeepLens](https://github.com/d78ui98/APKDeepLens)：APKDeepLens是一款基于 Python 的工具，用于扫描 Android 应用程序（APK 文件）中的安全漏洞。它专门针对 OWASP Top 10 安卓漏洞，为开发人员、渗透测试人员和安全研究人员提供了一种简单有效的方法来评估 Android 应用程序的安全状况。
 
 
 
@@ -474,6 +483,7 @@
 - [PentesterSpecialDict](https://github.com/a3vilc0de/PentesterSpecialDict)：安全测试常用字典。
 - [字典](https://github.com/coffinxp/payloads)：安全测试常用字典。
 - [Fuzzing-Dicts](https://github.com/3had0w/Fuzzing-Dicts)：安全测试常用字典。
+- [Fuzz_dic](https://github.com/7hang/Fuzz_dic)：参数 | 字典 collections。
 
 
 
@@ -522,6 +532,7 @@
 - [ctfhub](https://www.ctfhub.com/#/index)：在线版ctf靶场。
 - [acunetix](http://vulnweb.com/)：acunetix在线靶场。
 - [portswigger](https://portswigger.net/web-security)：BurpSuite官方靶场。
+- [雷池WAF测试](https://demo.waf-ce.chaitin.cn/)：雷池WAF测试。
 
 
 
@@ -618,7 +629,7 @@
 - [aes](http://tool.chacuo.net/cryptaes)：aes加解密网站。
 - [字符串<->十六进制](https://www.sojson.com/hexadecimal.html)：十六进制字符串转换网站。
 - [CTF在线工具](http://www.hiencode.com/)：CTF在线工具。
-
+- [sm234_decrypt_gui](https://github.com/milu001/sm234_decrypt_gui)：国密SM系列加解密图形化GUI工具，支持sm2加密，sm2解密，sm3加密，sm4加密，sm4解密，sm4支持多种填充方式，输入输出支持hex与base64。不依赖网络，适合内网使用。
 
 
 
