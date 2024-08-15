@@ -51,7 +51,6 @@
 - [katana](https://github.com/projectdiscovery/katana)：一款专为安全扫描而生的浏览器爬虫。
 - [linbing](https://github.com/taomujian/linbing)：本系统是对Web中间件和Web框架进行自动化渗透的一个系统,根据扫描选项去自动化收集资产,然后进行POC扫描,POC扫描时会根据指纹选择POC插件去扫描,POC插件扫描用异步方式扫描.前端采用vue技术,后端采用python fastapi。
 - [ScopeSentry](https://github.com/Autumn-27/ScopeSentry)：Scope Sentry是一款具有资产测绘、子域名枚举、信息泄露检测、漏洞扫描、目录扫描、子域名接管、爬虫、页面监控功能的工具，通过构建多个节点，自由选择节点运行扫描任务。当出现新漏洞时可以快速排查关注资产是否存在相关组件。
-- [Hyacinth](https://github.com/pureqh/Hyacinth)：一款java漏洞集合工具，其中包含Struts2、Fastjson、Weblogic（xml）、Shiro、Log4j、Jboss、SpringCloud、等漏洞检测利用模块，及免杀webshell生成模块 Bypass、以及一些小工具模块等。
 - [nikto](https://github.com/sullo/nikto)：nikto是一款比较综合性的漏洞扫描工具。支持XSS SQL注入等常见的漏洞扫描，因其使用简单，扫描效率比较高。
 - [yakit](https://github.com/yaklang/yakit)：综合漏洞扫描工具、单兵作战武器库、可以代替BurpSuite。
 - [oracleShell](https://github.com/jas502n/oracleShell)：oracleShell oracle 数据库命令执行、支持普通、DBA、注入3种模式。
@@ -76,6 +75,7 @@
 - [marshalsec](https://github.com/mbechler/marshalsec)：Java反序列漏洞利用工具，快速开启RMI和LDAP服务，下载使maven进行编译即可。
 - [ysoserial](https://github.com/frohoff/ysoserial)：Java反序列漏洞利用工具。
 - [murphysec](https://github.com/murphysecurity/murphysec)：An open source tool focused on software supply chain security. 墨菲安全专注于软件供应链安全，具备专业的软件成分分析（SCA）、漏洞检测、专业漏洞库。
+- [PotatoTool](https://github.com/HotBoy-java/PotatoTool?tab=readme-ov-file)：这款工具是一款功能强大的网络安全综合工具，旨在为安全从业者、红蓝对抗人员和网络安全爱好者提供全面的网络安全解决方案。它集成了多种实用功能，包括解密、分析、扫描、溯源等，为用户提供了便捷的操作界面和丰富的功能选择。
 
 
 
@@ -118,6 +118,8 @@
 - [bscan](https://github.com/broken5/bscan)：bscan的是一款强大、简单、实用、高效的HTTP扫描器。
 - [ARL](https://github.com/Aabyss-Team/ARL)：AboutARL官方仓库备份项目：ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
 - [xpoc](https://github.com/chaitin/xpoc)：为供应链漏洞扫描设计的快速应急响应工具 [快速应急] [漏洞扫描] [端口扫描]。
+- [mitan](https://github.com/kkbo8005/mitan)：密探渗透测试工具包含资产信息收集，子域名爆破，搜索语法，资产测绘（FOFA，Hunter，quake, ZoomEye），指纹识别，敏感信息采集，文件扫描、密码字典等功能。
+
 
 
 
@@ -143,6 +145,9 @@
 - [log4j-shell-poc](https://github.com/kozmer/log4j-shell-poc)：log4j漏洞利用工具。
 - [CVE-2022-26134-Godzilla-MEMSHELL](https://github.com/BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL)：Confluence-OGNL一键注入内存shell。
 - [nacos-poc](https://github.com/ayoundzw/nacos-poc)：阿里 NACOS 远程命令执行漏洞POC。
+- [NacosExploitGUI](https://github.com/charonlight/NacosExploitGUI)：Nacos漏洞综合利用GUI工具，集成了默认口令漏洞、SQL注入漏洞、身份认证绕过漏洞、反序列化漏洞的检测及其利用。
+- [Hyacinth](https://github.com/pureqh/Hyacinth)：一款java漏洞集合工具，其中包含Struts2、Fastjson、Weblogic（xml）、Shiro、Log4j、Jboss、SpringCloud、等漏洞检测利用模块，及免杀webshell生成模块 Bypass、以及一些小工具模块等。
+- [exphub](https://github.com/zhzyker/exphub)：Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340。
 
 
 
@@ -156,6 +161,8 @@
 - [wordpress-exploit-framework](https://github.com/rastating/wordpress-exploit-framework)：WordPress漏洞扫描工具。
 - [Aazhen-RexHa](https://github.com/zangcc/Aazhen-RexHa)：自研JavaFX图形化漏洞扫描工具，支持扫描的漏洞分别是： ThinkPHP-2.x-RCE， ThinkPHP-5.0.23-RCE， ThinkPHP5.0.x-5.0.23通杀RCE， ThinkPHP5-SQL注入&敏感信息泄露， ThinkPHP 3.x 日志泄露NO.1， ThinkPHP 3.x 日志泄露NO.2， ThinkPHP 5.x 数据库信息泄露的漏洞检测，以及批量检测的功能。漏洞POC基本适用ThinkPHP全版本漏洞。
 - [ThinkphpGUI](https://github.com/Lotus6/ThinkphpGUI)：Thinkphp(GUI)漏洞利用工具，支持各版本TP漏洞检测，命令执行，getshell。
+- [Thinkphp_Red-Tasselled-Spear](https://github.com/CllmsyK/Thinkphp_Red-Tasselled-Spear)：Thinkphp图形化检测工具。
+- [TPscan](https://github.com/Lucifer1993/TPscan)：基于python3的一键ThinkPHP漏洞检测工具。
 - [thinkphp_gui_tools](https://github.com/bewhale/thinkphp_gui_tools)：ThinkPHP漏洞综合利用工具, 图形化界面, 命令执行, 一键getshell, 批量检测, 日志遍历, session包含,宝塔绕过。
 - [Apt_t00ls](https://github.com/White-hua/Apt_t00ls)：高危漏洞利用工具。
 - [oFx](https://github.com/bigblackhat/oFx)：漏洞批量验证框架。
@@ -370,6 +377,7 @@
 - [whois](http://whois.bugscaner.com/)：域名whois查询。
 - [chaipip](https://www.chaipip.com/aiwen.html)：埃文科技IP定位查询。
 - [wireshark](https://www.wireshark.org/)：数据包分析工具。
+- [SGK_Sites_and_Bots](https://github.com/telegram-sgk/SGK_Sites_and_Bots)：免费在线社工库，免费Telegram社工库。
 
 
 
@@ -402,6 +410,7 @@
 - [virustotal云沙箱](https://www.virustotal.com/gui/home/upload)：virustotal云沙箱。
 - [计算机病毒防御技术国家工程实验室可疑文件分析云](https://cloud.vdnel.cn/)：计算机病毒防御技术国家工程实验室可疑文件分析云沙箱。
 - [绿盟威胁分析中心沙箱](https://poma.nsfocus.com/)：绿盟威胁分析中心沙箱。
+- [ANY.RUN](https://app.any.run/)：交互式恶意软件分析。
 
 
 
@@ -428,7 +437,7 @@
 
 
 
-##### HW相关应急响应工具之内存马检测汇总
+##### HW相关应急响应工具之内存马汇总
 - [yara_scan](https://github.com/huan-cdm/yara_scan)：利用yara引擎自定义检测规则，支持静态文件和内存木马的扫描。
 - [java-memshell-scanner](https://github.com/c0ny1/java-memshell-scanner)：通过jsp脚本扫描java web Filter/Servlet型内存马。
 - [arthas](https://github.com/alibaba/arthas/)：Arthas 是Alibaba开源的Java诊断工具，不是专门用户内存马的检测，但是由于java内存马相当于利用了jvm的底层特性，所以可以给我们对内存马的排查带来很多便利，常用命令（classloader、sc *.Filter、sc *.Servlet、jad、heapdump）。
@@ -436,6 +445,8 @@
 - [copagent](https://github.com/LandGrey/copagent)：自动化分析内存马jar包。
 - [内存马检测文章](https://mp.weixin.qq.com/s/G0IWtQvwMo4l4qYuKaZhCw)：冰蝎、哥斯拉 内存马应急排查。
 - [内存马检测文章](https://mp.weixin.qq.com/s/Hr8AEK1HVgc_6T6i1pUhWQ)：内存马检测排查手段。
+- [nginx_shell](https://github.com/veo/nginx_shell)：nginx WebShell/内存马，更优雅的nignx backdoor。
+
 
 
 
