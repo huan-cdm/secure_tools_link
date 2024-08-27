@@ -72,10 +72,18 @@
 功能包含：ip探活、port扫描、web指纹扫描、title扫描、fofa获取、ms17010、mssql、mysql、postgres、redis、ssh、smb、rdp、telnet等爆破
 以及如netbios探测等功能。
 - [onlinetools](https://github.com/iceyhexman/onlinetools)：在线工具集、在线cms识别、信息泄露、工控、系统、物联网安全、cms漏洞扫描、nmap端口扫描、子域名获取。
-- [marshalsec](https://github.com/mbechler/marshalsec)：Java反序列漏洞利用工具，快速开启RMI和LDAP服务，下载使maven进行编译即可。
-- [ysoserial](https://github.com/frohoff/ysoserial)：Java反序列漏洞利用工具。
 - [murphysec](https://github.com/murphysecurity/murphysec)：An open source tool focused on software supply chain security. 墨菲安全专注于软件供应链安全，具备专业的软件成分分析（SCA）、漏洞检测、专业漏洞库。
 - [PotatoTool](https://github.com/HotBoy-java/PotatoTool?tab=readme-ov-file)：这款工具是一款功能强大的网络安全综合工具，旨在为安全从业者、红蓝对抗人员和网络安全爱好者提供全面的网络安全解决方案。它集成了多种实用功能，包括解密、分析、扫描、溯源等，为用户提供了便捷的操作界面和丰富的功能选择。
+
+
+
+
+##### Java反序列漏洞利用工具汇总
+- [marshalsec](https://github.com/mbechler/marshalsec)：Java反序列漏洞利用工具，快速开启RMI和LDAP服务，下载使maven进行编译即可。
+- [ysoserial](https://github.com/frohoff/ysoserial)：Java反序列漏洞利用工具。
+- [JNDInjector](https://github.com/rebeyond/JNDInjector)：一个高度可定制化的JNDI和Java反序列化利用工具。
+- [JNDIExploit](https://github.com/zzwlpx/JNDIExploit)：A malicious LDAP server for JNDI injection attacks。
+
 
 
 
@@ -178,6 +186,7 @@
 - [Windows提权辅助工具](https://i.hacking8.com/tiquan/)：在线版Windows 提权辅助工具。
 - [shellcodeloader](https://github.com/knownsec/shellcodeloader/)：Windows平台的shellcode免杀加载器。
 - [Open3389](https://github.com/3had0w/Open3389/tree/master)：利用Windows的RegCreateKeyEx和RegSetValueEx两个API和RegistryKey类来操作系统注册表，与无Net.exe添加管理员用户一样，都是直接利用的Windows API来执行相应操作。
+- [gotohttp](https://gotohttp.com/)：远控工具，控制端不用安装，通过网页控制。
 
 
 
@@ -411,6 +420,7 @@
 - [计算机病毒防御技术国家工程实验室可疑文件分析云](https://cloud.vdnel.cn/)：计算机病毒防御技术国家工程实验室可疑文件分析云沙箱。
 - [绿盟威胁分析中心沙箱](https://poma.nsfocus.com/)：绿盟威胁分析中心沙箱。
 - [ANY.RUN](https://app.any.run/)：交互式恶意软件分析。
+- [安恒云沙箱](https://sandbox.dbappsecurity.com.cn/)：安恒云沙箱。
 
 
 
