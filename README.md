@@ -187,6 +187,7 @@
 - [shellcodeloader](https://github.com/knownsec/shellcodeloader/)：Windows平台的shellcode免杀加载器。
 - [Open3389](https://github.com/3had0w/Open3389/tree/master)：利用Windows的RegCreateKeyEx和RegSetValueEx两个API和RegistryKey类来操作系统注册表，与无Net.exe添加管理员用户一样，都是直接利用的Windows API来执行相应操作。
 - [gotohttp](https://gotohttp.com/)：远控工具，控制端不用安装，通过网页控制。
+- [searchall](https://github.com/Naturehi666/searchall/)：强大的敏感信息搜索工具。
 
 
 
@@ -432,6 +433,7 @@
 - [360星图](https://pan.baidu.com/s/1n2mlbUK0PXfM6Msn_e70EA?pwd=yeop)：网站日志分析工具。
 - [AppCompatCacheParser](https://www.sans.org/tools/appcompatcacheparser/)：获取windows系统可执行文件记录。
 - [Log Parser](https://www.sans.org/tools/appcompatcacheparser/)：windows系统日志分析工具。
+- [FullEventLogView](http://www.nirsoft.net/utils/full_event_log_view.html)：Event Log Explorer是一个检测系统安全的工具，可以查看、检索和分析日志事件、包括安全、系统、应用程序和其他windows系统记录事件。
 - [Everything](https://www.voidtools.com/zh-cn/downloads/)：文本搜索工具。
 - [FireKylin](https://github.com/MountCloud/FireKylin)：网络安全应急响应工具(系统痕迹采集)，面对多台主机需要排查时，只需要把agent端发给服务器运维管理人员运行采集器，将采集结果给到安全人员，来由安全人员进行分析。
 - [河马webshell查杀工具](https://www.shellpub.com/)：河马webshell查杀工具（安装版）。
@@ -554,6 +556,8 @@
 - [acunetix](http://vulnweb.com/)：acunetix在线靶场。
 - [portswigger](https://portswigger.net/web-security)：BurpSuite官方靶场。
 - [雷池WAF测试](https://demo.waf-ce.chaitin.cn/)：雷池WAF测试。
+- [Hello-Java-Sec](https://github.com/j3ers3/Hello-Java-Sec)：Java Security，安全编码和代码审计。
+- [BUUCTF](https://buuoj.cn/)：CTF靶场。
 
 
 
