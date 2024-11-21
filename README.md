@@ -4,6 +4,7 @@
 
 
 ##### BurpSuite插件汇总
+- [autoDecoder](https://github.com/f0ng/autoDecoder)：工具本身就自带了一些常见的加解密算法，除此之外复杂的可以调接口。
 - [TsojanScan](https://github.com/Tsojan/TsojanScan)：一个集成的BurpSuite漏洞探测插件，它会以最少的数据包请求来准确检测各漏洞存在与否，你只需要这一个足矣。
 - [JsRouteScan](https://github.com/F6JO/JsRouteScan)：正则匹配获取响应中的路由进行探测或递归目录探测的burp插件。
 - [BurpAPIFinder](https://github.com/shuanx/BurpAPIFinder/)：攻防演练过程中，我们通常会用浏览器访问一些资产，但很多未授权/敏感信息/越权隐匿在已访问接口过html、JS文件等，该插件能让我们发现未授权/敏感信息/越权/登陆接口等。
