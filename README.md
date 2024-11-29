@@ -37,6 +37,7 @@
 - [OneScan](https://github.com/vaycore/OneScan)：OneScan是递归目录扫描的BurpSuite插件。
 - [BurpFingerPrint](https://github.com/shuanx/BurpFingerPrint)：攻击过程中，我们通常会用浏览器访问一些资产，该BurpSuite插件实现被动指纹识别+网站提取链接+OA爆破，可帮助我们发现更多资产。
 - [reflector](https://github.com/elkokc/reflector)：BurpSuite反射XSS插件。
+- [BucketVulTools](https://github.com/libaibaia/BucketVulTools)：Burpsuite存储桶配置不当漏洞检测插件。
 
 
 
@@ -189,6 +190,7 @@
 - [Open3389](https://github.com/3had0w/Open3389/tree/master)：利用Windows的RegCreateKeyEx和RegSetValueEx两个API和RegistryKey类来操作系统注册表，与无Net.exe添加管理员用户一样，都是直接利用的Windows API来执行相应操作。
 - [gotohttp](https://gotohttp.com/)：远控工具，控制端不用安装，通过网页控制。
 - [searchall](https://github.com/Naturehi666/searchall/)：强大的敏感信息搜索工具。
+- [readTdose-xiangrikui](https://github.com/flydyyg/readTdose-xiangrikui?tab=readme-ov-file)：Todest和向日葵ID和密码读取工具。
 
 
 
@@ -556,6 +558,7 @@
 - [acunetix](http://vulnweb.com/)：acunetix在线靶场。
 - [portswigger](https://portswigger.net/web-security)：BurpSuite官方靶场。
 - [雷池WAF测试](https://demo.waf-ce.chaitin.cn/)：雷池WAF测试。
+- [encrypt-labs](https://github.com/SwagXz/encrypt-labs)：前端加密对抗练习靶场，包含非对称加密、对称加密、加签以及禁止重放的测试场景，比如AES、DES、RSA，用于渗透测试练习。
 
 
 
@@ -575,6 +578,8 @@
 - [ctfs](https://github.com/ctfs)：ctf writeup。
 - [ctf-writeups](https://github.com/vulnHub/ctf-writeups)：ctf-writeups。
 - [[随波逐流]CTF编码工具](http://1o1o.xyz/bo_ctfcode.html)：[随波逐流]CTF编码工具。
+- [CTF-OS](https://github.com/ProbiusOfficial/CTF-OS)：【Hello CTF】专为CTF比赛封装的虚拟机，基于工具集封装多个版本和系统，更多选择，开箱即用。比赛愉快！
+- [Hello-CTF](https://github.com/ProbiusOfficial/Hello-CTF)：【Hello CTF】题目配套，免费开源的CTF入门教程，针对0基础新手编写，同时兼顾信息差的填补，对各阶段的CTFer都友好的开源教程，致力于CTF和网络安全的开源生态！
 
 
 
@@ -654,6 +659,7 @@
 ##### 常用链接汇总
 - [java环境](https://www.oracle.com/java/technologies/downloads/)：java jdk下载。
 - [python环境](https://www.python.org/downloads/)：python下载。
+- [golang环境](https://golang.google.cn/dl/)：golang环境。
 - [Notepad++](https://notepad-plus.en.softonic.com/)：文本编辑器。
 - [keepass](https://keepass.info/download.html)：密码管理工具。
 - [FinalShell](http://www.hostbuf.com/t/988.html)：SSH工具。
