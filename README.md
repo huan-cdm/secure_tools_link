@@ -60,7 +60,6 @@
 - [Fiora](https://github.com/bit4woo/Fiora)：该项目为PoC框架nuclei提供图形界面，实现快速搜索、一键运行等功能，提升nuclei的使用体验。
 - [nessus](https://mp.weixin.qq.com/s/JnIQL8FeYcqWR4zES56K_g)：综合漏洞扫描工具。
 - [awvs](https://mp.weixin.qq.com/s/IclMKi0mZj75gbntntat8A)：综合漏洞扫描工具。
-- [XSStrike](https://github.com/s0md3v/XSStrike)：XSStrike 是一款专门用于检测和利用跨站脚本（XSS）漏洞的工具。
 - [scan4all](https://github.com/GhostTroops/scan4all)：综合漏洞扫描工具。
 - [oday](https://github.com/Janhsu/oday)：本工具是采用javafx编写，使用sqllite进行poc储存的poc管理和漏洞扫描集成化工具。可以可视化添加POC和指纹进行POC管理和漏洞扫描功能，包含POC管理、漏洞扫描、指纹识别、指纹库等模块。
 - [prismx](https://github.com/yqcs/prismx)：棱镜 X 一体化的轻量型跨平台渗透系统。
@@ -76,6 +75,12 @@
 - [onlinetools](https://github.com/iceyhexman/onlinetools)：在线工具集、在线cms识别、信息泄露、工控、系统、物联网安全、cms漏洞扫描、nmap端口扫描、子域名获取。
 - [murphysec](https://github.com/murphysecurity/murphysec)：An open source tool focused on software supply chain security. 墨菲安全专注于软件供应链安全，具备专业的软件成分分析（SCA）、漏洞检测、专业漏洞库。
 - [PotatoTool](https://github.com/HotBoy-java/PotatoTool?tab=readme-ov-file)：这款工具是一款功能强大的网络安全综合工具，旨在为安全从业者、红蓝对抗人员和网络安全爱好者提供全面的网络安全解决方案。它集成了多种实用功能，包括解密、分析、扫描、溯源等，为用户提供了便捷的操作界面和丰富的功能选择。
+
+
+
+##### Web通用漏洞工具
+- [sqlmc](https://github.com/malvads/sqlmc)：SQL注入检测工具。
+- [XSStrike](https://github.com/s0md3v/XSStrike)：XSStrike 是一款专门用于检测和利用跨站脚本（XSS）漏洞的工具。
 
 
 
@@ -191,6 +196,8 @@
 - [gotohttp](https://gotohttp.com/)：远控工具，控制端不用安装，通过网页控制。
 - [searchall](https://github.com/Naturehi666/searchall/)：强大的敏感信息搜索工具。
 - [readTdose-xiangrikui](https://github.com/flydyyg/readTdose-xiangrikui?tab=readme-ov-file)：Todest和向日葵ID和密码读取工具。
+- [SAMInside](https://www.downza.cn/soft/271449.html)：Saminside是一个暴力破解工具,可以通过读取本地帐户的lmhash值,对hash值进行暴力破解,从而得到真正的登录密码。
+- [MaLoader](https://github.com/lv183037/MaLoader)：一款基于Tauri+Rust的免杀马生成工具。
 
 
 
@@ -446,6 +453,7 @@
 - [Whoamifuck](https://github.com/enomothem/Whoamifuck)：Linux应急响应工具（shell脚本）-V6.0。
 - [OpenArk](https://github.com/BlackINT3/OpenArk/)：应急响应/逆向工具箱。
 - [DuckMemoryScan](https://github.com/huoji120/DuckMemoryScan)：检测绝大部分所谓的内存免杀马。
+- [Rattler](https://github.com/sensepost/rattler)：全自动检测工具Rattler来发现DLL劫持。
 
 
 
@@ -530,6 +538,7 @@
 - [Postman](https://www.postman.com/downloads/)：API调试工具。
 - [swagger-exp](https://github.com/lijiejie/swagger-exp)： Swagger REST API 信息泄露利用工具。
 - [api-scanner](https://pentest-tools.com/website-vulnerability-scanning/api-scanner)：
+- [SoapUI](https://www.soapui.org/downloads/soapui/)：SoapUI可以对webservice、REST和 http 接口进行相关的测试。
 
 
 
@@ -580,6 +589,7 @@
 - [[随波逐流]CTF编码工具](http://1o1o.xyz/bo_ctfcode.html)：[随波逐流]CTF编码工具。
 - [CTF-OS](https://github.com/ProbiusOfficial/CTF-OS)：【Hello CTF】专为CTF比赛封装的虚拟机，基于工具集封装多个版本和系统，更多选择，开箱即用。比赛愉快！
 - [Hello-CTF](https://github.com/ProbiusOfficial/Hello-CTF)：【Hello CTF】题目配套，免费开源的CTF入门教程，针对0基础新手编写，同时兼顾信息差的填补，对各阶段的CTFer都友好的开源教程，致力于CTF和网络安全的开源生态！
+- [ctftools-all-in-one](https://github.com/RemusDBD/ctftools-all-in-one)：CTF综合工具。
 
 
 
@@ -669,6 +679,7 @@
 
 
 ##### 在线加解密网站汇总
+- [BCryptDecode](https://github.com/wolaile08/BCryptDecode)：BCrypt解密爆破工具。
 - [jwt](https://jwt.io/)：jwt加解密网站。
 - [cmd5](https://cmd5.com/)：md5加解密网站。
 - [somd5](https://www.somd5.com/)：md5加解密网站。
