@@ -106,6 +106,7 @@
 - [ossbrowser](https://www.alibabacloud.com/help/zh/oss/developer-reference/install-and-log-on-to-ossbrowser#p-4ca-yxe-p7r)：阿里云官方ossbrowser图形化工具。
 - [T Wiki](https://wiki.teamssix.com/about/)：云安全漏洞测试SOP文档。
 - [行云管家](https://yun.cloudbility.com/)：行云管家。
+- [ossx](https://github.com/sourcexu7/ossx)：存储桶遍历漏洞利用脚本。
 
 
 
@@ -198,6 +199,8 @@
 - [readTdose-xiangrikui](https://github.com/flydyyg/readTdose-xiangrikui?tab=readme-ov-file)：Todest和向日葵ID和密码读取工具。
 - [SAMInside](https://www.downza.cn/soft/271449.html)：Saminside是一个暴力破解工具,可以通过读取本地帐户的lmhash值,对hash值进行暴力破解,从而得到真正的登录密码。
 - [MaLoader](https://github.com/lv183037/MaLoader)：一款基于Tauri+Rust的免杀马生成工具。
+- [e0e1-config](https://github.com/eeeeeeeeee-code/e0e1-config/)：支持firefox、ie和chromium内核浏览器、Windows记事本和Notepad++、向日葵、ToDesk、Navicat 、DBeaver 、FinalShell 、Xshell和Xftp、FileZilla 、winscp等密码一键提取。
+
 
 
 
