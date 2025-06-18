@@ -112,7 +112,6 @@
 
 
 ##### 红队前期打点工具汇总
-- [EHole](https://github.com/EdgeSecurityTeam/EHole)：EHole是一款对资产中重点系统指纹识别的工具，在红队作战中，信息收集是必不可少的环节，如何才能从大量的资产中提取有用的系统(如OA、VPN、Weblogic...)。EHole旨在帮助红队人员在信息收集期间能够快速从C段、大量杂乱的资产中精准定位到易被攻击的系统，从而实施进一步攻击。
 - [Finger](https://github.com/EASY233/Finger)：一款红队在大量的资产中存活探测与重点攻击系统指纹探测工具。
 - [ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727)：协助红队人员快速的信息收集，测绘目标资产，寻找薄弱点。
 - [POC-bomber](https://github.com/tr0uble-mAker/POC-bomber)：利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点
@@ -164,6 +163,7 @@
 - [NacosExploitGUI](https://github.com/charonlight/NacosExploitGUI)：Nacos漏洞综合利用GUI工具，集成了默认口令漏洞、SQL注入漏洞、身份认证绕过漏洞、反序列化漏洞的检测及其利用。
 - [Hyacinth](https://github.com/pureqh/Hyacinth)：一款java漏洞集合工具，其中包含Struts2、Fastjson、Weblogic（xml）、Shiro、Log4j、Jboss、SpringCloud、等漏洞检测利用模块，及免杀webshell生成模块 Bypass、以及一些小工具模块等。
 - [exphub](https://github.com/zhzyker/exphub)：Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340。
+- [jeecg-](https://github.com/MInggongK/jeecg-)：jeecg综合漏洞利用工具。
 
 
 
@@ -244,6 +244,8 @@
 - [PureDNS](https://github.com/d3mondev/puredns)：PureDNS可以通过启用每秒数千个同时DNS请求来执行快速的子域名枚举，使用公共解析器。要查找子域名。
 - [ffuf](https://github.com/ffuf/ffuf)：采用更主动的方法进行枚举。它接受一个给定的单词列表，并通过发出HTTP/S请求检查每个条目，从而确定哪些子域存在。
 - [ksubdomain](https://github.com/boy-hack/ksubdomain)：ksubdomain是一款基于无状态的子域名爆破工具，类似无状态端口扫描，支持在Windows/Linux/Mac上进行快速的DNS爆破，拥有重发机制不用担心漏包。
+- [在线子域名查询](https://chaziyu.com/)：在线子域名查询。
+- [DNSdumpster](https://dnsdumpster.com/)：基于DNS记录获取历史子域名。
 
 
 
@@ -255,13 +257,21 @@
 - [ObserverWard](https://github.com/0x727/ObserverWard)：侦查守卫(ObserverWard)指纹识别工具。
 - [WhatWeb](https://github.com/urbanadventurer/WhatWeb)：一个web应用程序指纹识别工具。
 - [Glass](https://github.com/s7ckTeam/Glass)：Glass是一款针对资产列表的快速指纹识别工具，通过调用Fofa/ZoomEye/Shodan/360等api接口快速查询资产信息并识别重点资产的指纹，也可针对IP/IP段或资产列表进行快速的指纹识别。
+ - [EHole](https://github.com/EdgeSecurityTeam/EHole)：EHole是一款对资产中重点系统指纹识别的工具，在红队作战中，信息收集是必不可少的环节，如何才能从大量的资产中提取有用的系统(如OA、VPN、Weblogic...)。EHole旨在帮助红队人员在信息收集期间能够快速从C段、大量杂乱的资产中精准定位到易被攻击的系统，从而实施进一步攻击。
 
 
+
+
+##### 蜜罐判断
+- [honeyscore](https://honeyscore.shodan.io/)：蜜罐判断。
+- [anti-honeypot](https://github.com/cnrstar/anti-honeypot)：蜜罐判断。
+- [Heimdallr](https://github.com/Ghr07h/Heimdallr)：蜜罐判断。
 
 
 ##### js文件提取敏感api接口
 - [URLFinder](https://github.com/pingc0y/URLFinder)：URLFinder是一款快速、全面、易用的页面信息提取工具用于分析页面中的js与url,查找隐藏在其中的敏感信息或未授权api接口。
 - [JSFinder](https://github.com/Threezh1/JSFinder)：JSFinder是一款用作快速在网站的js文件中提取URL，子域名的工具。
+- [url-extractor](https://www.bulkdachecker.com/url-extractor/)：网站URL在线版提取网站。
 - [Packer-Fuzzer](https://github.com/rtcatc/Packer-Fuzzer)：一款针对Webpack等前端打包工具所构造的网站进行快速、高效安全检测的扫描工具。
 
 
@@ -334,7 +344,8 @@
 - [ds_store_exp](https://github.com/lijiejie/ds_store_exp)：ds_store_exp是一个 .DS_Store 文件泄漏利用脚本，它解析.DS_Store文件并递归地下载文件到本地。
 - [WebBatchRequest](https://github.com/ScriptKid-Beta/WebBatchRequest/)：WEB批量请求器（WebBatchRequest）是对目标地址批量进行快速的存活探测、Title获取，简单的banner识别，支持HTTP代理以及可自定义HTTP请求用于批量的漏洞验证等的一款基于JAVA编写的轻量工具。
 - [virustotal](https://www.virustotal.com/graph/)：企业资产梳理，包括子域名等，需要登录。
-- [archive](https://archive.org/)：网站历史站点查询。
+- [archive](https://archive.org/)：网页缓存查询。
+- [archive](http://www.cachedpages.com/)：网页缓存查询。
 - [SiteScan](https://github.com/kracer127/SiteScan)：专注一站化解决渗透测试的信息收集任务，功能包括域名ip历史解析、nmap常见端口爆破、子域名信息收集、旁站信息收集、whois信息收集、网站架构分析、cms解析、备案信息收集、CDN信息解析、是否存在waf检测、后台寻找以及生成检测结果html报告表。
 - [zpscan](https://github.com/niudaii/zpscan)：一个有点好用的信息收集工具。
 - [dumpall](https://github.com/0xHJK/dumpall)：一款信息泄漏利用工具，适用于.git/.svn/.DS_Store泄漏和目录列出。
@@ -525,13 +536,14 @@
 
 
 
-##### 字典生成工具汇总
+##### 社工密码字典
 - [weakpass](https://zzzteph.github.io/weakpass/)：在线密码字典生成网站。
 - [密码字典生成器](https://www.shentoushi.top/tools/dict/index.php)：在线密码字典生成网站。
 - [UserNameDictTools](https://github.com/abc123info/UserNameDictTools)：用户名字典生成工具V0.2发布，(将中文汉字姓名转成11种格式的拼音)。
 - [SocialEngineeringDictionaryGenerator](https://github.com/zgjx6/SocialEngineeringDictionaryGenerator)：社会工程学密码生成器，是一个利用个人信息生成密码的工具。
 - [cupp](https://github.com/Mebus/cupp)：根据用户习惯生成弱口令探测字典脚本。
-
+- [默认密码](https://www.routerpasswords.com/)：默认密码。
+- [haveibeenpwned](https://haveibeenpwned.com/)：查询账户是否泄露。
 
 
 
@@ -616,12 +628,12 @@
 
 ##### 博客汇总
 - [CT Stack安全社区](https://stack.chaitin.com/)：长亭安全社区。
-- [乌云](https://wy.zone.ci/bugs.php)：博客和文库整理。
-- [先知社区](https://xz.aliyun.com/)：博客和文库整理。
-- [Track 安全社区](https://bbs.zkaq.cn/)：博客和文库整理。
-- [freebuf](https://www.freebuf.com/)：博客和文库整理。
-- [离别歌](https://www.leavesongs.com/)：博客和文库整理。
-- [Web安全学习笔记](https://www.bookstack.cn/read/LyleMi-Learn-Web-Hacking/81ab7f9e9d252390.md)：博客和文库整理。
+- [乌云漏洞库](https://wy.zone.ci/bugs.php)：乌云漏洞库。
+- [先知社区](https://xz.aliyun.com/)：先知社区。
+- [Track 安全社区](https://bbs.zkaq.cn/)：Track 安全社区。
+- [freebuf](https://www.freebuf.com/)：freebuf。
+- [离别歌](https://www.leavesongs.com/)：离别歌。
+- [Web安全学习笔记](https://www.bookstack.cn/read/LyleMi-Learn-Web-Hacking/81ab7f9e9d252390.md)：Web安全学习笔记。
 - [内网相关](https://www.chabug.org/web/1263)：博客和文库整理。
 - [应急响应](https://github.com/Bypass007/Emergency-Response-Notes)：博客和文库整理。
 - [公众号文章](http://www.nmd5.com/test/index.php#)：博客和文库整理。
@@ -641,6 +653,9 @@
 
 
 ##### 大模型相关汇总
+- [ChatGPT](https://chat.openai.com/chat)：ChatGPT。
+- [纳米AI搜索](https://www.n.cn/)：纳米AI搜索。
+- [deepseek](https://www.deepseek.com/)：deepseek。
 - [360智脑](https://chat.360.com/)：360智脑。
 - [文心一言](https://yiyan.baidu.com/)：文心一言。
 - [豆包](https://www.doubao.com/chat/)：豆包。
