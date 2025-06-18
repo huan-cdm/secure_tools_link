@@ -1,6 +1,17 @@
 ##### 项目介绍
 
 平时工作中用到的安全工具链接，方便用的时候查找。  **持续更新**，欢迎Star。
+##### 信息安全相关面试题
+- [Sec-Interview-4-2023](https://github.com/vvmdx/Sec-Interview-4-2023)：一个2023届毕业生在毕业前持续更新、收集的安全岗面试题及面试经验分享~
+
+
+
+
+##### HW期间POC总结
+- [2022-HW-POC](https://github.com/Phuong39/2022-HW-POC)：2022 护网行动 POC 整理。
+- [2023HW](https://github.com/huan-cdm/2023HW)：2023HW资料汇总。
+
+
 
 
 ##### BurpSuite插件汇总
@@ -110,6 +121,10 @@
 
 
 
+##### 红队常用命令总结
+- [红队常用命令速查](https://github.com/safe6Sec/command)：红队常用命令速查。
+
+
 
 ##### 红队前期打点工具汇总
 - [Finger](https://github.com/EASY233/Finger)：一款红队在大量的资产中存活探测与重点攻击系统指纹探测工具。
@@ -134,6 +149,7 @@
 - [ARL](https://github.com/Aabyss-Team/ARL)：AboutARL官方仓库备份项目：ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
 - [xpoc](https://github.com/chaitin/xpoc)：为供应链漏洞扫描设计的快速应急响应工具 [快速应急] [漏洞扫描] [端口扫描]。
 - [mitan](https://github.com/kkbo8005/mitan)：密探渗透测试工具包含资产信息收集，子域名爆破，搜索语法，资产测绘（FOFA，Hunter，quake, ZoomEye），指纹识别，敏感信息采集，文件扫描、密码字典等功能。
+
 
 
 
@@ -544,6 +560,7 @@
 - [cupp](https://github.com/Mebus/cupp)：根据用户习惯生成弱口令探测字典脚本。
 - [默认密码](https://www.routerpasswords.com/)：默认密码。
 - [haveibeenpwned](https://haveibeenpwned.com/)：查询账户是否泄露。
+- [HoneypotDic](https://github.com/ExpLangcn/HoneypotDic)：蜜罐抓到的Top密码，根据使用频率排序，持续更新中...。
 
 
 
@@ -567,8 +584,9 @@
 
 
 
-##### 数据库管理工具汇总
+##### 数据库相关
 - [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)：redis客户端管理工具。
+- [PentestDB](https://github.com/safe6Sec/PentestDB)：各种数据库的利用姿势。
 
 
 
@@ -640,6 +658,7 @@
 - [渗透师导航](https://www.shentoushi.top/)：渗透师导航。
 - [SummaryOf2022](https://github.com/abc123info/SummaryOf2022)：2022年ABC123公众号年刊 2023年ABC123公众号年刊。
 - [SDL序列课程](https://mp.weixin.qq.com/s/-PkwA5Hd4m82jKsgo-d86w)：SDL第一阶段的总结，还是简单一点的总结吧，主要围绕了从理论到实战，从不同的角度来看待SDL的建设存在的问题点、风险点、解决点，一共发表了13篇文章，大家可以具体看对应的内容。
+- [HackReport](https://github.com/awake1t/HackReport)：渗透测试报告/资料文档/渗透经验文档/安全书籍。
 
 
 
