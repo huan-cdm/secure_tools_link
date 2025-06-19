@@ -369,6 +369,12 @@
 
 
 
+##### 公司邮箱收集
+- [Hunter](https://hunter.io/)：公司邮箱收集。
+
+
+
+
 ##### 企业信息收集汇总
 - [七麦数据](https://www.qimai.cn/)：企业app搜索网站。
 - [小蓝本](https://sou.xiaolanben.com/pc)：企业网站资产查询，配合天眼查、企查查等。
@@ -401,9 +407,11 @@
 
 
 ##### 网盘信息收集汇总
-- [lingfengyun.com](https://www.lingfengyun.com/)：网盘信息收集。
-
-
+- [凌风云网盘搜索](https://www.lingfengyun.com/)：凌风云网盘搜索。
+- [超能搜网盘搜索](https://www.chaonengsou.com/)：超能搜网盘搜索。
+- [超能搜网盘搜索](https://www.chaonengsou.com/)：超能搜网盘搜索。
+- [小马盘网盘搜索](https://www.xiaomapan.com/)：小马盘网盘搜索。
+- [飞猪网盘搜索](https://www.feizhupan.com/#/)：飞猪网盘搜索。
 
 
 ##### 流量设备检测规则相关汇总
@@ -526,6 +534,8 @@
 - [WxAppUnpacker](https://github.com/huan-cdm/Wechat-small-program-decompile)：微信小程序反编译工具。
 - [微信开发者工具](https://developers.weixin.qq.com/miniprogram/dev/devtools/stable.html)：微信开发者工具调试微信小程序。
 - [Proxifier](https://pan.baidu.com/s/1UHF_KsOqJpsY2P8-uHauoA?pwd=8hk9)：微信小程序抓包用到的代理客户端。
+- [‌Reqable](https://github.com/reqable/reqable-app)：‌Reqable是一款多功能的API开发和网络流量分析工具‌，支持HTTP/HTTPS/WebSocket等协议抓包、调试和测试，提供桌面端与移动端协同功能，适用于开发者和测试人员（github下载地址）。
+- [‌Reqable](https://reqable.com/zh-CN/)：‌Reqable是一款多功能的API开发和网络流量分析工具‌，支持HTTP/HTTPS/WebSocket等协议抓包、调试和测试，提供桌面端与移动端协同功能，适用于开发者和测试人员（官网下载地址）。
 
 
 
