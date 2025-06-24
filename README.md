@@ -267,13 +267,35 @@
 
 
 
-##### 指纹识别工具汇总
+##### 指纹识别汇总
 - [TideFinger](https://github.com/TideSec/TideFinger)：TideFinger——指纹识别小工具，汲取整合了多个web指纹库，结合了多种指纹检测方法，让指纹检测更快捷、准确。
+- [潮汐在线指纹识别](http://finger.tidesec.com/)：潮汐在线指纹识别。
 - [云悉](https://www.yunsee.cn/)：云悉WEB资产梳理-在线CMS指纹识别平台。
 - [ObserverWard](https://github.com/0x727/ObserverWard)：侦查守卫(ObserverWard)指纹识别工具。
 - [WhatWeb](https://github.com/urbanadventurer/WhatWeb)：一个web应用程序指纹识别工具。
 - [Glass](https://github.com/s7ckTeam/Glass)：Glass是一款针对资产列表的快速指纹识别工具，通过调用Fofa/ZoomEye/Shodan/360等api接口快速查询资产信息并识别重点资产的指纹，也可针对IP/IP段或资产列表进行快速的指纹识别。
  - [EHole](https://github.com/EdgeSecurityTeam/EHole)：EHole是一款对资产中重点系统指纹识别的工具，在红队作战中，信息收集是必不可少的环节，如何才能从大量的资产中提取有用的系统(如OA、VPN、Weblogic...)。EHole旨在帮助红队人员在信息收集期间能够快速从C段、大量杂乱的资产中精准定位到易被攻击的系统，从而实施进一步攻击。
+ - [Webfinger](https://github.com/se55i0n/Webfinger)：Web指纹识别工具。
+ - [CMSeek](https://github.com/Tuhinshubhra/CMSeek)：CMS检测和利用套件-扫描WordPress、Joomla、Drupal以及超过180种其他CMS。
+  
+
+
+
+
+##### CDN检测工具
+- [站长工具多地ping](https://ping.chinaz.com/)：站长工具多地ping。
+- [全球多地ping](https://www.itdog.cn/ping/)：全球多地ping。
+- [多地ping](https://www.17ce.com/)：多地ping。
+- [域名查询IP](https://site.ip138.com/)：对多地ping和IP38查询到的地址是一样的并且只有1个IP证明不存在CDN，反之存在CDN。
+- [nslookup查询](https://tool.chinaz.com/nslookup)：nslookup查询，存在1个IP证明不存在CDN,反之存在CDN。
+- [全球多地ping](https://tools.ipip.net/cdn.php)：全球多地ping。
+- [国外域名查询IP](https://get-site-ip.com/)：国外域名查询IP。
+
+
+
+
+##### 旁站检测汇总
+- [站长工具旁站查询](https://tool.chinaz.com/same/)：站长工具旁站查询。
 
 
 
@@ -300,6 +322,7 @@
 - [nmap](https://github.com/nmap/nmap)：端口扫描。
 - [TXPortMap](https://github.com/4dogs-cn/TXPortMap)：端口扫描工具。
 - [masnmapscan-V1.0](https://github.com/hellogoldsnakeman/masnmapscan-V1.0)：一款用于资产探测的端口扫描工具。整合了masscan和nmap两款扫描器，masscan扫描端口，nmap扫描端口对应服务，二者结合起来实现了又快又好地扫描。
+- [在线端口扫描](https://tool.chinaz.com/port)：在线端口扫描。
 
 
 
@@ -536,6 +559,8 @@
 - [Proxifier](https://pan.baidu.com/s/1UHF_KsOqJpsY2P8-uHauoA?pwd=8hk9)：微信小程序抓包用到的代理客户端。
 - [‌Reqable](https://github.com/reqable/reqable-app)：‌Reqable是一款多功能的API开发和网络流量分析工具‌，支持HTTP/HTTPS/WebSocket等协议抓包、调试和测试，提供桌面端与移动端协同功能，适用于开发者和测试人员（github下载地址）。
 - [‌Reqable](https://reqable.com/zh-CN/)：‌Reqable是一款多功能的API开发和网络流量分析工具‌，支持HTTP/HTTPS/WebSocket等协议抓包、调试和测试，提供桌面端与移动端协同功能，适用于开发者和测试人员（官网下载地址）。
+- [最新版微信小程序抓包](https://mp.weixin.qq.com/s/Dq7LAop1KRFh7jEAHbpcoA)：最新版微信小程序抓包。
+- [小程序信息收集](https://mp.weixin.qq.com/s/YsIQYCU0oe1VyP-Q7Iiq5A)：小程序信息收集。
 
 
 
