@@ -118,6 +118,7 @@
 - [T Wiki](https://wiki.teamssix.com/about/)：云安全漏洞测试SOP文档。
 - [行云管家](https://yun.cloudbility.com/)：行云管家。
 - [ossx](https://github.com/sourcexu7/ossx)：存储桶遍历漏洞利用脚本。
+- [Docker容器挂载目录原理](https://blog.csdn.net/wang2leee/article/details/134453249)：Docker容器挂载目录原理。
 
 
 
@@ -694,6 +695,7 @@
 - [SummaryOf2022](https://github.com/abc123info/SummaryOf2022)：2022年ABC123公众号年刊 2023年ABC123公众号年刊。
 - [SDL序列课程](https://mp.weixin.qq.com/s/-PkwA5Hd4m82jKsgo-d86w)：SDL第一阶段的总结，还是简单一点的总结吧，主要围绕了从理论到实战，从不同的角度来看待SDL的建设存在的问题点、风险点、解决点，一共发表了13篇文章，大家可以具体看对应的内容。
 - [HackReport](https://github.com/awake1t/HackReport)：渗透测试报告/资料文档/渗透经验文档/安全书籍。
+- [奇安信知识库](https://kb.qianxin.com/)：奇安信知识库。
 
 
 
@@ -749,10 +751,15 @@
 
 
 
+##### JWT相关汇总
+- [jwt在线加解密](https://jwt.io/)：jwt加解密网站。
+- [jwt文章](https://www.cnblogs.com/xiaozi/p/12005929.html)：jwt文章。
+- [jwt破解工具](https://github.com/ticarpi/jwt_tool)：jwt破解工具。
+
+
 
 ##### 在线加解密网站汇总
 - [BCryptDecode](https://github.com/wolaile08/BCryptDecode)：BCrypt解密爆破工具。
-- [jwt](https://jwt.io/)：jwt加解密网站。
 - [cmd5](https://cmd5.com/)：md5加解密网站。
 - [somd5](https://www.somd5.com/)：md5加解密网站。
 - [unicode](https://tool.chinaz.com/tools/unicode.aspx)：unicode编码转换网站。
