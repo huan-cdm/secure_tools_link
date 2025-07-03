@@ -562,6 +562,8 @@
 - [‌Reqable](https://reqable.com/zh-CN/)：‌Reqable是一款多功能的API开发和网络流量分析工具‌，支持HTTP/HTTPS/WebSocket等协议抓包、调试和测试，提供桌面端与移动端协同功能，适用于开发者和测试人员（官网下载地址）。
 - [最新版微信小程序抓包](https://mp.weixin.qq.com/s/Dq7LAop1KRFh7jEAHbpcoA)：最新版微信小程序抓包。
 - [小程序信息收集](https://mp.weixin.qq.com/s/YsIQYCU0oe1VyP-Q7Iiq5A)：小程序信息收集。
+- [微信历史版本](https://github.com/tom-snow/wechat-windows-versions)：微信历史版本。
+- [WeChatOpenDevTool](https://github.com/JaveleyQAQ/WeChatOpenDevTools-Python)：微信小程序强制开启开发者工具。
 
 
 
@@ -752,9 +754,11 @@
 
 
 ##### JWT相关汇总
-- [jwt在线加解密](https://jwt.io/)：jwt加解密网站。
-- [jwt文章](https://www.cnblogs.com/xiaozi/p/12005929.html)：jwt文章。
-- [jwt破解工具](https://github.com/ticarpi/jwt_tool)：jwt破解工具。
+- [JWT在线加解密](https://jwt.io/)：JWT在线加解密。
+- [JWT攻击手册](https://www.cnblogs.com/xiaozi/p/12005929.html)：JWT攻击手册。
+- [JWT破解工具](https://github.com/ticarpi/jwt_tool)：JWT破解工具。
+- [JWT认证共计详情总结](https://www.cnblogs.com/backlion/p/16699442.html)：JWT认证共计详情总结。
+- [JWT靶场地址](https://demo.sjoerdlangkemper.nl/jwtdemo/hs256.php)：JWT靶场地址。
 
 
 
