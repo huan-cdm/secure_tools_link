@@ -755,6 +755,7 @@
 
 ##### JWT相关汇总
 - [JWT在线加解密](https://jwt.io/)：JWT在线加解密。
+- [JWT在线加解密](https://www.bejson.com/jwt/)：JWT在线加解密（推荐）。
 - [JWT攻击手册](https://www.cnblogs.com/xiaozi/p/12005929.html)：JWT攻击手册。
 - [JWT破解工具](https://github.com/ticarpi/jwt_tool)：JWT破解工具。
 - [JWT认证共计详情总结](https://www.cnblogs.com/backlion/p/16699442.html)：JWT认证共计详情总结。
