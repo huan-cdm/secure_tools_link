@@ -101,6 +101,7 @@
 - [ysoserial](https://github.com/frohoff/ysoserial)：Java反序列漏洞利用工具。
 - [JNDInjector](https://github.com/rebeyond/JNDInjector)：一个高度可定制化的JNDI和Java反序列化利用工具。
 - [JNDIExploit](https://github.com/zzwlpx/JNDIExploit)：A malicious LDAP server for JNDI injection attacks。
+- [ysoserial](https://github.com/frohoff/ysoserial)：java反序列化有效负载的项目。
 
 
 
@@ -564,6 +565,7 @@
 - [小程序信息收集](https://mp.weixin.qq.com/s/YsIQYCU0oe1VyP-Q7Iiq5A)：小程序信息收集。
 - [微信历史版本](https://github.com/tom-snow/wechat-windows-versions)：微信历史版本。
 - [WeChatOpenDevTool](https://github.com/JaveleyQAQ/WeChatOpenDevTools-Python)：微信小程序强制开启开发者工具。
+- [自动小程序反编译并匹配敏感信息](https://github.com/fasnow/fine)：自动小程序反编译并匹配敏感信息。
 
 
 
