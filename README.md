@@ -15,11 +15,12 @@
 
 
 ##### BurpSuite插件汇总
+- [Fiora](https://github.com/bit4woo/Fiora)：该项目为PoC框架nuclei提供图形界面，实现快速搜索、一键运行等功能，提升nuclei的使用体验。
 - [autoDecoder](https://github.com/f0ng/autoDecoder)：工具本身就自带了一些常见的加解密算法，除此之外复杂的可以调接口。
 - [TsojanScan](https://github.com/Tsojan/TsojanScan)：一个集成的BurpSuite漏洞探测插件，它会以最少的数据包请求来准确检测各漏洞存在与否，你只需要这一个足矣。
 - [JsRouteScan](https://github.com/F6JO/JsRouteScan)：正则匹配获取响应中的路由进行探测或递归目录探测的burp插件。
 - [BurpAPIFinder](https://github.com/shuanx/BurpAPIFinder/)：攻防演练过程中，我们通常会用浏览器访问一些资产，但很多未授权/敏感信息/越权隐匿在已访问接口过html、JS文件等，该插件能让我们发现未授权/敏感信息/越权/登陆接口等。
-- [BurpShiroPassiveScan](https://github.com/pmiaowu/BurpShiroPassiveScan)：一款基于BurpSuite的被动式shiro检测插件。
+- [BurpShiroPassiveScan](https://github.com/pmiaowu/BurpShiroPassiveScan)：一款基于BurpSuite的被动式shiro检测插件✳。
 - [turbo-intruder](https://github.com/PortSwigger/turbo-intruder)：Turbo  Intruder 是一个 Burp Suite 扩展插件， 用于发送大量 HTTP 请求并分析结果，它旨在处理那些需要异常速度、持续时间或复杂性的攻击来补充 Burp  Intruder，可以发现条件竞争和短信轰炸等漏洞。 
 - [captcha-killer-modified](https://github.com/f0ng/captcha-killer-modified)：一款适用于Burp的验证码识别插件。
 - [HackBar](https://github.com/d3vilbug/HackBar)：HackBar是burp插件，支持很多便携功能，SQL注入payload、XSS payload、常见LFI漏洞、web shell payload和反弹shell payload。
@@ -33,7 +34,7 @@
 - [software-vulnerability-scanner](https://github.com/PortSwigger/software-vulnerability-scanner)：Software Vulnerability Scanner 是一个扫描器增强插件，它会检查网站的一些软件版本信息，然后通过 vulners.com 上的漏洞数据库来查询相应的 CVE 编号，找到的结果会显示在漏洞面板上，不用我们自己手动去查找某个版本的 CVE 。
 - [BurpJSLinkFinder](https://github.com/InitRoot/BurpJSLinkFinder)：插件很好的兼容进了BURP里面，随着你的点击自动进行收集JS里面的路径。
 - [jython-standalone](https://repo1.maven.org/maven2/org/python/jython-standalone/2.7.3/jython-standalone-2.7.3.jar)：Jython是一个将Python语言与Java虚拟机集成的工具，burp中安装python编写插件。
-- [FastjsonScan](https://github.com/Maskhe/FastjsonScan)：被动扫描fastjson漏洞。
+- [FastjsonScan](https://github.com/Maskhe/FastjsonScan)：被动扫描fastjson漏洞✳。
 - [BurpFastJsonScan](https://github.com/pmiaowu/BurpFastJsonScan)：一款基于BurpSuite的被动式FastJson检测插件。
 - [log4j2burpscanner](https://github.com/f0ng/log4j2burpscanner)：被动发现log4j2 RCE漏洞。
 - [chunked-coding-converter](https://github.com/c0ny1/chunked-coding-converter)：分块传输绕WAF插件。
@@ -68,7 +69,6 @@
 - [yakit](https://github.com/yaklang/yakit)：综合漏洞扫描工具、单兵作战武器库、可以代替BurpSuite。
 - [oracleShell](https://github.com/jas502n/oracleShell)：oracleShell oracle 数据库命令执行、支持普通、DBA、注入3种模式。
 - [nuclei](https://github.com/projectdiscovery/nuclei)：Nuclei 用于基于模板跨目标发送请求，从而实现零误报并提供对大量主机的快速扫描。Nuclei 提供对各种协议的扫描，包括 TCP、DNS、HTTP、SSL、File、Whois、Websocket、Headless 等。凭借强大而灵活的模板，Nuclei 可用于对各种安全检查进行建模。
-- [Fiora](https://github.com/bit4woo/Fiora)：该项目为PoC框架nuclei提供图形界面，实现快速搜索、一键运行等功能，提升nuclei的使用体验。
 - [nessus](https://mp.weixin.qq.com/s/JnIQL8FeYcqWR4zES56K_g)：综合漏洞扫描工具。
 - [awvs](https://mp.weixin.qq.com/s/IclMKi0mZj75gbntntat8A)：综合漏洞扫描工具。
 - [scan4all](https://github.com/GhostTroops/scan4all)：综合漏洞扫描工具。
@@ -244,6 +244,7 @@
 - [sublimetext](https://www.sublimetext.com/)：文本编辑器。
 - [IntelliJ IDEA](https://www.jetbrains.com/zh-cn/idea/download/?section=windows)：代码编辑器，动态调试。
 - [MOMO CODE SEC INSPECTOR](https://www.jetbrains.com/zh-cn/idea/download/?section=windows)：IntelliJ IDEA代码审计插件，在插件商店下载。
+- [bandit](https://github.com/PyCQA/bandit)：python代码审计工具。
 
 
 
@@ -611,6 +612,8 @@
 - [swagger-exp](https://github.com/lijiejie/swagger-exp)： Swagger REST API 信息泄露利用工具。
 - [api-scanner](https://pentest-tools.com/website-vulnerability-scanning/api-scanner)：
 - [SoapUI](https://www.soapui.org/downloads/soapui/)：SoapUI可以对webservice、REST和 http 接口进行相关的测试。
+- [swagger-hack](https://github.com/jayus0821/swagger-hack)：自动化爬取并自动测试所有swagger接口。
+- [ReadyAPI接口测试工具](https://www.filehorse.com/download-readyapi/)：ReadyAPI接口测试工具。
 
 
 
@@ -641,6 +644,7 @@
 - [portswigger](https://portswigger.net/web-security)：BurpSuite官方靶场。
 - [雷池WAF测试](https://demo.waf-ce.chaitin.cn/)：雷池WAF测试。
 - [encrypt-labs](https://github.com/SwagXz/encrypt-labs)：前端加密对抗练习靶场，包含非对称加密、对称加密、加签以及禁止重放的测试场景，比如AES、DES、RSA，用于渗透测试练习。
+- [vulfocus](https://vulfocus.cn/#/login?redirect=%2Fdashboard)：vulfocus靶场。
 
 
 
