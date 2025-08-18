@@ -102,7 +102,7 @@
 - [JNDInjector](https://github.com/rebeyond/JNDInjector)：一个高度可定制化的JNDI和Java反序列化利用工具。
 - [JNDIExploit](https://github.com/zzwlpx/JNDIExploit)：A malicious LDAP server for JNDI injection attacks。
 - [ysoserial](https://github.com/frohoff/ysoserial)：java反序列化有效负载的项目。
-
+- [JNDI-Injection-Exploit](https://github.com/welk1n/JNDI-Injection-Exploit)：JNDI注入测试工具。
 
 
 
