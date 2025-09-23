@@ -549,8 +549,17 @@
 - [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)：APP漏洞扫描平台。
 - [jadx-gui](https://github.com/skylot/jadx)：apk反编译工具。
 - [jd-gui](https://java-decompiler.github.io/)：Java反编译工具。
-- [PKID](https://pan.baidu.com/s/1OVm7BPEitIMZLPzSQXSRcg?pwd=7vk8)：apk查壳工具。
+- [PKID](https://pan.baidu.com/s/1OVm7BPEitIMZLPzSQXSRcg?pwd=7vk8)：APP查壳工具。
 - [Xposed模块仓库](https://modules.lsposed.org/)：Xposed模块仓库。
+- [BlackDex](https://github.com/CodingGay/BlackDex)：APP脱壳工具。
+- [ApkEditor](https://github.com/Kevin2021-jk/ApkEditor)：安卓修改大师。
+
+
+
+
+
+##### ASP.NET
+- [ILSpy](https://github.com/icsharpcode/ILSpy/)：反编译工具。
 
 
 
@@ -645,6 +654,7 @@
 - [雷池WAF测试](https://demo.waf-ce.chaitin.cn/)：雷池WAF测试。
 - [encrypt-labs](https://github.com/SwagXz/encrypt-labs)：前端加密对抗练习靶场，包含非对称加密、对称加密、加签以及禁止重放的测试场景，比如AES、DES、RSA，用于渗透测试练习。
 - [vulfocus](https://vulfocus.cn/#/login?redirect=%2Fdashboard)：vulfocus靶场。
+- [harmonyTarget](https://github.com/mistrainn/harmonyTarget)：鸿蒙客户端测试靶场。
 
 
 
