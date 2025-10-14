@@ -218,6 +218,7 @@
 - [SAMInside](https://www.downza.cn/soft/271449.html)：Saminside是一个暴力破解工具,可以通过读取本地帐户的lmhash值,对hash值进行暴力破解,从而得到真正的登录密码。
 - [MaLoader](https://github.com/lv183037/MaLoader)：一款基于Tauri+Rust的免杀马生成工具。
 - [e0e1-config](https://github.com/eeeeeeeeee-code/e0e1-config/)：支持firefox、ie和chromium内核浏览器、Windows记事本和Notepad++、向日葵、ToDesk、Navicat 、DBeaver 、FinalShell 、Xshell和Xftp、FileZilla 、winscp等密码一键提取。
+- [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec)：渗透测试网络的瑞士军刀，hash传递等。
 
 
 
@@ -496,6 +497,7 @@
 - [绿盟威胁分析中心沙箱](https://poma.nsfocus.com/)：绿盟威胁分析中心沙箱。
 - [ANY.RUN](https://app.any.run/)：交互式恶意软件分析。
 - [安恒云沙箱](https://sandbox.dbappsecurity.com.cn/)：安恒云沙箱。
+- [阿里云WebShell检测平台](https://ti.aliyun.com/#/webshell)：阿里云WebShell检测平台。
 
 
 
