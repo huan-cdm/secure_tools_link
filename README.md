@@ -600,6 +600,7 @@
 - [字典](https://github.com/coffinxp/payloads)：安全测试常用字典。
 - [Fuzzing-Dicts](https://github.com/3had0w/Fuzzing-Dicts)：安全测试常用字典。
 - [Fuzz_dic](https://github.com/7hang/Fuzz_dic)：参数 | 字典 collections。
+- [jwt-secrets](https://github.com/wallarm/jwt-secrets/)：JWT密钥爆破字典。
 
 
 
