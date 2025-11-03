@@ -219,6 +219,7 @@
 - [MaLoader](https://github.com/lv183037/MaLoader)：一款基于Tauri+Rust的免杀马生成工具。
 - [e0e1-config](https://github.com/eeeeeeeeee-code/e0e1-config/)：支持firefox、ie和chromium内核浏览器、Windows记事本和Notepad++、向日葵、ToDesk、Navicat 、DBeaver 、FinalShell 、Xshell和Xftp、FileZilla 、winscp等密码一键提取。
 - [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec)：渗透测试网络的瑞士军刀，hash传递等。
+- [Sunflower_get_Password](https://github.com/wafinfo/Sunflower_get_Password)：一款针对向日葵的识别码和验证码提取工具。
 
 
 
