@@ -726,6 +726,7 @@
 - [PeiQi文库](https://peiqi.wgpsec.org/)：漏洞文库。
 - [POC](https://github.com/wy876/POC)：漏洞文库。
 - [web-sec](https://github.com/ReAbout/web-sec)：WEB安全手册(红队安全技能栈)，漏洞理解，漏洞利用，代码审计和渗透测试总结。【持续更新】。
+- [最新漏洞情报](https://rss.biu.life/)：最新漏洞情报。
 
 
 
