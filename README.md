@@ -50,6 +50,7 @@
 - [BurpFingerPrint](https://github.com/shuanx/BurpFingerPrint)：攻击过程中，我们通常会用浏览器访问一些资产，该BurpSuite插件实现被动指纹识别+网站提取链接+OA爆破，可帮助我们发现更多资产。
 - [reflector](https://github.com/elkokc/reflector)：BurpSuite反射XSS插件。
 - [BucketVulTools](https://github.com/libaibaia/BucketVulTools)：Burpsuite存储桶配置不当漏洞检测插件。
+- [DetSql](https://github.com/saoshao/DetSql)：Burp插件，快速探测可能存在SQL注入的请求并标记，提高测试效率。
 
 
 
@@ -103,6 +104,7 @@
 - [JNDIExploit](https://github.com/zzwlpx/JNDIExploit)：A malicious LDAP server for JNDI injection attacks。
 - [ysoserial](https://github.com/frohoff/ysoserial)：java反序列化有效负载的项目。
 - [JNDI-Injection-Exploit](https://github.com/welk1n/JNDI-Injection-Exploit)：JNDI注入测试工具。
+- [JMET](https://github.com/matthiaskaiser/jmet)：ActiveMQ反序列化漏洞利用工具。
 
 
 
@@ -727,6 +729,7 @@
 - [POC](https://github.com/wy876/POC)：漏洞文库。
 - [web-sec](https://github.com/ReAbout/web-sec)：WEB安全手册(红队安全技能栈)，漏洞理解，漏洞利用，代码审计和渗透测试总结。【持续更新】。
 - [最新漏洞情报](https://rss.biu.life/)：最新漏洞情报。
+- [Vulnerability-Wiki](https://github.com/Threekiii/Vulnerability-Wiki)：一个基于 docsify 快速部署 Awesome-POC 漏洞文档的项目。
 
 
 
