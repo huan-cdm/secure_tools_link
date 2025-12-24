@@ -125,6 +125,7 @@
 - [BucketTool](https://github.com/libaibaia/BucketTool)：浏览器存储桶配置漏洞检测插件。
 - [ossx](https://github.com/sourcexu7/ossx)：存储桶遍历漏洞利用脚本。
 - [kubectl](https://dl.k8s.io/release/v1.35.0/bin/windows/amd64/kubectl.exe)：kubectl.exe 是 Kubernetes 的"瑞士军刀"，无论是开发人员部署应用，还是运维人员管理集群，都离不开它。掌握 kubectl 是 Kubernetes 使用者的基本技能。
+- [etcdctl](https://github.com/etcd-io/etcd/)：etcdctl.exe 是 etcd（Kubernetes 的"大脑"数据库）的命令行客户端工具，用于直接操作 etcd 中的原始数据。
 
 
 
