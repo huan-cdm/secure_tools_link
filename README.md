@@ -602,6 +602,12 @@
 
 
 
+##### Chrome浏览器插件
+- [AntiDebug_Breaker](https://github.com/0xsdeo/AntiDebug_Breaker)：AntiDebug_Breaker 是一款基于 Hook_JS 库开发的 Chrome 浏览器插件，专为前端 JavaScript 逆向分析和安全测试设计，核心功能是绕过网页的反调试机制并辅助收集 Vue 框架信息。
+
+
+
+
 ##### 暴力破解字典汇总
 - [fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts)：安全测试常用字典。
 - [PentesterSpecialDict](https://github.com/a3vilc0de/PentesterSpecialDict)：安全测试常用字典。
