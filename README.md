@@ -570,6 +570,7 @@
 
 ##### .NET反编译工具
 - [ILSpy](https://github.com/icsharpcode/ILSpy/)：反编译工具。
+- [ILSpy](https://github.com/dnSpy/)：.NET语言编译和反编译工具。
 
 
 
