@@ -587,6 +587,7 @@
 - [微信历史版本](https://github.com/tom-snow/wechat-windows-versions)：微信历史版本。
 - [WeChatOpenDevTool](https://github.com/JaveleyQAQ/WeChatOpenDevTools-Python)：微信小程序强制开启开发者工具。
 - [自动小程序反编译并匹配敏感信息](https://github.com/fasnow/fine)：自动小程序反编译并匹配敏感信息。
+- [微信小程序反编译工具](https://github.com/wux1an/wxapkg)：微信小程序反编译工具，.wxapkg 文件扫描 + 解密 + 解包工具。
 
 
 
