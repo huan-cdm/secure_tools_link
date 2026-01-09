@@ -568,9 +568,10 @@
 
 
 
-##### .NET反编译工具
-- [ILSpy](https://github.com/icsharpcode/ILSpy/)：反编译工具。
+##### 反编译工具
+- [ILSpy](https://github.com/icsharpcode/ILSpy/)：.NET反编译工具。
 - [dnSpy](https://github.com/dnSpy/)：.NET语言编译和反编译工具。
+- [ZeroEye](https://github.com/ImCoriander/ZeroEye)：自动化找白文件，用于扫描 EXE 文件的导入表，列出导入的DLL文件，并筛选出非系统DLL，符合条件的文件将被复制到特定的 X64 或 X86 文件夹。
 
 
 
