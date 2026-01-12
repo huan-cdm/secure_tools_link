@@ -51,6 +51,7 @@
 - [reflector](https://github.com/elkokc/reflector)：BurpSuite反射XSS插件。
 - [BucketVulTools](https://github.com/libaibaia/BucketVulTools)：Burpsuite存储桶配置不当漏洞检测插件。
 - [DetSql](https://github.com/saoshao/DetSql)：Burp插件，快速探测可能存在SQL注入的请求并标记，提高测试效率。
+- [DouSql](https://github.com/darkfiv/DouSql/)：DouSql 是基于Xia Sql二次开发的高度自定义化SQL注入检测插件，专为安全研究人员和渗透测试工程师打造。
 
 
 
