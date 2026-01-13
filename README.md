@@ -569,10 +569,11 @@
 
 
 
-##### 反编译工具
+##### 内网渗透研究
 - [ILSpy](https://github.com/icsharpcode/ILSpy/)：.NET反编译工具。
 - [dnSpy](https://github.com/dnSpy/)：.NET语言编译和反编译工具。
 - [ZeroEye](https://github.com/ImCoriander/ZeroEye)：自动化找白文件，用于扫描 EXE 文件的导入表，列出导入的DLL文件，并筛选出非系统DLL，符合条件的文件将被复制到特定的 X64 或 X86 文件夹。
+- [AheadLib-x86-x64](https://github.com/strivexjun/AheadLib-x86-x64)：DLL劫持源代码生成工具，支持 x86/x64 架构。
 
 
 
